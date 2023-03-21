@@ -16,6 +16,10 @@ import torch.optim as optim
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 import torch.utils.data.distributed as distributed
+import torch
+import torch.distributed as dist
+from torch.utils.data import DataLoader
+from torch.utils.data.distributed import DistributedSampler
 
 # Set the number of GPUs to use
 num_gpus = torch.cuda.device_count()
@@ -43,6 +47,9 @@ net = Net()
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)
 
+# initialize the process group
+dist.init_process_group(backend='nccl', init_method='env://')
+
 # Load the data
 train_set = datasets.CIFAR10(root='./data', train=True, download=True, transform=transforms.ToTensor())
 train_sampler = distributed.DistributedSampler(train_set)
@@ -58,6 +65,7 @@ train_sampler.set_epoch(0)
 
 # Train the network
 for epoch in range(10):
+    print("epoch starting"+str(epoch))
     train_sampler.set_epoch(epoch)
     for data, target in train_loader:
         data, target = data.cuda(non_blocking=True), target.cuda(non_blocking=True)

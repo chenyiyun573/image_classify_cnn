@@ -6,16 +6,12 @@ import torch.distributed as dist
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
 
-from model import Model
+from model import MyModel
 
-# define the model
-class MyModel(nn.Module):
-    def __init__(self):
-        super(MyModel, self).__init__()
-        # Define your layers here
-
-    def forward(self, x):
-        # Define the forward pass of your network
+node_rank = 0 # TODO node_rank is the id of worker, need to be modified for each worker.
+num_nodes = 2 # TODO num_nodes is the total number of workers
+num_epochs = 100
+log_interval = 100
 
 # set up distributed training environment
 dist.init_process_group(backend='gloo', init_method='tcp://master_ip_address:port',

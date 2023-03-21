@@ -1,8 +1,15 @@
 import subprocess
 import torch.distributed as dist
+import torch.nn as nn
+import torch.optim as optim
+from model import MyModel
 
 # set up distributed training environment
 num_nodes = 4
+num_epochs = 100
+
+
+
 port = 1234
 dist.init_process_group(backend='gloo', init_method=f'tcp://localhost:{port}', world_size=num_nodes)
 
@@ -21,9 +28,9 @@ model = nn.parallel.DistributedDataParallel(model)
 for param in model.parameters():
     dist.broadcast(param.data, src=0)
 
+
 # training loop (master node can also participate in training)
 for epoch in range(num_epochs):
     # do whatever you need to coordinate training
-
-# clean up distributed training environment
-dist.destroy_process_group()
+    # clean up distributed training environment
+    dist.destroy_process_group()
