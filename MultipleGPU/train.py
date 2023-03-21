@@ -1,3 +1,23 @@
+"""
+    In this code, we define a simple convolutional neural network and train it on the CIFAR-10 dataset. 
+    We use the nn.DataParallel module to parallelize the training on multiple GPUs. 
+    We also use the torch.utils.data.distributed.DistributedSampler to distribute the data across the GPUs.
+
+    To run this code on multiple GPUs, you can simply use the CUDA_VISIBLE_DEVICES environment variable to specify which GPUs to use. 
+    For example, to use the first two GPUs, you can run:
+        $ CUDA_VISIBLE_DEVICES=0,1 python train.py
+    This will run the training code on the first two GPUs. 
+    If you have more GPUs, you can add them to the list separated by commas.
+"""
+
+
+
+
+
+
+
+
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
