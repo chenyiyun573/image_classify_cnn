@@ -10,14 +10,6 @@
     If you have more GPUs, you can add them to the list separated by commas.
 """
 
-
-
-
-
-
-
-
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
