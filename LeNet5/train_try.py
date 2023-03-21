@@ -8,6 +8,8 @@ from torch.optim import SGD
 from torch.utils.data import DataLoader
 from torchvision.transforms import ToTensor
 
+from torch.utils.tensorboard import SummaryWriter
+
 if __name__ == '__main__':
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
     print('the device is '+device)
@@ -22,6 +24,9 @@ if __name__ == '__main__':
     loss_fn = CrossEntropyLoss()
     all_epoch = 100
     prev_acc = 0
+
+    # create a SummaryWriter object with log directory
+    writer = SummaryWriter(log_dir='./logs')
 
     for current_epoch in range(all_epoch):
         model.train()
@@ -58,5 +63,10 @@ if __name__ == '__main__':
         if np.abs(acc - prev_acc) < 1e-4:
             break
         prev_acc = acc
-    
+
+        # add histogram of parameters to the SummaryWriter
+        for name, param in model.named_parameters():
+            writer.add_histogram(name, param.clone().cpu().data.numpy(), current_epoch)
+
+    writer.close()
     print("Model finished training")
