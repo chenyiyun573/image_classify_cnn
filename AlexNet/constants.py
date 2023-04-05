@@ -1,0 +1,1 @@
+tiny_imagenet_path = '/home/ubuntu/dataset/tiny-imagenet-200'

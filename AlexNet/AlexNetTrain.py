@@ -9,6 +9,7 @@ from train_model import train_model
 from test_model import test_model
 from AlexNet import alexnet
 
+from constants import tiny_imagenet_path
 
 data_transforms = {
     'train': transforms.Compose([
@@ -22,7 +23,7 @@ data_transforms = {
     ])
 }
 
-data_dir = 'tiny-imagenet-200/'
+data_dir = tiny_imagenet_path+'/'
 num_workers = {
     'train' : 100,
     'val'   : 0,

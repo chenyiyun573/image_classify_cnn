@@ -6,6 +6,8 @@ from torch.utils.data import DataLoader
 from torchvision.datasets import ImageFolder
 import torchvision.transforms as transforms
 
+from constants import tiny_imagenet_path
+
 # Define data transformations
 transform = transforms.Compose([
     transforms.RandomResizedCrop(64),
@@ -15,9 +17,9 @@ transform = transforms.Compose([
 ])
 
 # Load data
-train_data = ImageFolder('tiny-imagenet-200/train', transform=transform)
+train_data = ImageFolder(tiny_imagenet_path+'/train', transform=transform)
 train_loader = DataLoader(train_data, batch_size=64, shuffle=True, num_workers=4)
-val_data = ImageFolder('tiny-imagenet-200/val', transform=transform)
+val_data = ImageFolder(tiny_imagenet_path+'/val', transform=transform)
 val_loader = DataLoader(val_data, batch_size=64, shuffle=False, num_workers=4)
 
 # Define model
