@@ -21,11 +21,11 @@ learning_rate = 0.001
 momentum = 0.9
 num_classes = 200
 num_workers = 16
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+# device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 def train(rank, world_size):
     torch.manual_seed(0)
-
+    device = rank
     # initialize distributed process group
     dist.init_process_group(backend='nccl', init_method='tcp://127.0.0.1:23456', rank=rank, world_size=world_size)
 
@@ -65,6 +65,7 @@ def train(rank, world_size):
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.SGD(model.parameters(), lr=learning_rate, momentum=momentum)
 
+    print('ready to train')
     # train the model
     for epoch in range(epochs):
         # set the model to train mode
@@ -87,13 +88,11 @@ def train(rank, world_size):
             train_loss += loss.item() * len(inputs)
             train_acc += (outputs.max(1)[1] == targets).sum().item()
 
-            print("for debug: one batch done")
 
         train_loss /= num_samples_train
         train_acc /= num_samples_train
 
         # synchronize the model
-        print("fordebug synchronized onece")
         dist.barrier()
 
         # compute all reduce mean of the loss and accuracy
