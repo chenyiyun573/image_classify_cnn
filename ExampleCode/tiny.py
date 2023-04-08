@@ -3,41 +3,47 @@ import torchvision
 import torchvision.transforms as transforms
 import torch.optim as optim
 import torch.nn as nn
+import torch.nn.functional as F
+
+from AlexNet import AlexNet
+from constants import dataset_path
 
 # Define transforms for the dataset
 transform = transforms.Compose(
-    [transforms.Resize((224, 224)),
-     transforms.RandomHorizontalFlip(),
+    [#transforms.Resize((224, 224)),
+     #transforms.RandomHorizontalFlip(),
      transforms.ToTensor(),
-     transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))])
+     #transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))
+     ])
 
 # Load the dataset
-trainset = torchvision.datasets.ImageFolder(root='/home/ubuntu/dataset/tiny-imagenet-200/train', transform=transform)
-testset = torchvision.datasets.ImageFolder(root='/home/ubuntu/dataset/tiny-imagenet-200/test', transform=transform)
+trainset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/train', transform=transform)
+testset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/val', transform=transform)
 
 # Define the dataloaders
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=64, shuffle=True)
 testloader = torch.utils.data.DataLoader(testset, batch_size=64, shuffle=False)
 
-# Define the model
-class Net(nn.Module):
-    def __init__(self):
-        super(Net, self).__init__()
-        self.conv1 = nn.Conv2d(3, 32, 3)
-        self.pool = nn.MaxPool2d(2, 2)
-        self.conv2 = nn.Conv2d(32, 64, 3)
-        self.fc1 = nn.Linear(64 * 26 * 26, 512)
-        self.fc2 = nn.Linear(512, 200)
+
+class SimpleNet(nn.Module):
+    def __init__(self, num_classes):
+        super(SimpleNet, self).__init__()
+        self.conv1 = nn.Conv2d(3, 32, kernel_size=3, padding=1)
+        self.conv2 = nn.Conv2d(32, 64, kernel_size=3, padding=1)
+        self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
+        self.fc1 = nn.Linear(64 * 16 * 16, 512)
+        self.fc2 = nn.Linear(512, num_classes)
 
     def forward(self, x):
-        x = self.pool(nn.functional.relu(self.conv1(x)))
-        x = self.pool(nn.functional.relu(self.conv2(x)))
-        x = x.view(-1, 64 * 26 * 26)
-        x = nn.functional.relu(self.fc1(x))
+        x = self.pool(F.relu(self.conv1(x)))
+        x = self.pool(F.relu(self.conv2(x)))
+        x = x.view(x.size(0), -1)
+        x = F.relu(self.fc1(x))
         x = self.fc2(x)
         return x
 
-model = Net()
+
+model = AlexNet(200)
 
 # Set the model to training mode
 model.train()

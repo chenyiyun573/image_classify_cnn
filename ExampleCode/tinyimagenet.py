@@ -5,6 +5,8 @@ import torch.optim as optim
 import torch.nn as nn
 from efficientnet_pytorch import EfficientNet
 
+from constants import dataset_path
+
 # Define transforms for the dataset
 transform = transforms.Compose(
     [transforms.Resize((224, 224)),
@@ -13,8 +15,8 @@ transform = transforms.Compose(
      transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))])
 
 # Load the dataset
-trainset = torchvision.datasets.ImageFolder(root='/home/ubuntu/dataset/tiny-imagenet-200/train', transform=transform)
-testset = torchvision.datasets.ImageFolder(root='/home/ubuntu/dataset/tiny-imagenet-200/test', transform=transform)
+trainset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/train', transform=transform)
+testset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/val', transform=transform)
 
 # Define the dataloaders
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=64, shuffle=True)
