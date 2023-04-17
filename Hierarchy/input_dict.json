@@ -1,0 +1,522 @@
+{
+  "Animals": {
+    "Fish": [
+      "n01443537"
+    ],
+    "Amphibians": [
+      "n01644900",
+      "n01629819",
+      "n01641577"
+    ],
+    "Reptiles": [
+      "n01698640",
+      "n01742172"
+    ],
+    "Arthropods": {
+      "Trilobites": [
+        "n01768244"
+      ],
+      "Scorpions": [
+        "n01770393"
+      ],
+      "Spiders": [
+        "n01774384",
+        "n01774750"
+      ],
+      "Centipedes": [
+        "n01784675"
+      ],
+      "Insects": {
+        "Stick Insects": [
+          "n02231487"
+        ],
+        "Cockroaches": [
+          "n02233338"
+        ],
+        "Mantises": [
+          "n02236044"
+        ],
+        "Dragonflies": [
+          "n02268443"
+        ],
+        "Butterflies": [
+          "n02279972",
+          "n02281406"
+        ],
+        "Other Insects": [
+          "n02165456",
+          "n02190166",
+          "n02206856",
+          "n02226429"
+        ]
+      }
+    },
+    "Birds": [
+      "n01855672",
+      "n02002724",
+      "n02056570",
+      "n02058221"
+    ],
+    "Mammals": {
+      "Marine Mammals": [
+        "n02074367"
+      ],
+      "Dogs": [
+        "n02085620",
+        "n02094433",
+        "n02099601",
+        "n02099712",
+        "n02106662"
+      ],
+      "Cats": [
+        "n02123045",
+        "n02123394",
+        "n02124075",
+        "n02125311",
+        "n02129165"
+      ],
+      "Bears": [
+        "n02132136"
+      ],
+      "Rodents": [
+        "n02364673"
+      ],
+      "Hoofed Mammals": {
+        "Pigs": [
+          "n02395406"
+        ],
+        "Cattle": [
+          "n02403003"
+        ],
+        "Bison": [
+          "n02410509"
+        ],
+        "Sheep": [
+          "n02415577"
+        ],
+        "Gazelles": [
+          "n02423022"
+        ],
+        "Camels": [
+          "n02437312"
+        ]
+      },
+      "Primates": {
+        "Great Apes": [
+          "n02480495",
+          "n02481823"
+        ],
+        "Baboons": [
+          "n02486410"
+        ]
+      },
+      "Elephants": [
+        "n02504458"
+      ],
+      "Other Mammals": [
+        "n01882714",
+        "n01984695",
+        "n02509815"
+      ]
+    },
+    "Invertebrates": {
+      "Cnidarians": [
+        "n01910747"
+      ],
+      "Mollusks": {
+        "Gastropods": [
+          "n01944390",
+          "n01945685",
+          "n01950731"
+        ]
+      },
+      "Crustaceans": [
+        "n01983481",
+        "n01984695"
+      ],
+      "Echinoderms": [
+        "n02321529"
+      ]
+    },
+    "Corals": [
+      "n01917289"
+    ],
+    "Dogs": [
+      "n02113799"
+    ]
+  },
+  "Objects": {
+    "Calculating Devices": [
+      "n02666196"
+    ],
+    "Religious and Ceremonial": [
+      "n02699494",
+      "n02892201"
+    ],
+    "Containers": {
+      "Bags and Backpacks": [
+        "n02769748"
+      ],
+      "Barrels and Casks": [
+        "n02795169"
+      ],
+      "Beakers": [
+        "n02815834"
+      ],
+      "Bottles": [
+        "n03937543",
+        "n03983396"
+      ],
+      "Bucket and Pail": [
+        "n02909870"
+      ],
+      "Frying Pan": [
+        "n03400231"
+      ],
+      "Refrigerators": [
+        "n04070727"
+      ]
+    },
+    "Sports Equipment": [
+      "n04067472",
+      "n04118538",
+      "n04023962"
+    ],
+    "Optical Instruments": [
+      "n02841315",
+      "n02843684"
+    ],
+    "Furniture and Fixtures": [
+      "n04275548"
+    ],
+    "Architectural Features": [
+      "n03902125",
+      "n03976657",
+      "n04149813"
+    ],
+    "Household Items": [
+      "n02808440",
+      "n02906734",
+      "n02948072",
+      "n03444034"
+    ],
+    "Kitchen Items": {
+      "Cookware": [
+        "n04596742",
+        "n04597913"
+      ],
+      "Teapots and Jugs": [
+        "n04398044",
+        "n04560804"
+      ],
+      "Tableware": [
+        "n07579787",
+        "n04456115"
+      ]
+    },
+    "Toys": [
+      "n04399382"
+    ],
+    "Vehicles and Transportation": {
+      "Buses": [
+        "n04146614"
+      ],
+      "Tractors": [
+        "n04465501"
+      ],
+      "Vans": [
+        "n03796401",
+        "n03977966"
+      ],
+      "Cars": [
+        "n04285008"
+      ]
+    },
+    "Clothing and Accessories": [
+      "n04532106",
+      "n04507155"
+    ],
+    "Miscellaneous": [
+      "n03891332",
+      "n03992509",
+      "n04008634",
+      "n04099969",
+      "n04251144",
+      "n04265275",
+      "n04275548",
+      "n04285008"
+    ],
+    "Musical Instruments": [
+      "n03838899",
+      "n03854065"
+    ],
+    "Tools and Hardware": [
+      "n03804744",
+      "n03814639",
+      "n03970156",
+      "n04376876"
+    ],
+    "Electronics": [
+      "n04074963",
+      "n04099969",
+      "n04179913"
+    ],
+    "Outdoor Structures": [
+      "n03837869",
+      "n03930313",
+      "n04311004",
+      "n04366367"
+    ],
+    "Beer Bottle": [
+      "n02823428"
+    ],
+    "Bikini": [
+      "n02837789"
+    ],
+    "Bow Tie": [
+      "n02883205"
+    ],
+    "Dumbbell": [
+      "n03255030"
+    ],
+    "Freight Car": [
+      "n03393912"
+    ],
+    "Stopwatch": [
+      "n04328186"
+    ],
+    "Thatch": [
+      "n04417672"
+    ],
+    "Triumphal Arch": [
+      "n04486054"
+    ],
+    "Trolleybus": [
+      "n04487081"
+    ],
+    "Turnstile": [
+      "n04501370"
+    ],
+    "Viaduct": [
+      "n04532670"
+    ],
+    "Volleyball": [
+      "n04540053"
+    ],
+    "Water Tower": [
+      "n04562935"
+    ]
+  },
+  "Clothing": {
+    "Gowns and Robes": [
+      "n02669723"
+    ],
+    "Aprons": [
+      "n02730930"
+    ],
+    "Swimwear": [
+      "n04371430"
+    ],
+    "Accessories": [
+      "n04254777",
+      "n04356056"
+    ],
+    "Cardigan": [
+      "n02963159"
+    ],
+    "Fur Coat": [
+      "n03404251"
+    ],
+    "Kimono": [
+      "n03617480"
+    ],
+    "Military Uniform": [
+      "n03763968"
+    ],
+    "Miniskirt": [
+      "n03770439"
+    ],
+    "Skirts": [
+      "n03770439"
+    ],
+    "Shoes and Footwear": [
+      "n04133789"
+    ],
+    "Outerwear": [
+      "n03980874"
+    ],
+    "Headwear": [
+      "n04259630",
+      "n04285008"
+    ]
+  },
+  "Transportation": {
+    "Bullet Train": [
+      "n02917067"
+    ],
+    "Convertible": [
+      "n03100240"
+    ],
+    "Go-Kart": [
+      "n03444034"
+    ],
+    "Gondola": [
+      "n03447447"
+    ],
+    "Lifeboat": [
+      "n03662601"
+    ],
+    "Limousine": [
+      "n03670208"
+    ]
+  },
+  "Musical Instrument": {
+    "Drumstick": [
+      "n03250847"
+    ]
+  },
+  "Technology": {
+    "Cash Machine": [
+      "n02977058"
+    ],
+    "CD Player": [
+      "n02988304"
+    ],
+    "Computer Keyboard": [
+      "n03085013"
+    ],
+    "iPod": [
+      "n03584254"
+    ]
+  },
+  "Weapons": {
+    "Cannon": [
+      "n02950826"
+    ]
+  },
+  "Tools": {
+    "Chain": [
+      "n02999410"
+    ],
+    "Crane": [
+      "n03126707"
+    ],
+    "Dam": [
+      "n03160309"
+    ],
+    "Desk": [
+      "n03179701"
+    ],
+    "Butcher Shop": [
+      "n02927161"
+    ],
+    "Candle": [
+      "n02948072"
+    ],
+    "Chest": [
+      "n03014705"
+    ],
+    "Christmas Stocking": [
+      "n03026506"
+    ],
+    "Cliff Dwelling": [
+      "n03042490"
+    ],
+    "Confectionery": [
+      "n03089624"
+    ],
+    "Dining Table": [
+      "n03201208"
+    ],
+    "Flagpole": [
+      "n03355925"
+    ],
+    "Fountain": [
+      "n03388043"
+    ],
+    "Gas Mask": [
+      "n03424325"
+    ],
+    "Hourglass": [
+      "n03544143"
+    ],
+    "Jinrikisha": [
+      "n03599486"
+    ],
+    "Lampshade": [
+      "n03637318"
+    ],
+    "Lawn Mower": [
+      "n03649909"
+    ],
+    "Magnetic Compass": [
+      "n03706229"
+    ],
+    "Maypole": [
+      "n03733131"
+    ]
+  },
+  "Food": {
+    "Fruits and Vegetables": [
+      "n07583066",
+      "n07715103",
+      "n07720875",
+      "n07734744",
+      "n07747607",
+      "n07749582",
+      "n07753592",
+      "n07768694"
+    ],
+    "Desserts": [
+      "n07614500",
+      "n07615774"
+    ],
+    "Prepared Foods": [
+      "n07871810",
+      "n07873807",
+      "n07875152",
+      "n07711569",
+      "n07920052"
+    ],
+    "Pretzel": [
+      "n07695742"
+    ]
+  },
+  "Nature": {
+    "Geography and Landforms": [
+      "n09193705",
+      "n09246464",
+      "n09256479",
+      "n09332890",
+      "n09428293"
+    ],
+    "Plants": [
+      "n12267677"
+    ]
+  },
+  "Books and Printed Materials": [
+    "n06596364"
+  ],
+  "Architectural Features": {
+    "Bannister": [
+      "n02788148"
+    ],
+    "Barbershop": [
+      "n02791270"
+    ],
+    "Barn": [
+      "n02793495"
+    ],
+    "Beach Wagon": [
+      "n02814533"
+    ],
+    "Beacon": [
+      "n02814860"
+    ]
+  },
+  "Sports": {
+    "Basketball": [
+      "n02802426"
+    ]
+  }
+}

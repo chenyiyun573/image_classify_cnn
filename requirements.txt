@@ -4,3 +4,4 @@ torchvision
 livelossplot
 matplotlib
 efficientnet_pytorch
+nltk

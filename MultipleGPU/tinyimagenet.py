@@ -142,5 +142,5 @@ def train(rank, world_size):
     dist.destroy_process_group()
 
 if __name__ == '__main__':
-    mp.spawn(train, args=(2,), nprocs=2, join=True)
+    mp.spawn(train, args=(6,), nprocs=6, join=True)
 
