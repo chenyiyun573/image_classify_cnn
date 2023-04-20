@@ -5,45 +5,37 @@ import torch.optim as optim
 import torch.nn as nn
 from torchvision.models import resnet18
 
-from constants import dataset_path
+# Replace 'your_train_dataset_path' and 'your_val_dataset_path' with the actual paths
+train_dataset_path = '/mnt/imagenet/ILSVRC2012_img_train_extracted'
+val_dataset_path = '/mnt/imagenet/ILSVRC2012_img_val'
 
-"""
 # Define transforms for the dataset
 transform = transforms.Compose(
     [transforms.Resize((224, 224)),
      transforms.RandomHorizontalFlip(),
      transforms.ToTensor(),
-     transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))])"""
-
-# Transformations for Tiny ImageNet
-transform = transforms.Compose([
-    transforms.RandomHorizontalFlip(),
-    transforms.RandomCrop(64, padding=4),
-    transforms.ToTensor(),
-    transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
-])
-
+     transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))])
 
 # Load the dataset
-trainset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/train', transform=transform)
-testset = torchvision.datasets.ImageFolder(root=dataset_path+'re-tiny-imagenet-200/val', transform=transform)
+trainset = torchvision.datasets.ImageFolder(root=train_dataset_path, transform=transform)
+testset = torchvision.datasets.ImageFolder(root=val_dataset_path, transform=transform)
 
 # Define the dataloaders
 trainloader = torch.utils.data.DataLoader(trainset, batch_size=64, shuffle=True)
 testloader = torch.utils.data.DataLoader(testset, batch_size=64, shuffle=False)
 
 # Load the model
-model = resnet18(pretrained=True)  # Change this line to load the pretrained ResNet-18 model
+model = resnet18(pretrained=True)
 
-# Update the last layer for the number of classes in Tiny ImageNet
+# Update the last layer for the number of classes in ImageNet
 num_ftrs = model.fc.in_features
-model.fc = nn.Linear(num_ftrs, 200)
+model.fc = nn.Linear(num_ftrs, 1000)
 
 # Set the model to training mode
 model.train()
 
 # Move the model to GPU
-device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(f"device using is {device}")
 model.to(device)
 
@@ -53,6 +45,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 from datetime import datetime
 start_train_time = datetime.now()
+print(start_train_time)
 # Train the model
 for epoch in range(10):
     running_loss = 0.0
@@ -66,14 +59,14 @@ for epoch in range(10):
         loss.backward()
         optimizer.step()
         running_loss += loss.item()
-        
-    print('epoch [%d] loss: %.3f' % (epoch + 1, running_loss / 100))
+    current_time = datetime.now()
+    print(current_time)
+    print('epoch [%d] loss: %.3f ' % (epoch + 1, running_loss / 100))
     running_loss = 0.0
 
 print('Finished Training')
 current_time = datetime.now()
 print("Total training Time:", current_time-start_train_time)
-
 
 # Set the model to evaluation mode
 model.eval()
