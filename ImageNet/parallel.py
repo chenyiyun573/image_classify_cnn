@@ -17,7 +17,7 @@ from torchvision.models import resnet18
 
 
 # Hyperparameters
-batch_size = 64
+batch_size = 512
 epochs = 10
 learning_rate = 0.001
 momentum = 0.9
@@ -26,7 +26,7 @@ num_workers = 16
 # device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 train_dataset_path = '/mnt/imagenet/ILSVRC2012_img_train_extracted'
-val_dataset_path = '/mnt/imagenet/ILSVRC2012_img_val'
+val_dataset_path = '/mnt/imagenet/ILSVRC2012_img_val_extracted'
 
 def train(rank, world_size):
     torch.manual_seed(0)

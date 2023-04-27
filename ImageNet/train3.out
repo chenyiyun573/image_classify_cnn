@@ -1,0 +1,416 @@
+Root Trainloader set.
+Network 1 Trainloader set.
+Network 1-1 Trainloader set.
+Network 1-2 Trainloader set.
+Network 1-3 Trainloader set.
+Network 1-4 Trainloader set.
+Network 2 Trainloader set.
+Network 2-1 Trainloader set.
+Network 2-2 Trainloader set.
+Network 2-3 Trainloader set.
+Network 2-4 Trainloader set.
+Network 3 Trainloader set.
+Network 3-1 Trainloader set.
+Network 3-2 Trainloader set.
+Network 3-3 Trainloader set.
+Network 3-4 Trainloader set.
+Network 4 Trainloader set.
+Network 4-1 Trainloader set.
+Network 4-2 Trainloader set.
+Network 4-3 Trainloader set.
+Network 4-4 Trainloader set.
+Network 5 Trainloader set.
+Network 5-1 Trainloader set.
+Network 5-2 Trainloader set.
+Network 5-3 Trainloader set.
+Network 5-4 Trainloader set.
+ gpu_id 0 network Root process created 
+ gpu_id 1 network Network 1 process created 
+ gpu_id 2 network Network 1-1 process created 
+ gpu_id 3 network Network 1-2 process created 
+ gpu_id 4 network Network 1-3 process created 
+ gpu_id 5 network Network 1-4 process created 
+ gpu_id 2 network Network 2 process created 
+ gpu_id 3 network Network 2-1 process created 
+ gpu_id 4 network Network 2-2 process created 
+ gpu_id 5 network Network 2-3 process created 
+ gpu_id 6 network Network 2-4 process created 
+ gpu_id 3 network Network 3 process created 
+ gpu_id 4 network Network 3-1 process created 
+ gpu_id 5 network Network 3-2 process created 
+ gpu_id 6 network Network 3-3 process created 
+ gpu_id 7 network Network 3-4 process created 
+ gpu_id 4 network Network 4 process created 
+ gpu_id 5 network Network 4-1 process created 
+ gpu_id 6 network Network 4-2 process created 
+ gpu_id 7 network Network 4-3 process created 
+ gpu_id 0 network Network 4-4 process created 
+ gpu_id 5 network Network 5 process created 
+ gpu_id 6 network Network 5-1 process created 
+ gpu_id 7 network Network 5-2 process created 
+ gpu_id 0 network Network 5-3 process created 
+[gpu id: 3  epoch1, Network 1-2] loss: 2.4929388163080177 time: 2023-04-24 10:02:36.576918
+[gpu id: 3  epoch1, Network 2-1] loss: 2.428790667142526 time: 2023-04-24 10:02:41.934679
+[gpu id: 2  epoch1, Network 1-1] loss: 2.4227957734985957 time: 2023-04-24 10:02:43.756947
+[gpu id: 5  epoch1, Network 1-4] loss: 2.3670033283501746 time: 2023-04-24 10:02:44.128859
+[gpu id: 4  epoch1, Network 1-3] loss: 2.4200697982405113 time: 2023-04-24 10:02:50.646610
+[gpu id: 4  epoch1, Network 2-2] loss: 2.4489137409217805 time: 2023-04-24 10:02:53.689972
+[gpu id: 4  epoch1, Network 3-1] loss: 2.3687896537014757 time: 2023-04-24 10:02:54.733825
+[gpu id: 5  epoch1, Network 3-2] loss: 2.4108683176156953 time: 2023-04-24 10:03:03.547659
+[gpu id: 7  epoch1, Network 3-4] loss: 2.4025022772050675 time: 2023-04-24 10:03:04.757257
+[gpu id: 6  epoch1, Network 2-4] loss: 2.583888479168453 time: 2023-04-24 10:03:05.290719
+[gpu id: 5  epoch1, Network 2-3] loss: 2.438504165082466 time: 2023-04-24 10:03:07.173757
+[gpu id: 6  epoch1, Network 3-3] loss: 2.4014401115088098 time: 2023-04-24 10:03:16.851464
+[gpu id: 6  epoch1, Network 4-2] loss: 2.485720609861707 time: 2023-04-24 10:03:23.986442
+[gpu id: 0  epoch1, Network 4-4] loss: 2.4154952678335717 time: 2023-04-24 10:03:25.670405
+[gpu id: 7  epoch1, Network 4-3] loss: 2.3805395364761353 time: 2023-04-24 10:03:30.091986
+[gpu id: 5  epoch1, Network 4-1] loss: 2.420622582435608 time: 2023-04-24 10:03:31.345026
+[gpu id: 6  epoch1, Network 5-1] loss: 2.396470414214875 time: 2023-04-24 10:03:37.814956
+[gpu id: 7  epoch1, Network 5-2] loss: 2.415608466144592 time: 2023-04-24 10:03:49.385858
+[gpu id: 1  epoch1, Network 5-4] loss: 2.383220327701493 time: 2023-04-24 10:03:51.738694
+[gpu id: 0  epoch1, Network 5-3] loss: 2.325764477959735 time: 2023-04-24 10:03:58.922482
+[gpu id: 3  epoch2, Network 2-1] loss: 1.3945655656525813 time: 2023-04-24 10:07:39.284997
+[gpu id: 3  epoch2, Network 1-2] loss: 1.4763542662662674 time: 2023-04-24 10:07:41.030897
+[gpu id: 4  epoch2, Network 3-1] loss: 1.401563086184153 time: 2023-04-24 10:07:50.715082
+[gpu id: 5  epoch2, Network 1-4] loss: 1.3388217352480294 time: 2023-04-24 10:07:52.038097
+[gpu id: 2  epoch2, Network 1-1] loss: 1.4438182484535944 time: 2023-04-24 10:07:59.960751
+[gpu id: 4  epoch2, Network 2-2] loss: 1.504551820071095 time: 2023-04-24 10:08:02.622646
+[gpu id: 7  epoch2, Network 3-4] loss: 1.416058073601415 time: 2023-04-24 10:08:05.119784
+[gpu id: 4  epoch2, Network 1-3] loss: 1.376210126351184 time: 2023-04-24 10:08:06.209645
+[gpu id: 5  epoch2, Network 3-2] loss: 1.3872659569833337 time: 2023-04-24 10:08:07.942476
+[gpu id: 6  epoch2, Network 2-4] loss: 1.5726493530803256 time: 2023-04-24 10:08:22.544112
+[gpu id: 5  epoch2, Network 2-3] loss: 1.4411005110252562 time: 2023-04-24 10:08:26.685883
+[gpu id: 6  epoch2, Network 4-2] loss: 1.4941841439595298 time: 2023-04-24 10:08:33.901432
+[gpu id: 0  epoch2, Network 4-4] loss: 1.4436656380274209 time: 2023-04-24 10:08:34.216943
+[gpu id: 6  epoch2, Network 3-3] loss: 1.3850814003542244 time: 2023-04-24 10:08:34.307523
+[gpu id: 7  epoch2, Network 4-3] loss: 1.3725187339782714 time: 2023-04-24 10:08:43.765711
+[gpu id: 6  epoch2, Network 5-1] loss: 1.441659186940744 time: 2023-04-24 10:08:48.403187
+[gpu id: 5  epoch2, Network 4-1] loss: 1.3982879614830017 time: 2023-04-24 10:08:48.589963
+[gpu id: 7  epoch2, Network 5-2] loss: 1.397751826142508 time: 2023-04-24 10:09:09.971386
+[gpu id: 1  epoch2, Network 5-4] loss: 1.3608201459462463 time: 2023-04-24 10:09:11.162130
+[gpu id: 0  epoch2, Network 5-3] loss: 1.29713936426894 time: 2023-04-24 10:09:25.767129
+[gpu id: 3  epoch3, Network 2-1] loss: 1.221619552587608 time: 2023-04-24 10:12:39.329487
+[gpu id: 4  epoch3, Network 3-1] loss: 1.2395110264360665 time: 2023-04-24 10:12:46.712149
+[gpu id: 3  epoch3, Network 1-2] loss: 1.2984877575832199 time: 2023-04-24 10:12:47.387769
+[gpu id: 5  epoch3, Network 1-4] loss: 1.1686778798639534 time: 2023-04-24 10:13:00.173514
+[gpu id: 7  epoch3, Network 3-4] loss: 1.2422182305205254 time: 2023-04-24 10:13:06.004116
+[gpu id: 4  epoch3, Network 2-2] loss: 1.321614380851685 time: 2023-04-24 10:13:12.094314
+[gpu id: 5  epoch3, Network 3-2] loss: 1.214396274671322 time: 2023-04-24 10:13:13.055960
+[gpu id: 2  epoch3, Network 1-1] loss: 1.2695347392369831 time: 2023-04-24 10:13:15.686451
+[gpu id: 4  epoch3, Network 1-3] loss: 1.1991223925211298 time: 2023-04-24 10:13:23.863562
+[gpu id: 6  epoch3, Network 2-4] loss: 1.3810106383429632 time: 2023-04-24 10:13:40.444468
+[gpu id: 0  epoch3, Network 4-4] loss: 1.271009784865092 time: 2023-04-24 10:13:42.023387
+[gpu id: 6  epoch3, Network 4-2] loss: 1.313533641989269 time: 2023-04-24 10:13:44.449185
+[gpu id: 5  epoch3, Network 2-3] loss: 1.2661944613682004 time: 2023-04-24 10:13:47.994462
+[gpu id: 6  epoch3, Network 3-3] loss: 1.2097393001418515 time: 2023-04-24 10:13:50.556470
+[gpu id: 7  epoch3, Network 4-3] loss: 1.1982061047554016 time: 2023-04-24 10:13:57.855116
+[gpu id: 6  epoch3, Network 5-1] loss: 1.2645737725899988 time: 2023-04-24 10:13:59.252847
+[gpu id: 5  epoch3, Network 4-1] loss: 1.2191020164489745 time: 2023-04-24 10:14:07.980779
+[gpu id: 1  epoch3, Network 5-4] loss: 1.1893961439019607 time: 2023-04-24 10:14:30.664509
+[gpu id: 7  epoch3, Network 5-2] loss: 1.2257012493080564 time: 2023-04-24 10:14:30.973897
+[gpu id: 0  epoch3, Network 5-3] loss: 1.121426069453771 time: 2023-04-24 10:14:53.252201
+[gpu id: 3  epoch4, Network 2-1] loss: 1.1359421715318445 time: 2023-04-24 10:17:41.214508
+[gpu id: 4  epoch4, Network 3-1] loss: 1.1486378314504662 time: 2023-04-24 10:17:43.422887
+[gpu id: 3  epoch4, Network 1-2] loss: 1.2030283791951866 time: 2023-04-24 10:17:53.865692
+[gpu id: 7  epoch4, Network 3-4] loss: 1.1389927666994832 time: 2023-04-24 10:18:06.859913
+[gpu id: 5  epoch4, Network 1-4] loss: 1.0836898162661786 time: 2023-04-24 10:18:08.922634
+[gpu id: 1  epoch1, Network 1] loss: 1.2433536939345233 time: 2023-04-24 10:18:14.298767
+[gpu id: 3  epoch1, Network 3] loss: 1.23765799881351 time: 2023-04-24 10:18:14.540176
+[gpu id: 5  epoch4, Network 3-2] loss: 1.1238053438624716 time: 2023-04-24 10:18:17.971007
+[gpu id: 4  epoch4, Network 2-2] loss: 1.230919207709719 time: 2023-04-24 10:18:21.441201
+[gpu id: 2  epoch1, Network 2] loss: 1.2442293370931334 time: 2023-04-24 10:18:22.989313
+[gpu id: 2  epoch4, Network 1-1] loss: 1.1884942459208625 time: 2023-04-24 10:18:31.166146
+[gpu id: 4  epoch4, Network 1-3] loss: 1.1062755106002327 time: 2023-04-24 10:18:39.099100
+[gpu id: 0  epoch4, Network 4-4] loss: 1.1941846645022014 time: 2023-04-24 10:18:50.268977
+[gpu id: 6  epoch4, Network 4-2] loss: 1.2222545047601063 time: 2023-04-24 10:18:53.774535
+[gpu id: 6  epoch4, Network 2-4] loss: 1.2911026690687453 time: 2023-04-24 10:18:57.226618
+[gpu id: 4  epoch1, Network 4] loss: 1.2256869368553163 time: 2023-04-24 10:18:58.322787
+[gpu id: 5  epoch4, Network 2-3] loss: 1.1773829248946484 time: 2023-04-24 10:19:06.521348
+[gpu id: 6  epoch4, Network 3-3] loss: 1.1266803480535148 time: 2023-04-24 10:19:06.798632
+[gpu id: 6  epoch4, Network 5-1] loss: 1.182233377281888 time: 2023-04-24 10:19:09.767269
+[gpu id: 7  epoch4, Network 4-3] loss: 1.1093723800182342 time: 2023-04-24 10:19:11.551542
+[gpu id: 5  epoch4, Network 4-1] loss: 1.1426119315624237 time: 2023-04-24 10:19:26.259876
+[gpu id: 5  epoch1, Network 5] loss: 1.2395494306217714 time: 2023-04-24 10:19:39.237898
+[gpu id: 1  epoch4, Network 5-4] loss: 1.1070921352729495 time: 2023-04-24 10:19:49.555451
+[gpu id: 7  epoch4, Network 5-2] loss: 1.1330483830164348 time: 2023-04-24 10:19:52.381860
+[gpu id: 0  epoch4, Network 5-3] loss: 1.0358179289361704 time: 2023-04-24 10:20:24.101445
+[gpu id: 4  epoch5, Network 3-1] loss: 1.0977996379496104 time: 2023-04-24 10:22:40.231018
+[gpu id: 3  epoch5, Network 2-1] loss: 1.08757169099443 time: 2023-04-24 10:22:43.621630
+[gpu id: 3  epoch5, Network 1-2] loss: 1.1459423150403432 time: 2023-04-24 10:23:00.751917
+[gpu id: 7  epoch5, Network 3-4] loss: 1.096567218342135 time: 2023-04-24 10:23:07.626848
+[gpu id: 5  epoch5, Network 1-4] loss: 1.0214482390258206 time: 2023-04-24 10:23:17.226927
+[gpu id: 5  epoch5, Network 3-2] loss: 1.0738667472591246 time: 2023-04-24 10:23:23.650629
+[gpu id: 4  epoch5, Network 2-2] loss: 1.179049536288972 time: 2023-04-24 10:23:30.486982
+[gpu id: 2  epoch5, Network 1-1] loss: 1.1313702360032096 time: 2023-04-24 10:23:46.317983
+[gpu id: 4  epoch5, Network 1-3] loss: 1.0483320874022686 time: 2023-04-24 10:23:56.173451
+[gpu id: 0  epoch5, Network 4-4] loss: 1.1338925510046471 time: 2023-04-24 10:23:58.122127
+[gpu id: 6  epoch5, Network 4-2] loss: 1.1620226272987941 time: 2023-04-24 10:24:02.402279
+[gpu id: 6  epoch5, Network 2-4] loss: 1.2254173802951025 time: 2023-04-24 10:24:13.547050
+[gpu id: 6  epoch5, Network 5-1] loss: 1.1310714445266117 time: 2023-04-24 10:24:19.096570
+[gpu id: 6  epoch5, Network 3-3] loss: 1.073518515590683 time: 2023-04-24 10:24:23.783147
+[gpu id: 7  epoch5, Network 4-3] loss: 1.0568771240711212 time: 2023-04-24 10:24:24.796282
+[gpu id: 5  epoch5, Network 2-3] loss: 1.112423721495576 time: 2023-04-24 10:24:26.538868
+[gpu id: 5  epoch5, Network 4-1] loss: 1.0850826399326325 time: 2023-04-24 10:24:46.426930
+[gpu id: 1  epoch5, Network 5-4] loss: 1.0514627885912717 time: 2023-04-24 10:25:08.639496
+[gpu id: 7  epoch5, Network 5-2] loss: 1.08686873435028 time: 2023-04-24 10:25:11.534696
+[gpu id: 0  epoch5, Network 5-3] loss: 0.98134123289538 time: 2023-04-24 10:25:53.943487
+[gpu id: 4  epoch6, Network 3-1] loss: 1.0595894374521861 time: 2023-04-24 10:27:37.708944
+[gpu id: 3  epoch6, Network 2-1] loss: 1.0395850472716222 time: 2023-04-24 10:27:43.341965
+[gpu id: 3  epoch6, Network 1-2] loss: 1.1105501883958717 time: 2023-04-24 10:28:06.017795
+[gpu id: 7  epoch6, Network 3-4] loss: 1.0586518705371888 time: 2023-04-24 10:28:08.279146
+[gpu id: 5  epoch6, Network 1-4] loss: 0.9864598297211061 time: 2023-04-24 10:28:25.070093
+[gpu id: 5  epoch6, Network 3-2] loss: 1.0296999184581321 time: 2023-04-24 10:28:29.251483
+[gpu id: 4  epoch6, Network 2-2] loss: 1.131323701831924 time: 2023-04-24 10:28:39.999490
+[gpu id: 2  epoch6, Network 1-1] loss: 1.0861295168361966 time: 2023-04-24 10:29:01.760982
+[gpu id: 0  epoch6, Network 4-4] loss: 1.0974857819128228 time: 2023-04-24 10:29:06.415040
+[gpu id: 6  epoch6, Network 4-2] loss: 1.1277463041127673 time: 2023-04-24 10:29:12.625542
+[gpu id: 4  epoch6, Network 1-3] loss: 1.0044106763648235 time: 2023-04-24 10:29:14.403937
+[gpu id: 6  epoch6, Network 5-1] loss: 1.088273320540014 time: 2023-04-24 10:29:28.584580
+[gpu id: 6  epoch6, Network 2-4] loss: 1.1766842575300307 time: 2023-04-24 10:29:31.206702
+[gpu id: 7  epoch6, Network 4-3] loss: 1.0042840943336486 time: 2023-04-24 10:29:37.740054
+[gpu id: 6  epoch6, Network 3-3] loss: 1.0250306344894042 time: 2023-04-24 10:29:39.039981
+[gpu id: 5  epoch6, Network 2-3] loss: 1.0789880156517029 time: 2023-04-24 10:29:46.742279
+[gpu id: 5  epoch6, Network 4-1] loss: 1.0505605461597443 time: 2023-04-24 10:30:07.211401
+[gpu id: 1  epoch6, Network 5-4] loss: 1.0075364508647693 time: 2023-04-24 10:30:28.616388
+[gpu id: 7  epoch6, Network 5-2] loss: 1.043062384875994 time: 2023-04-24 10:30:30.464995
+[gpu id: 0  epoch6, Network 5-3] loss: 0.9420411026053749 time: 2023-04-24 10:31:24.278661
+[gpu id: 4  epoch7, Network 3-1] loss: 1.0244371871871643 time: 2023-04-24 10:32:34.281723
+[gpu id: 3  epoch7, Network 2-1] loss: 1.0097346025634097 time: 2023-04-24 10:32:44.382715
+[gpu id: 7  epoch7, Network 3-4] loss: 1.0208948345914963 time: 2023-04-24 10:33:09.458811
+[gpu id: 3  epoch7, Network 1-2] loss: 1.0689553474805442 time: 2023-04-24 10:33:11.689766
+[gpu id: 5  epoch7, Network 1-4] loss: 0.9462122967444271 time: 2023-04-24 10:33:34.115969
+[gpu id: 5  epoch7, Network 3-2] loss: 1.0034171602105706 time: 2023-04-24 10:33:34.751265
+[gpu id: 4  epoch7, Network 2-2] loss: 1.1029364146084424 time: 2023-04-24 10:33:48.380175
+[gpu id: 0  epoch7, Network 4-4] loss: 1.0627461382184162 time: 2023-04-24 10:34:14.671803
+[gpu id: 2  epoch7, Network 1-1] loss: 1.0527585903330454 time: 2023-04-24 10:34:17.650932
+[gpu id: 6  epoch7, Network 4-2] loss: 1.0818326593864531 time: 2023-04-24 10:34:22.385620
+[gpu id: 4  epoch7, Network 1-3] loss: 0.9723108664272339 time: 2023-04-24 10:34:31.631093
+[gpu id: 6  epoch7, Network 5-1] loss: 1.058007254068595 time: 2023-04-24 10:34:39.018968
+[gpu id: 6  epoch7, Network 2-4] loss: 1.1447366982225389 time: 2023-04-24 10:34:48.781476
+[gpu id: 7  epoch7, Network 4-3] loss: 0.976390590429306 time: 2023-04-24 10:34:52.002625
+[gpu id: 6  epoch7, Network 3-3] loss: 0.9971265785665397 time: 2023-04-24 10:34:55.362112
+[gpu id: 5  epoch7, Network 2-3] loss: 1.0418307065494417 time: 2023-04-24 10:35:06.702890
+[gpu id: 5  epoch7, Network 4-1] loss: 1.0084787294864654 time: 2023-04-24 10:35:24.630656
+[gpu id: 1  epoch7, Network 5-4] loss: 0.9853197390382941 time: 2023-04-24 10:35:47.900012
+[gpu id: 7  epoch7, Network 5-2] loss: 1.0100527320589339 time: 2023-04-24 10:35:50.254102
+[gpu id: 0  epoch7, Network 5-3] loss: 0.9125230314703326 time: 2023-04-24 10:36:55.027252
+[gpu id: 4  epoch8, Network 3-1] loss: 1.005754343237743 time: 2023-04-24 10:37:31.896129
+[gpu id: 3  epoch8, Network 2-1] loss: 0.9892157700907187 time: 2023-04-24 10:37:44.357674
+[gpu id: 7  epoch8, Network 3-4] loss: 0.9986358801684072 time: 2023-04-24 10:38:12.252239
+[gpu id: 3  epoch8, Network 1-2] loss: 1.0455196179060573 time: 2023-04-24 10:38:18.900982
+[gpu id: 3  epoch2, Network 3] loss: 1.1053371566576145 time: 2023-04-24 10:38:38.115061
+[gpu id: 5  epoch8, Network 3-2] loss: 0.9705592296957001 time: 2023-04-24 10:38:40.217688
+[gpu id: 5  epoch8, Network 1-4] loss: 0.9277398282265568 time: 2023-04-24 10:38:43.645888
+[gpu id: 4  epoch8, Network 2-2] loss: 1.07021845384423 time: 2023-04-24 10:38:56.821808
+[gpu id: 1  epoch2, Network 1] loss: 1.1107985755263392 time: 2023-04-24 10:39:04.654407
+[gpu id: 2  epoch2, Network 2] loss: 1.1090843869487998 time: 2023-04-24 10:39:07.844356
+[gpu id: 0  epoch8, Network 4-4] loss: 1.031937051729026 time: 2023-04-24 10:39:23.288143
+[gpu id: 6  epoch8, Network 4-2] loss: 1.0546135195190944 time: 2023-04-24 10:39:32.628218
+[gpu id: 2  epoch8, Network 1-1] loss: 1.0367672587670977 time: 2023-04-24 10:39:33.214243
+[gpu id: 4  epoch8, Network 1-3] loss: 0.9500687481380823 time: 2023-04-24 10:39:49.002656
+[gpu id: 6  epoch8, Network 5-1] loss: 1.0293019378327752 time: 2023-04-24 10:39:49.906322
+[gpu id: 4  epoch2, Network 4] loss: 1.098044462263584 time: 2023-04-24 10:39:51.082054
+[gpu id: 7  epoch8, Network 4-3] loss: 0.9605481503009796 time: 2023-04-24 10:40:06.147471
+[gpu id: 6  epoch8, Network 2-4] loss: 1.1143670134128085 time: 2023-04-24 10:40:07.040784
+[gpu id: 6  epoch8, Network 3-3] loss: 0.9714569284255246 time: 2023-04-24 10:40:11.882515
+[gpu id: 5  epoch8, Network 2-3] loss: 1.021455513914739 time: 2023-04-24 10:40:29.407863
+[gpu id: 5  epoch8, Network 4-1] loss: 0.9863350586891174 time: 2023-04-24 10:40:42.362751
+[gpu id: 5  epoch2, Network 5] loss: 1.1033703898483853 time: 2023-04-24 10:40:56.378838
+[gpu id: 1  epoch8, Network 5-4] loss: 0.9553635657540424 time: 2023-04-24 10:41:08.968044
+[gpu id: 7  epoch8, Network 5-2] loss: 0.9824429781190933 time: 2023-04-24 10:41:09.904067
+[gpu id: 0  epoch8, Network 5-3] loss: 0.8809947809683004 time: 2023-04-24 10:42:26.370538
+[gpu id: 4  epoch9, Network 3-1] loss: 0.9866356842489128 time: 2023-04-24 10:42:30.686966
+[gpu id: 3  epoch9, Network 2-1] loss: 0.9586968334072614 time: 2023-04-24 10:42:46.916780
+[gpu id: 7  epoch9, Network 3-4] loss: 0.9664064047317351 time: 2023-04-24 10:43:13.595871
+[gpu id: 3  epoch9, Network 1-2] loss: 1.0246068978884133 time: 2023-04-24 10:43:26.095755
+[gpu id: 5  epoch9, Network 3-2] loss: 0.941570109952756 time: 2023-04-24 10:43:47.354620
+[gpu id: 5  epoch9, Network 1-4] loss: 0.9029926698370631 time: 2023-04-24 10:43:51.860863
+[gpu id: 4  epoch9, Network 2-2] loss: 1.0471888015944644 time: 2023-04-24 10:44:06.638614
+[gpu id: 0  epoch9, Network 4-4] loss: 1.0111349088599884 time: 2023-04-24 10:44:31.698690
+[gpu id: 6  epoch9, Network 4-2] loss: 1.032814933430581 time: 2023-04-24 10:44:43.970997
+[gpu id: 2  epoch9, Network 1-1] loss: 1.0028372094744729 time: 2023-04-24 10:44:49.689286
+[gpu id: 6  epoch9, Network 5-1] loss: 1.0030640596412568 time: 2023-04-24 10:44:59.811355
+[gpu id: 4  epoch9, Network 1-3] loss: 0.9143267517953407 time: 2023-04-24 10:45:05.354261
+[gpu id: 7  epoch9, Network 4-3] loss: 0.9303348529338836 time: 2023-04-24 10:45:20.333175
+[gpu id: 6  epoch9, Network 2-4] loss: 1.0926895231481581 time: 2023-04-24 10:45:25.964619
+[gpu id: 6  epoch9, Network 3-3] loss: 0.9430012894442761 time: 2023-04-24 10:45:27.349758
+[gpu id: 5  epoch9, Network 2-3] loss: 0.9933634738283833 time: 2023-04-24 10:45:52.157506
+[gpu id: 5  epoch9, Network 4-1] loss: 0.9631152412891388 time: 2023-04-24 10:45:59.708619
+[gpu id: 1  epoch9, Network 5-4] loss: 0.9395167175017798 time: 2023-04-24 10:46:29.132755
+[gpu id: 7  epoch9, Network 5-2] loss: 0.9572871405453909 time: 2023-04-24 10:46:30.017753
+[gpu id: 4  epoch10, Network 3-1] loss: 0.963047278454026 time: 2023-04-24 10:47:29.982690
+Finished training Network 3-1
+Saved Network 3-1 model to ./models/Network 3-1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 3  epoch10, Network 2-1] loss: 0.939210198552485 time: 2023-04-24 10:47:48.498622
+Finished training Network 2-1
+Saved Network 2-1 model to ./models/Network 2-1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 0  epoch9, Network 5-3] loss: 0.8590890070195255 time: 2023-04-24 10:47:57.117649
+[gpu id: 7  epoch10, Network 3-4] loss: 0.9507171816883548 time: 2023-04-24 10:48:14.941695
+Finished training Network 3-4
+Saved Network 3-4 model to ./models/Network 3-4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 3  epoch10, Network 1-2] loss: 0.9939110978061415 time: 2023-04-24 10:48:34.055310
+Finished training Network 1-2
+Saved Network 1-2 model to ./models/Network 1-2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 5  epoch10, Network 3-2] loss: 0.9242192804813385 time: 2023-04-24 10:48:53.188408
+Finished training Network 3-2
+Saved Network 3-2 model to ./models/Network 3-2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 5  epoch10, Network 1-4] loss: 0.8789138123692279 time: 2023-04-24 10:49:00.186585
+Finished training Network 1-4
+Saved Network 1-4 model to ./models/Network 1-4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 4  epoch10, Network 2-2] loss: 1.0296943957112226 time: 2023-04-24 10:49:15.904265
+Finished training Network 2-2
+Saved Network 2-2 model to ./models/Network 2-2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 0  epoch10, Network 4-4] loss: 0.9877055842713659 time: 2023-04-24 10:49:40.071806
+Finished training Network 4-4
+Saved Network 4-4 model to ./models/Network 4-4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 6  epoch10, Network 4-2] loss: 1.0149642718689782 time: 2023-04-24 10:49:54.024508
+Finished training Network 4-2
+Saved Network 4-2 model to ./models/Network 4-2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 2  epoch10, Network 1-1] loss: 0.981730141573482 time: 2023-04-24 10:50:05.390129
+Finished training Network 1-1
+Saved Network 1-1 model to ./models/Network 1-1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 6  epoch10, Network 5-1] loss: 0.9910827060619674 time: 2023-04-24 10:50:09.667845
+Finished training Network 5-1
+Saved Network 5-1 model to ./models/Network 5-1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 4  epoch10, Network 1-3] loss: 0.8987379573930906 time: 2023-04-24 10:50:20.056015
+Finished training Network 1-3
+Saved Network 1-3 model to ./models/Network 1-3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 7  epoch10, Network 4-3] loss: 0.9060844621658325 time: 2023-04-24 10:50:35.273181
+Finished training Network 4-3
+Saved Network 4-3 model to ./models/Network 4-3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 6  epoch10, Network 3-3] loss: 0.9265339044203241 time: 2023-04-24 10:50:42.811578
+Finished training Network 3-3
+Saved Network 3-3 model to ./models/Network 3-3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 6  epoch10, Network 2-4] loss: 1.067714057507969 time: 2023-04-24 10:50:44.150845
+Finished training Network 2-4
+Saved Network 2-4 model to ./models/Network 2-4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 5  epoch10, Network 2-3] loss: 0.9738617572258776 time: 2023-04-24 10:51:13.964241
+Finished training Network 2-3
+Saved Network 2-3 model to ./models/Network 2-3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 5  epoch10, Network 4-1] loss: 0.9461727561950684 time: 2023-04-24 10:51:17.359713
+Finished training Network 4-1
+Saved Network 4-1 model to ./models/Network 4-1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 1  epoch10, Network 5-4] loss: 0.9165986870588522 time: 2023-04-24 10:51:48.452024
+Finished training Network 5-4
+Saved Network 5-4 model to ./models/Network 5-4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 7  epoch10, Network 5-2] loss: 0.9345644381311204 time: 2023-04-24 10:51:49.341401
+Finished training Network 5-2
+Saved Network 5-2 model to ./models/Network 5-2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 0  epoch10, Network 5-3] loss: 0.8342037186792246 time: 2023-04-24 10:53:25.680822
+Finished training Network 5-3
+Saved Network 5-3 model to ./models/Network 5-3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 3  epoch3, Network 3] loss: 1.0421617224165938 time: 2023-04-24 10:58:57.729042
+[gpu id: 2  epoch3, Network 2] loss: 1.0445637678057251 time: 2023-04-24 10:59:56.696796
+[gpu id: 1  epoch3, Network 1] loss: 1.048500941139632 time: 2023-04-24 10:59:57.795764
+[gpu id: 4  epoch3, Network 4] loss: 1.0367507979869843 time: 2023-04-24 11:00:41.132571
+[gpu id: 5  epoch3, Network 5] loss: 1.0398279530289394 time: 2023-04-24 11:02:10.798179
+[gpu id: 3  epoch4, Network 3] loss: 1.0004175880963337 time: 2023-04-24 11:19:13.663087
+[gpu id: 2  epoch4, Network 2] loss: 1.0032225667719339 time: 2023-04-24 11:20:44.889027
+[gpu id: 1  epoch4, Network 1] loss: 1.00867138450904 time: 2023-04-24 11:20:48.756923
+[gpu id: 4  epoch4, Network 4] loss: 0.9969143459796905 time: 2023-04-24 11:21:28.668554
+[gpu id: 5  epoch4, Network 5] loss: 0.9962767198637439 time: 2023-04-24 11:23:26.173169
+[gpu id: 3  epoch5, Network 3] loss: 0.9711047379689067 time: 2023-04-24 11:39:29.025299
+[gpu id: 2  epoch5, Network 2] loss: 0.9713501713977419 time: 2023-04-24 11:41:29.186316
+[gpu id: 1  epoch5, Network 1] loss: 0.9763533962093821 time: 2023-04-24 11:41:37.590593
+[gpu id: 4  epoch5, Network 4] loss: 0.9675760462880134 time: 2023-04-24 11:42:13.033320
+[gpu id: 0  epoch1, Root] loss: 1.5524666049025513 time: 2023-04-24 11:42:21.783924
+[gpu id: 5  epoch5, Network 5] loss: 0.9677195052404508 time: 2023-04-24 11:44:39.484254
+[gpu id: 3  epoch6, Network 3] loss: 0.944833762891117 time: 2023-04-24 11:59:49.473357
+[gpu id: 2  epoch6, Network 2] loss: 0.9467493375063416 time: 2023-04-24 12:02:16.229778
+[gpu id: 1  epoch6, Network 1] loss: 0.9526845783084363 time: 2023-04-24 12:02:30.413795
+[gpu id: 4  epoch6, Network 4] loss: 0.9448234086036682 time: 2023-04-24 12:03:01.700672
+[gpu id: 5  epoch6, Network 5] loss: 0.9419236563168311 time: 2023-04-24 12:05:55.452294
+[gpu id: 3  epoch7, Network 3] loss: 0.9231537923322075 time: 2023-04-24 12:20:02.679142
+[gpu id: 2  epoch7, Network 2] loss: 0.9290098749975086 time: 2023-04-24 12:22:58.962510
+[gpu id: 1  epoch7, Network 1] loss: 0.933629770816145 time: 2023-04-24 12:23:15.774479
+[gpu id: 4  epoch7, Network 4] loss: 0.9240797873735428 time: 2023-04-24 12:23:45.636491
+[gpu id: 5  epoch7, Network 5] loss: 0.9212360770368528 time: 2023-04-24 12:27:03.176458
+[gpu id: 3  epoch8, Network 3] loss: 0.9098818468157386 time: 2023-04-24 12:40:14.129431
+[gpu id: 2  epoch8, Network 2] loss: 0.9153262844853562 time: 2023-04-24 12:43:40.993944
+[gpu id: 1  epoch8, Network 1] loss: 0.9172288853886833 time: 2023-04-24 12:43:58.946024
+[gpu id: 4  epoch8, Network 4] loss: 0.9070327430963516 time: 2023-04-24 12:44:29.356541
+[gpu id: 5  epoch8, Network 5] loss: 0.90315475465051 time: 2023-04-24 12:48:10.907502
+[gpu id: 3  epoch9, Network 3] loss: 0.8937172345388549 time: 2023-04-24 13:00:25.211694
+[gpu id: 2  epoch9, Network 2] loss: 0.8981204870680929 time: 2023-04-24 13:04:22.167946
+[gpu id: 1  epoch9, Network 1] loss: 0.9028620705053076 time: 2023-04-24 13:04:43.617051
+[gpu id: 4  epoch9, Network 4] loss: 0.8925796799063682 time: 2023-04-24 13:05:13.448225
+[gpu id: 5  epoch9, Network 5] loss: 0.8896949594283649 time: 2023-04-24 13:09:20.569418
+[gpu id: 3  epoch10, Network 3] loss: 0.8830777981687867 time: 2023-04-24 13:20:44.574410
+Finished training Network 3
+Saved Network 3 model to ./models/Network 3_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 2  epoch10, Network 2] loss: 0.8858096927819148 time: 2023-04-24 13:25:09.475847
+Finished training Network 2
+Saved Network 2 model to ./models/Network 2_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 1  epoch10, Network 1] loss: 0.8881930238822641 time: 2023-04-24 13:25:37.117670
+Finished training Network 1
+Saved Network 1 model to ./models/Network 1_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 4  epoch10, Network 4] loss: 0.8801909515857697 time: 2023-04-24 13:26:00.935546
+Finished training Network 4
+Saved Network 4 model to ./models/Network 4_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 0  epoch2, Root] loss: 1.4800987573294015 time: 2023-04-24 13:26:21.446715
+[gpu id: 5  epoch10, Network 5] loss: 0.8759311400316915 time: 2023-04-24 13:30:42.285839
+Finished training Network 5
+Saved Network 5 model to ./models/Network 5_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+[gpu id: 0  epoch3, Root] loss: 1.4363462333078985 time: 2023-04-24 15:10:09.478178
+[gpu id: 0  epoch4, Root] loss: 1.4065071012590316 time: 2023-04-24 16:53:59.238601
+[gpu id: 0  epoch5, Root] loss: 1.382467646317763 time: 2023-04-24 18:37:43.106406
+[gpu id: 0  epoch6, Root] loss: 1.3634892475831282 time: 2023-04-24 20:21:24.791750
+[gpu id: 0  epoch7, Root] loss: 1.3474057416696767 time: 2023-04-24 22:05:11.041721
+[gpu id: 0  epoch8, Root] loss: 1.3348018412347082 time: 2023-04-24 23:48:54.506786
+[gpu id: 0  epoch9, Root] loss: 1.3215678046633315 time: 2023-04-25 01:32:37.251030
+[gpu id: 0  epoch10, Root] loss: 1.310269034516204 time: 2023-04-25 03:16:29.005940
+Finished training Root
+Saved Root model to ./models/Root_model.pth
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+ gpu_id 1 network Network 5-4 process created 

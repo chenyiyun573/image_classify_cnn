@@ -1,0 +1,1243 @@
+Loaded Root model from ./models/Root_model.pth
+Loaded Network 1 model from ./models/Network 1_model.pth
+Loaded Network 1-1 model from ./models/Network 1-1_model.pth
+Loaded Network 1-2 model from ./models/Network 1-2_model.pth
+Loaded Network 1-3 model from ./models/Network 1-3_model.pth
+Loaded Network 1-4 model from ./models/Network 1-4_model.pth
+Loaded Network 2 model from ./models/Network 2_model.pth
+Loaded Network 2-1 model from ./models/Network 2-1_model.pth
+Loaded Network 2-2 model from ./models/Network 2-2_model.pth
+Loaded Network 2-3 model from ./models/Network 2-3_model.pth
+Loaded Network 2-4 model from ./models/Network 2-4_model.pth
+Loaded Network 3 model from ./models/Network 3_model.pth
+Loaded Network 3-1 model from ./models/Network 3-1_model.pth
+Loaded Network 3-2 model from ./models/Network 3-2_model.pth
+Loaded Network 3-3 model from ./models/Network 3-3_model.pth
+Loaded Network 3-4 model from ./models/Network 3-4_model.pth
+Loaded Network 4 model from ./models/Network 4_model.pth
+Loaded Network 4-1 model from ./models/Network 4-1_model.pth
+Loaded Network 4-2 model from ./models/Network 4-2_model.pth
+Loaded Network 4-3 model from ./models/Network 4-3_model.pth
+Loaded Network 4-4 model from ./models/Network 4-4_model.pth
+Loaded Network 5 model from ./models/Network 5_model.pth
+Loaded Network 5-1 model from ./models/Network 5-1_model.pth
+Loaded Network 5-2 model from ./models/Network 5-2_model.pth
+Loaded Network 5-3 model from ./models/Network 5-3_model.pth
+Loaded Network 5-4 model from ./models/Network 5-4_model.pth
+Network Root total 3200 correct 1851 accuracy 57.84 time 2023-04-25 07:56:00.171052
+Network Root total 6400 correct 3458 accuracy 54.03 time 2023-04-25 07:56:07.646981
+Network Root total 9600 correct 5428 accuracy 56.54 time 2023-04-25 07:56:16.144066
+Network Root total 12800 correct 7318 accuracy 57.17 time 2023-04-25 07:56:25.004441
+Network Root total 16000 correct 9599 accuracy 59.99 time 2023-04-25 07:56:32.391423
+Network Root total 19200 correct 11400 accuracy 59.38 time 2023-04-25 07:56:40.482822
+Network Root total 22400 correct 13072 accuracy 58.36 time 2023-04-25 07:56:48.365457
+Network Root total 25600 correct 14873 accuracy 58.10 time 2023-04-25 07:56:56.277373
+Network Root total 28800 correct 16656 accuracy 57.83 time 2023-04-25 07:57:03.570945
+Network Root total 32000 correct 18313 accuracy 57.23 time 2023-04-25 07:57:11.217564
+Network Root total 35200 correct 20130 accuracy 57.19 time 2023-04-25 07:57:19.734974
+Network Root total 38400 correct 22239 accuracy 57.91 time 2023-04-25 07:57:27.583808
+Network Root total 41600 correct 23899 accuracy 57.45 time 2023-04-25 07:57:35.860337
+Network Root total 44800 correct 25500 accuracy 56.92 time 2023-04-25 07:57:44.555967
+Network Root total 48000 correct 26559 accuracy 55.33 time 2023-04-25 07:57:53.345549
+Network Root total 51200 correct 27950 accuracy 54.59 time 2023-04-25 07:58:02.609096
+Network Root total 54400 correct 28960 accuracy 53.24 time 2023-04-25 07:58:11.488679
+Network Root total 57600 correct 30096 accuracy 52.25 time 2023-04-25 07:58:20.228426
+Network Root total 60800 correct 31572 accuracy 51.93 time 2023-04-25 07:58:29.436536
+Network Root total 64000 correct 33071 accuracy 51.67 time 2023-04-25 07:58:38.171121
+Network Root total 67200 correct 34351 accuracy 51.12 time 2023-04-25 07:58:46.852869
+Network Root total 70400 correct 35646 accuracy 50.63 time 2023-04-25 07:58:57.159883
+Network Root total 73600 correct 36936 accuracy 50.18 time 2023-04-25 07:59:06.035556
+Network Root total 76800 correct 38043 accuracy 49.54 time 2023-04-25 07:59:15.097926
+Network Root total 80000 correct 39201 accuracy 49.00 time 2023-04-25 07:59:23.679199
+Network Root total 83200 correct 40208 accuracy 48.33 time 2023-04-25 07:59:31.588694
+Network Root total 86400 correct 41769 accuracy 48.34 time 2023-04-25 07:59:40.422707
+Network Root total 89600 correct 43064 accuracy 48.06 time 2023-04-25 07:59:49.037366
+Network Root total 92800 correct 44690 accuracy 48.16 time 2023-04-25 07:59:57.769374
+Network Root total 96000 correct 46391 accuracy 48.32 time 2023-04-25 08:00:06.050823
+Network Root total 99200 correct 48357 accuracy 48.75 time 2023-04-25 08:00:14.346737
+Network Root total 102400 correct 49831 accuracy 48.66 time 2023-04-25 08:00:21.619717
+Network Root total 105600 correct 51739 accuracy 49.00 time 2023-04-25 08:00:29.351150
+Network Root total 108800 correct 53349 accuracy 49.03 time 2023-04-25 08:00:38.038886
+Network Root total 112000 correct 55025 accuracy 49.13 time 2023-04-25 08:00:46.736318
+Network Root total 115200 correct 57043 accuracy 49.52 time 2023-04-25 08:00:55.215199
+Network Root total 118400 correct 59007 accuracy 49.84 time 2023-04-25 08:01:03.010811
+Network Root total 121600 correct 60563 accuracy 49.81 time 2023-04-25 08:01:10.935642
+Network Root total 124800 correct 62824 accuracy 50.34 time 2023-04-25 08:01:18.824218
+Network Root total 128000 correct 64806 accuracy 50.63 time 2023-04-25 08:01:26.361197
+Network Root total 131200 correct 66676 accuracy 50.82 time 2023-04-25 08:01:35.602050
+Network Root total 134400 correct 68774 accuracy 51.17 time 2023-04-25 08:01:42.919886
+Network Root total 137600 correct 70076 accuracy 50.93 time 2023-04-25 08:01:51.990975
+Network Root total 140800 correct 72110 accuracy 51.21 time 2023-04-25 08:02:02.185434
+Network Root total 144000 correct 74432 accuracy 51.69 time 2023-04-25 08:02:11.853551
+Network Root total 147200 correct 75940 accuracy 51.59 time 2023-04-25 08:02:19.737705
+Network Root total 150400 correct 77237 accuracy 51.35 time 2023-04-25 08:02:29.518095
+Network Root total 153600 correct 79027 accuracy 51.45 time 2023-04-25 08:02:37.023662
+Network Root total 156800 correct 80490 accuracy 51.33 time 2023-04-25 08:02:46.108812
+Network Root total 160000 correct 81930 accuracy 51.21 time 2023-04-25 08:02:55.028835
+Network Root total 163200 correct 82871 accuracy 50.78 time 2023-04-25 08:03:03.915112
+Network Root total 166400 correct 84322 accuracy 50.67 time 2023-04-25 08:03:11.309339
+Network Root total 169600 correct 86676 accuracy 51.11 time 2023-04-25 08:03:19.189511
+Network Root total 172800 correct 88838 accuracy 51.41 time 2023-04-25 08:03:27.801351
+Network Root total 176000 correct 90431 accuracy 51.38 time 2023-04-25 08:03:36.174761
+Network Root total 179200 correct 92454 accuracy 51.59 time 2023-04-25 08:03:44.550080
+Network Root total 182400 correct 94375 accuracy 51.74 time 2023-04-25 08:03:52.916564
+Network Root total 185600 correct 96234 accuracy 51.85 time 2023-04-25 08:04:00.972443
+Network Root total 188800 correct 98024 accuracy 51.92 time 2023-04-25 08:04:09.634551
+Network Root total 192000 correct 100211 accuracy 52.19 time 2023-04-25 08:04:16.493882
+Network Root total 195200 correct 101857 accuracy 52.18 time 2023-04-25 08:04:22.717650
+Network Root total 198400 correct 102961 accuracy 51.90 time 2023-04-25 08:04:29.447412
+Network Root total 201600 correct 104561 accuracy 51.87 time 2023-04-25 08:04:36.715459
+Network Root total 204800 correct 106130 accuracy 51.82 time 2023-04-25 08:04:43.388691
+Network Root total 208000 correct 107167 accuracy 51.52 time 2023-04-25 08:04:50.130101
+Network Root total 211200 correct 108857 accuracy 51.54 time 2023-04-25 08:04:57.044488
+Network Root total 214400 correct 110226 accuracy 51.41 time 2023-04-25 08:05:03.470843
+Network Root total 217600 correct 111200 accuracy 51.10 time 2023-04-25 08:05:09.827367
+Network Root total 220800 correct 112386 accuracy 50.90 time 2023-04-25 08:05:17.043599
+Network Root total 224000 correct 113585 accuracy 50.71 time 2023-04-25 08:05:23.517262
+Network Root total 227200 correct 114927 accuracy 50.58 time 2023-04-25 08:05:30.419103
+Network Root total 230400 correct 116166 accuracy 50.42 time 2023-04-25 08:05:37.619047
+Network Root total 233600 correct 117588 accuracy 50.34 time 2023-04-25 08:05:44.365298
+Network Root total 236800 correct 119124 accuracy 50.31 time 2023-04-25 08:05:51.194401
+Network Root total 240000 correct 120767 accuracy 50.32 time 2023-04-25 08:05:58.877480
+Network Root total 243200 correct 121974 accuracy 50.15 time 2023-04-25 08:06:05.655099
+Network Root total 246400 correct 123480 accuracy 50.11 time 2023-04-25 08:06:12.905364
+Network Root total 249600 correct 125118 accuracy 50.13 time 2023-04-25 08:06:19.395786
+Network Root total 252800 correct 126471 accuracy 50.03 time 2023-04-25 08:06:26.532630
+Network Root total 256000 correct 127919 accuracy 49.97 time 2023-04-25 08:06:33.388231
+Network Root total 259200 correct 128886 accuracy 49.72 time 2023-04-25 08:06:40.692236
+Network Root total 262400 correct 130309 accuracy 49.66 time 2023-04-25 08:06:48.035992
+Network Root total 265600 correct 131797 accuracy 49.62 time 2023-04-25 08:06:55.232821
+Network Root total 268800 correct 132864 accuracy 49.43 time 2023-04-25 08:07:02.642715
+Network Root total 272000 correct 134187 accuracy 49.33 time 2023-04-25 08:07:11.047352
+Network Root total 275200 correct 135876 accuracy 49.37 time 2023-04-25 08:07:19.138171
+Network Root total 278400 correct 137718 accuracy 49.47 time 2023-04-25 08:07:26.073036
+Network Root total 281600 correct 139384 accuracy 49.50 time 2023-04-25 08:07:32.934045
+Network Root total 284800 correct 140842 accuracy 49.45 time 2023-04-25 08:07:39.750894
+Network Root total 288000 correct 142296 accuracy 49.41 time 2023-04-25 08:07:47.619992
+Network Root total 291200 correct 143474 accuracy 49.27 time 2023-04-25 08:07:54.029344
+Network Root total 294400 correct 145164 accuracy 49.31 time 2023-04-25 08:08:00.561486
+Network Root total 297600 correct 146489 accuracy 49.22 time 2023-04-25 08:08:08.002387
+Network Root total 300800 correct 148042 accuracy 49.22 time 2023-04-25 08:08:15.724663
+Network Root total 304000 correct 149308 accuracy 49.11 time 2023-04-25 08:08:23.776895
+Network Root total 307200 correct 150429 accuracy 48.97 time 2023-04-25 08:08:31.875379
+Network Root total 310400 correct 151692 accuracy 48.87 time 2023-04-25 08:08:39.256119
+Network Root total 313600 correct 153157 accuracy 48.84 time 2023-04-25 08:08:46.517102
+Network Root total 316800 correct 154550 accuracy 48.78 time 2023-04-25 08:08:54.239915
+Network Root total 320000 correct 156264 accuracy 48.83 time 2023-04-25 08:09:01.784619
+Network Root total 323200 correct 157677 accuracy 48.79 time 2023-04-25 08:09:09.194551
+Network Root total 326400 correct 159076 accuracy 48.74 time 2023-04-25 08:09:16.376039
+Network Root total 329600 correct 160348 accuracy 48.65 time 2023-04-25 08:09:23.640892
+Network Root total 332800 correct 162319 accuracy 48.77 time 2023-04-25 08:09:31.029350
+Network Root total 336000 correct 164095 accuracy 48.84 time 2023-04-25 08:09:38.113423
+Network Root total 339200 correct 165644 accuracy 48.83 time 2023-04-25 08:09:45.415495
+Network Root total 342400 correct 166521 accuracy 48.63 time 2023-04-25 08:09:52.616769
+Network Root total 345600 correct 168160 accuracy 48.66 time 2023-04-25 08:10:00.678633
+Network Root total 348800 correct 169710 accuracy 48.66 time 2023-04-25 08:10:08.721146
+Network Root total 352000 correct 171171 accuracy 48.63 time 2023-04-25 08:10:17.022236
+Network Root total 355200 correct 172711 accuracy 48.62 time 2023-04-25 08:10:25.695977
+Network Root total 358400 correct 173749 accuracy 48.48 time 2023-04-25 08:10:33.488225
+Network Root total 361600 correct 174731 accuracy 48.32 time 2023-04-25 08:10:41.566937
+Network Root total 364800 correct 176520 accuracy 48.39 time 2023-04-25 08:10:48.954490
+Network Root total 368000 correct 177759 accuracy 48.30 time 2023-04-25 08:10:56.268900
+Network Root total 371200 correct 179797 accuracy 48.44 time 2023-04-25 08:11:04.056194
+Network Root total 374400 correct 181843 accuracy 48.57 time 2023-04-25 08:11:12.232884
+Network Root total 377600 correct 183570 accuracy 48.61 time 2023-04-25 08:11:20.232490
+Network Root total 380800 correct 185291 accuracy 48.66 time 2023-04-25 08:11:27.786553
+Network Root total 384000 correct 187144 accuracy 48.74 time 2023-04-25 08:11:36.165218
+Network Root total 387200 correct 189207 accuracy 48.87 time 2023-04-25 08:11:43.765583
+Network Root total 390400 correct 190467 accuracy 48.79 time 2023-04-25 08:11:52.584218
+Network Root total 393600 correct 192020 accuracy 48.79 time 2023-04-25 08:12:00.608963
+Network Root total 396800 correct 193546 accuracy 48.78 time 2023-04-25 08:12:09.199069
+Network Root total 400000 correct 194361 accuracy 48.59 time 2023-04-25 08:12:17.593192
+Network Root total 403200 correct 195635 accuracy 48.52 time 2023-04-25 08:12:25.170099
+Network Root total 406400 correct 196594 accuracy 48.37 time 2023-04-25 08:12:32.704039
+Network Root total 409600 correct 197993 accuracy 48.34 time 2023-04-25 08:12:41.701426
+Network Root total 412800 correct 200116 accuracy 48.48 time 2023-04-25 08:12:50.197717
+Network Root total 416000 correct 202456 accuracy 48.67 time 2023-04-25 08:13:00.183017
+Network Root total 419200 correct 204546 accuracy 48.79 time 2023-04-25 08:13:08.973744
+Network Root total 422400 correct 206155 accuracy 48.81 time 2023-04-25 08:13:18.324771
+Network Root total 425600 correct 207817 accuracy 48.83 time 2023-04-25 08:13:26.016479
+Network Root total 428800 correct 209410 accuracy 48.84 time 2023-04-25 08:13:33.525254
+Network Root total 432000 correct 210899 accuracy 48.82 time 2023-04-25 08:13:40.619480
+Network Root total 435200 correct 212591 accuracy 48.85 time 2023-04-25 08:13:47.747246
+Network Root total 438400 correct 214457 accuracy 48.92 time 2023-04-25 08:13:54.955598
+Network Root total 441600 correct 215998 accuracy 48.91 time 2023-04-25 08:14:02.651551
+Network Root total 444800 correct 217255 accuracy 48.84 time 2023-04-25 08:14:10.541167
+Network Root total 448000 correct 218600 accuracy 48.79 time 2023-04-25 08:14:18.908872
+Network Root total 451200 correct 220046 accuracy 48.77 time 2023-04-25 08:14:25.662738
+Network Root total 454400 correct 221460 accuracy 48.74 time 2023-04-25 08:14:32.826655
+Network Root total 457600 correct 222818 accuracy 48.69 time 2023-04-25 08:14:40.360028
+Network Root total 460800 correct 224517 accuracy 48.72 time 2023-04-25 08:14:47.118304
+Network Root total 464000 correct 225888 accuracy 48.68 time 2023-04-25 08:14:54.268055
+Network Root total 467200 correct 227797 accuracy 48.76 time 2023-04-25 08:15:02.103068
+Network Root total 470400 correct 229458 accuracy 48.78 time 2023-04-25 08:15:10.157860
+Network Root total 473600 correct 230946 accuracy 48.76 time 2023-04-25 08:15:17.889336
+Network Root total 476800 correct 232501 accuracy 48.76 time 2023-04-25 08:15:25.590032
+Network Root total 480000 correct 233580 accuracy 48.66 time 2023-04-25 08:15:33.289483
+Network Root total 483200 correct 235397 accuracy 48.72 time 2023-04-25 08:15:40.941155
+Network Root total 486400 correct 237008 accuracy 48.73 time 2023-04-25 08:15:48.990724
+Network Root total 489600 correct 237850 accuracy 48.58 time 2023-04-25 08:15:57.251916
+Network Root total 492800 correct 239288 accuracy 48.56 time 2023-04-25 08:16:05.139897
+Network Root total 496000 correct 240870 accuracy 48.56 time 2023-04-25 08:16:12.784725
+Network Root total 499200 correct 242737 accuracy 48.63 time 2023-04-25 08:16:21.065829
+Network Root total 502400 correct 243909 accuracy 48.55 time 2023-04-25 08:16:30.059927
+Network Root total 505600 correct 246183 accuracy 48.69 time 2023-04-25 08:16:38.637099
+Network Root total 508800 correct 247352 accuracy 48.61 time 2023-04-25 08:16:47.598526
+Network Root total 512000 correct 248897 accuracy 48.61 time 2023-04-25 08:16:55.858686
+Network Root total 515200 correct 250206 accuracy 48.56 time 2023-04-25 08:17:02.072310
+Network Root total 518400 correct 251888 accuracy 48.59 time 2023-04-25 08:17:10.030527
+Network Root total 521600 correct 254090 accuracy 48.71 time 2023-04-25 08:17:16.848003
+Network Root total 524800 correct 255221 accuracy 48.63 time 2023-04-25 08:17:27.176106
+Network Root total 528000 correct 256283 accuracy 48.54 time 2023-04-25 08:17:35.462615
+Network Root total 531200 correct 257144 accuracy 48.41 time 2023-04-25 08:17:42.997812
+Network Root total 534400 correct 258674 accuracy 48.40 time 2023-04-25 08:17:51.270426
+Network Root total 537600 correct 260343 accuracy 48.43 time 2023-04-25 08:17:58.733229
+Network Root total 540800 correct 261435 accuracy 48.34 time 2023-04-25 08:18:06.490250
+Network Root total 544000 correct 262638 accuracy 48.28 time 2023-04-25 08:18:13.769974
+Network Root total 547200 correct 264262 accuracy 48.29 time 2023-04-25 08:18:21.529294
+Network Root total 550400 correct 265529 accuracy 48.24 time 2023-04-25 08:18:28.687092
+Network Root total 553600 correct 267072 accuracy 48.24 time 2023-04-25 08:18:36.812481
+Network Root total 556800 correct 268256 accuracy 48.18 time 2023-04-25 08:18:44.846625
+Network Root total 560000 correct 269535 accuracy 48.13 time 2023-04-25 08:18:52.752114
+Network Root total 563200 correct 271082 accuracy 48.13 time 2023-04-25 08:19:00.926586
+Network Root total 566400 correct 272407 accuracy 48.09 time 2023-04-25 08:19:08.078610
+Network Root total 569600 correct 273689 accuracy 48.05 time 2023-04-25 08:19:16.232998
+Network Root total 572800 correct 275311 accuracy 48.06 time 2023-04-25 08:19:24.030491
+Network Root total 576000 correct 276470 accuracy 48.00 time 2023-04-25 08:19:30.344694
+Network Root total 579200 correct 277684 accuracy 47.94 time 2023-04-25 08:19:38.668785
+Network Root total 582400 correct 278770 accuracy 47.87 time 2023-04-25 08:19:45.664523
+Network Root total 585600 correct 280064 accuracy 47.83 time 2023-04-25 08:19:54.665428
+Network Root total 588800 correct 281107 accuracy 47.74 time 2023-04-25 08:20:02.237156
+Network Root total 592000 correct 282324 accuracy 47.69 time 2023-04-25 08:20:09.304769
+Network Root total 595200 correct 283337 accuracy 47.60 time 2023-04-25 08:20:17.019801
+Network Root total 598400 correct 284500 accuracy 47.54 time 2023-04-25 08:20:23.699190
+Network Root total 601600 correct 286501 accuracy 47.62 time 2023-04-25 08:20:31.774898
+Network Root total 604800 correct 287772 accuracy 47.58 time 2023-04-25 08:20:39.779380
+Network Root total 608000 correct 288982 accuracy 47.53 time 2023-04-25 08:20:49.434995
+Network Root total 611200 correct 290421 accuracy 47.52 time 2023-04-25 08:20:56.346944
+Network Root total 614400 correct 292151 accuracy 47.55 time 2023-04-25 08:21:05.977556
+Network Root total 617600 correct 293908 accuracy 47.59 time 2023-04-25 08:21:14.663845
+Network Root total 620800 correct 295083 accuracy 47.53 time 2023-04-25 08:21:21.098465
+Network Root total 624000 correct 296449 accuracy 47.51 time 2023-04-25 08:21:28.539075
+Network Root total 627200 correct 297795 accuracy 47.48 time 2023-04-25 08:21:35.594839
+Network Root total 630400 correct 299124 accuracy 47.45 time 2023-04-25 08:21:43.403982
+Network Root total 633600 correct 300503 accuracy 47.43 time 2023-04-25 08:21:50.738193
+Network Root total 636800 correct 302057 accuracy 47.43 time 2023-04-25 08:21:57.980278
+Network Root total 640000 correct 303896 accuracy 47.48 time 2023-04-25 08:22:06.523185
+Network Root total 643200 correct 305399 accuracy 47.48 time 2023-04-25 08:22:14.821452
+Network Root total 646400 correct 306865 accuracy 47.47 time 2023-04-25 08:22:21.421167
+Network Root total 649600 correct 308170 accuracy 47.44 time 2023-04-25 08:22:28.277888
+Network Root total 652800 correct 309473 accuracy 47.41 time 2023-04-25 08:22:34.953102
+Network Root total 656000 correct 311138 accuracy 47.43 time 2023-04-25 08:22:44.235016
+Network Root total 659200 correct 312427 accuracy 47.39 time 2023-04-25 08:22:51.328106
+Network Root total 662400 correct 313703 accuracy 47.36 time 2023-04-25 08:22:58.402808
+Network Root total 665600 correct 314610 accuracy 47.27 time 2023-04-25 08:23:06.808978
+Network Root total 668800 correct 316022 accuracy 47.25 time 2023-04-25 08:23:14.689733
+Network Root total 672000 correct 317550 accuracy 47.25 time 2023-04-25 08:23:22.551877
+Network Root total 675200 correct 318613 accuracy 47.19 time 2023-04-25 08:23:30.764953
+Network Root total 678400 correct 319909 accuracy 47.16 time 2023-04-25 08:23:39.333305
+Network Root total 681600 correct 321389 accuracy 47.15 time 2023-04-25 08:23:46.563692
+Network Root total 684800 correct 322744 accuracy 47.13 time 2023-04-25 08:23:54.252388
+Network Root total 688000 correct 324228 accuracy 47.13 time 2023-04-25 08:24:02.444836
+Network Root total 691200 correct 325828 accuracy 47.14 time 2023-04-25 08:24:10.192973
+Network Root total 694400 correct 327609 accuracy 47.18 time 2023-04-25 08:24:17.960010
+Network Root total 697600 correct 328521 accuracy 47.09 time 2023-04-25 08:24:25.172957
+Network Root total 700800 correct 329575 accuracy 47.03 time 2023-04-25 08:24:32.838818
+Network Root total 704000 correct 331260 accuracy 47.05 time 2023-04-25 08:24:42.023204
+Network Root total 707200 correct 333131 accuracy 47.11 time 2023-04-25 08:24:48.842245
+Network Root total 710400 correct 334615 accuracy 47.10 time 2023-04-25 08:24:54.905569
+Network Root total 713600 correct 336268 accuracy 47.12 time 2023-04-25 08:25:04.538729
+Network Root total 716800 correct 337787 accuracy 47.12 time 2023-04-25 08:25:12.517185
+Network Root total 720000 correct 339005 accuracy 47.08 time 2023-04-25 08:25:19.847816
+Network Root total 723200 correct 340379 accuracy 47.07 time 2023-04-25 08:25:28.769170
+Network Root total 726400 correct 342023 accuracy 47.08 time 2023-04-25 08:25:36.366549
+Network Root total 729600 correct 343433 accuracy 47.07 time 2023-04-25 08:25:43.848346
+Network Root total 732800 correct 344969 accuracy 47.08 time 2023-04-25 08:25:52.119191
+Network Root total 736000 correct 346434 accuracy 47.07 time 2023-04-25 08:26:00.612985
+Network Root total 739200 correct 348014 accuracy 47.08 time 2023-04-25 08:26:08.239861
+Network Root total 742400 correct 349568 accuracy 47.09 time 2023-04-25 08:26:16.482080
+Network Root total 745600 correct 350891 accuracy 47.06 time 2023-04-25 08:26:24.255211
+Network Root total 748800 correct 352263 accuracy 47.04 time 2023-04-25 08:26:32.922843
+Network Root total 752000 correct 353095 accuracy 46.95 time 2023-04-25 08:26:40.257058
+Network Root total 755200 correct 354633 accuracy 46.96 time 2023-04-25 08:26:48.147696
+Network Root total 758400 correct 355894 accuracy 46.93 time 2023-04-25 08:26:54.115578
+Network Root total 761600 correct 356937 accuracy 46.87 time 2023-04-25 08:27:01.081695
+Network Root total 764800 correct 358621 accuracy 46.89 time 2023-04-25 08:27:09.647027
+Network Root total 768000 correct 359898 accuracy 46.86 time 2023-04-25 08:27:17.042918
+Network Root total 771200 correct 361267 accuracy 46.84 time 2023-04-25 08:27:24.717281
+Network Root total 774400 correct 362655 accuracy 46.83 time 2023-04-25 08:27:32.074793
+Network Root total 777600 correct 364124 accuracy 46.83 time 2023-04-25 08:27:38.911396
+Network Root total 780800 correct 365907 accuracy 46.86 time 2023-04-25 08:27:46.035697
+Network Root total 784000 correct 366882 accuracy 46.80 time 2023-04-25 08:27:54.170453
+Network Root total 787200 correct 368247 accuracy 46.78 time 2023-04-25 08:28:02.841819
+Network Root total 790400 correct 369363 accuracy 46.73 time 2023-04-25 08:28:10.100426
+Network Root total 793600 correct 370617 accuracy 46.70 time 2023-04-25 08:28:16.995571
+Network Root total 796800 correct 371432 accuracy 46.62 time 2023-04-25 08:28:24.464165
+Network Root total 800000 correct 372868 accuracy 46.61 time 2023-04-25 08:28:31.420106
+Network Root total 803200 correct 374320 accuracy 46.60 time 2023-04-25 08:28:40.382586
+Network Root total 806400 correct 375623 accuracy 46.58 time 2023-04-25 08:28:48.076456
+Network Root total 809600 correct 376995 accuracy 46.57 time 2023-04-25 08:28:54.461538
+Network Root total 812800 correct 378255 accuracy 46.54 time 2023-04-25 08:28:59.792719
+Network Root total 816000 correct 379549 accuracy 46.51 time 2023-04-25 08:29:06.718854
+Network Root total 819200 correct 380597 accuracy 46.46 time 2023-04-25 08:29:13.896893
+Network Root total 822400 correct 382413 accuracy 46.50 time 2023-04-25 08:29:21.803963
+Network Root total 825600 correct 383662 accuracy 46.47 time 2023-04-25 08:29:29.824988
+Network Root total 828800 correct 385241 accuracy 46.48 time 2023-04-25 08:29:37.490773
+Network Root total 832000 correct 387102 accuracy 46.53 time 2023-04-25 08:29:45.959853
+Network Root total 835200 correct 388709 accuracy 46.54 time 2023-04-25 08:29:54.284955
+Network Root total 838400 correct 390074 accuracy 46.53 time 2023-04-25 08:30:01.379628
+Network Root total 841600 correct 391050 accuracy 46.47 time 2023-04-25 08:30:08.717901
+Network Root total 844800 correct 392130 accuracy 46.42 time 2023-04-25 08:30:17.252530
+Network Root total 848000 correct 393581 accuracy 46.41 time 2023-04-25 08:30:24.618675
+Network Root total 851200 correct 395062 accuracy 46.41 time 2023-04-25 08:30:33.611733
+Network Root total 854400 correct 396489 accuracy 46.41 time 2023-04-25 08:30:41.030095
+Network Root total 857600 correct 398022 accuracy 46.41 time 2023-04-25 08:30:48.216702
+Network Root total 860800 correct 399666 accuracy 46.43 time 2023-04-25 08:30:56.270729
+Network Root total 864000 correct 400923 accuracy 46.40 time 2023-04-25 08:31:05.861686
+Network Root total 867200 correct 402043 accuracy 46.36 time 2023-04-25 08:31:12.054409
+Network Root total 870400 correct 403016 accuracy 46.30 time 2023-04-25 08:31:18.059239
+Network Root total 873600 correct 404439 accuracy 46.30 time 2023-04-25 08:31:25.156054
+Network Root total 876800 correct 405866 accuracy 46.29 time 2023-04-25 08:31:32.415619
+Network Root total 880000 correct 407729 accuracy 46.33 time 2023-04-25 08:31:39.975812
+Network Root total 883200 correct 409354 accuracy 46.35 time 2023-04-25 08:31:49.012103
+Network Root total 886400 correct 410276 accuracy 46.29 time 2023-04-25 08:31:57.576885
+Network Root total 889600 correct 411766 accuracy 46.29 time 2023-04-25 08:32:06.115820
+Network Root total 892800 correct 413012 accuracy 46.26 time 2023-04-25 08:32:14.929924
+Network Root total 896000 correct 414145 accuracy 46.22 time 2023-04-25 08:32:23.263599
+Network Root total 899200 correct 415472 accuracy 46.20 time 2023-04-25 08:32:30.040335
+Network Root total 902400 correct 417020 accuracy 46.21 time 2023-04-25 08:32:38.051054
+Network Root total 905600 correct 418128 accuracy 46.17 time 2023-04-25 08:32:46.149739
+Network Root total 908800 correct 419191 accuracy 46.13 time 2023-04-25 08:32:53.809395
+Network Root total 912000 correct 419874 accuracy 46.04 time 2023-04-25 08:33:00.733285
+Network Root total 915200 correct 421439 accuracy 46.05 time 2023-04-25 08:33:06.725962
+Network Root total 918400 correct 423049 accuracy 46.06 time 2023-04-25 08:33:13.267896
+Network Root total 921600 correct 424428 accuracy 46.05 time 2023-04-25 08:33:21.987773
+Network Root total 924800 correct 426109 accuracy 46.08 time 2023-04-25 08:33:29.166245
+Network Root total 928000 correct 427526 accuracy 46.07 time 2023-04-25 08:33:36.337567
+Network Root total 931200 correct 428768 accuracy 46.04 time 2023-04-25 08:33:43.320421
+Network Root total 934400 correct 430255 accuracy 46.05 time 2023-04-25 08:33:51.191750
+Network Root total 937600 correct 431439 accuracy 46.02 time 2023-04-25 08:33:58.524352
+Network Root total 940800 correct 432958 accuracy 46.02 time 2023-04-25 08:34:06.312858
+Network Root total 944000 correct 434474 accuracy 46.02 time 2023-04-25 08:34:15.247192
+Network Root total 947200 correct 435822 accuracy 46.01 time 2023-04-25 08:34:23.454106
+Network Root total 950400 correct 437318 accuracy 46.01 time 2023-04-25 08:34:30.776076
+Network Root total 953600 correct 438829 accuracy 46.02 time 2023-04-25 08:34:37.953887
+Network Root total 956800 correct 440250 accuracy 46.01 time 2023-04-25 08:34:44.740039
+Network Root total 960000 correct 441223 accuracy 45.96 time 2023-04-25 08:34:51.771982
+Network Root total 963200 correct 442593 accuracy 45.95 time 2023-04-25 08:35:00.784188
+Network Root total 966400 correct 443623 accuracy 45.90 time 2023-04-25 08:35:07.788741
+Network Root total 969600 correct 445135 accuracy 45.91 time 2023-04-25 08:35:16.491221
+Network Root total 972800 correct 446531 accuracy 45.90 time 2023-04-25 08:35:23.891469
+Network Root total 976000 correct 447919 accuracy 45.89 time 2023-04-25 08:35:30.635743
+Network Root total 979200 correct 449219 accuracy 45.88 time 2023-04-25 08:35:37.642307
+Network Root total 982400 correct 450465 accuracy 45.85 time 2023-04-25 08:35:44.437807
+Network Root total 985600 correct 451862 accuracy 45.85 time 2023-04-25 08:35:52.033057
+Network Root total 988800 correct 453214 accuracy 45.83 time 2023-04-25 08:35:59.405772
+Network Root total 992000 correct 454304 accuracy 45.80 time 2023-04-25 08:36:06.140219
+Network Root total 995200 correct 455461 accuracy 45.77 time 2023-04-25 08:36:14.277702
+Network Root total 998400 correct 456616 accuracy 45.73 time 2023-04-25 08:36:21.887689
+Network Root total 1001600 correct 458501 accuracy 45.78 time 2023-04-25 08:36:30.117106
+Network Root total 1004800 correct 459398 accuracy 45.72 time 2023-04-25 08:36:36.837158
+Network Root total 1008000 correct 460591 accuracy 45.69 time 2023-04-25 08:36:44.544256
+Network Root total 1011200 correct 461599 accuracy 45.65 time 2023-04-25 08:36:52.784213
+Network Root total 1014400 correct 462967 accuracy 45.64 time 2023-04-25 08:37:00.597496
+Network Root total 1017600 correct 464079 accuracy 45.61 time 2023-04-25 08:37:09.728793
+Network Root total 1020800 correct 465554 accuracy 45.61 time 2023-04-25 08:37:17.233655
+Network Root total 1024000 correct 467021 accuracy 45.61 time 2023-04-25 08:37:25.033591
+Network Root total 1027200 correct 468608 accuracy 45.62 time 2023-04-25 08:37:33.484091
+Network Root total 1030400 correct 470196 accuracy 45.63 time 2023-04-25 08:37:41.324258
+Network Root total 1033600 correct 471453 accuracy 45.61 time 2023-04-25 08:37:48.534010
+Network Root total 1036800 correct 472852 accuracy 45.61 time 2023-04-25 08:37:57.213882
+Network Root total 1040000 correct 473964 accuracy 45.57 time 2023-04-25 08:38:03.791469
+Network Root total 1043200 correct 475284 accuracy 45.56 time 2023-04-25 08:38:10.239265
+Network Root total 1046400 correct 476666 accuracy 45.55 time 2023-04-25 08:38:18.028270
+Network Root total 1049600 correct 477987 accuracy 45.54 time 2023-04-25 08:38:24.456291
+Network Root total 1052800 correct 479668 accuracy 45.56 time 2023-04-25 08:38:33.494294
+Network Root total 1056000 correct 480732 accuracy 45.52 time 2023-04-25 08:38:40.712886
+Network Root total 1059200 correct 482104 accuracy 45.52 time 2023-04-25 08:38:48.463828
+Network Root total 1062400 correct 483494 accuracy 45.51 time 2023-04-25 08:38:55.928245
+Network Root total 1065600 correct 484637 accuracy 45.48 time 2023-04-25 08:39:03.264834
+Network Root total 1068800 correct 486395 accuracy 45.51 time 2023-04-25 08:39:11.230093
+Network Root total 1072000 correct 487570 accuracy 45.48 time 2023-04-25 08:39:18.534372
+Network Root total 1075200 correct 488828 accuracy 45.46 time 2023-04-25 08:39:24.973468
+Network Root total 1078400 correct 489904 accuracy 45.43 time 2023-04-25 08:39:32.198029
+Network Root total 1081600 correct 491213 accuracy 45.42 time 2023-04-25 08:39:40.407757
+Network Root total 1084800 correct 492398 accuracy 45.39 time 2023-04-25 08:39:46.706063
+Network Root total 1088000 correct 493762 accuracy 45.38 time 2023-04-25 08:39:55.007790
+Network Root total 1091200 correct 494776 accuracy 45.34 time 2023-04-25 08:40:02.723365
+Network Root total 1094400 correct 496750 accuracy 45.39 time 2023-04-25 08:40:10.974674
+Network Root total 1097600 correct 498658 accuracy 45.43 time 2023-04-25 08:40:18.129165
+Network Root total 1100800 correct 500025 accuracy 45.42 time 2023-04-25 08:40:26.070554
+Network Root total 1104000 correct 501343 accuracy 45.41 time 2023-04-25 08:40:33.462533
+Network Root total 1107200 correct 502694 accuracy 45.40 time 2023-04-25 08:40:41.548158
+Network Root total 1110400 correct 504278 accuracy 45.41 time 2023-04-25 08:40:52.378983
+Network Root total 1113600 correct 505290 accuracy 45.37 time 2023-04-25 08:41:00.646709
+Network Root total 1116800 correct 506735 accuracy 45.37 time 2023-04-25 08:41:08.814823
+Network Root total 1120000 correct 508503 accuracy 45.40 time 2023-04-25 08:41:17.564178
+Network Root total 1123200 correct 509699 accuracy 45.38 time 2023-04-25 08:41:25.713509
+Network Root total 1126400 correct 511124 accuracy 45.38 time 2023-04-25 08:41:33.280153
+Network Root total 1129600 correct 512509 accuracy 45.37 time 2023-04-25 08:41:40.856815
+Network Root total 1132800 correct 513732 accuracy 45.35 time 2023-04-25 08:41:49.974853
+Network Root total 1136000 correct 515578 accuracy 45.39 time 2023-04-25 08:41:59.206800
+Network Root total 1139200 correct 517082 accuracy 45.39 time 2023-04-25 08:42:07.008966
+Network Root total 1142400 correct 518384 accuracy 45.38 time 2023-04-25 08:42:14.637817
+Network Root total 1145600 correct 519492 accuracy 45.35 time 2023-04-25 08:42:22.211948
+Network Root total 1148800 correct 520554 accuracy 45.31 time 2023-04-25 08:42:29.739279
+Network Root total 1152000 correct 521501 accuracy 45.27 time 2023-04-25 08:42:36.739294
+Network Root total 1155200 correct 522990 accuracy 45.27 time 2023-04-25 08:42:42.751836
+Network Root total 1158400 correct 524248 accuracy 45.26 time 2023-04-25 08:42:50.336243
+Network Root total 1161600 correct 525214 accuracy 45.21 time 2023-04-25 08:42:56.145946
+Network Root total 1164800 correct 526797 accuracy 45.23 time 2023-04-25 08:43:03.371914
+Network Root total 1168000 correct 527922 accuracy 45.20 time 2023-04-25 08:43:11.818416
+Network Root total 1171200 correct 529280 accuracy 45.19 time 2023-04-25 08:43:19.154670
+Network Root total 1174400 correct 531421 accuracy 45.25 time 2023-04-25 08:43:26.921509
+Network Root total 1177600 correct 533137 accuracy 45.27 time 2023-04-25 08:43:35.911712
+Network Root total 1180800 correct 534862 accuracy 45.30 time 2023-04-25 08:43:43.291567
+Network Root total 1184000 correct 536248 accuracy 45.29 time 2023-04-25 08:43:52.026693
+Network Root total 1187200 correct 537850 accuracy 45.30 time 2023-04-25 08:44:00.409585
+Network Root total 1190400 correct 539132 accuracy 45.29 time 2023-04-25 08:44:07.890268
+Network Root total 1193600 correct 541140 accuracy 45.34 time 2023-04-25 08:44:16.943263
+Network Root total 1196800 correct 542972 accuracy 45.37 time 2023-04-25 08:44:25.426098
+Network Root total 1200000 correct 544586 accuracy 45.38 time 2023-04-25 08:44:33.633086
+Network Root total 1203200 correct 546244 accuracy 45.40 time 2023-04-25 08:44:42.106841
+Network Root total 1206400 correct 547953 accuracy 45.42 time 2023-04-25 08:44:53.237378
+Network Root total 1209600 correct 549247 accuracy 45.41 time 2023-04-25 08:45:01.974366
+Network Root total 1212800 correct 551504 accuracy 45.47 time 2023-04-25 08:45:09.686556
+Network Root total 1216000 correct 553377 accuracy 45.51 time 2023-04-25 08:45:17.560338
+Network Root total 1219200 correct 555072 accuracy 45.53 time 2023-04-25 08:45:24.932549
+Network Root total 1222400 correct 556797 accuracy 45.55 time 2023-04-25 08:45:32.689429
+Network Root total 1225600 correct 558613 accuracy 45.58 time 2023-04-25 08:45:40.969326
+Network Root total 1228800 correct 560676 accuracy 45.63 time 2023-04-25 08:45:49.289739
+Network Root total 1232000 correct 561996 accuracy 45.62 time 2023-04-25 08:45:58.421582
+Network Root total 1235200 correct 564006 accuracy 45.66 time 2023-04-25 08:46:07.186045
+Network Root total 1238400 correct 565695 accuracy 45.68 time 2023-04-25 08:46:15.526355
+Network Root total 1241600 correct 567207 accuracy 45.68 time 2023-04-25 08:46:22.419441
+Network Root total 1244800 correct 568971 accuracy 45.71 time 2023-04-25 08:46:31.265136
+Network Root total 1248000 correct 571135 accuracy 45.76 time 2023-04-25 08:46:41.882052
+Network Root total 1251200 correct 572502 accuracy 45.76 time 2023-04-25 08:46:52.534316
+Network Root total 1254400 correct 573935 accuracy 45.75 time 2023-04-25 08:47:01.970773
+Network Root total 1257600 correct 575619 accuracy 45.77 time 2023-04-25 08:47:10.537539
+Network Root total 1260800 correct 577251 accuracy 45.78 time 2023-04-25 08:47:18.586703
+Network Root total 1264000 correct 579872 accuracy 45.88 time 2023-04-25 08:47:26.684003
+Network Root total 1267200 correct 581299 accuracy 45.87 time 2023-04-25 08:47:35.008153
+Network Root total 1270400 correct 583360 accuracy 45.92 time 2023-04-25 08:47:44.303533
+Network Root total 1273600 correct 585689 accuracy 45.99 time 2023-04-25 08:47:53.494456
+Network Root total 1276800 correct 587440 accuracy 46.01 time 2023-04-25 08:48:03.710389
+Network Root total 1280000 correct 588678 accuracy 45.99 time 2023-04-25 08:48:12.416526
+Root trainset accuracy: 45.98%  time 2023-04-25 08:48:15.599832
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+Network Network 1 total 3200 correct 2683 accuracy 83.84 time 2023-04-25 08:48:27.510845
+Network Network 1 total 6400 correct 5144 accuracy 80.38 time 2023-04-25 08:48:35.641080
+Network Network 1 total 9600 correct 7234 accuracy 75.35 time 2023-04-25 08:48:43.534049
+Network Network 1 total 12800 correct 9383 accuracy 73.30 time 2023-04-25 08:48:51.717806
+Network Network 1 total 16000 correct 11028 accuracy 68.92 time 2023-04-25 08:49:00.281794
+Network Network 1 total 19200 correct 12993 accuracy 67.67 time 2023-04-25 08:49:08.945412
+Network Network 1 total 22400 correct 15421 accuracy 68.84 time 2023-04-25 08:49:18.224075
+Network Network 1 total 25600 correct 17818 accuracy 69.60 time 2023-04-25 08:49:26.212092
+Network Network 1 total 28800 correct 19945 accuracy 69.25 time 2023-04-25 08:49:34.152737
+Network Network 1 total 32000 correct 21988 accuracy 68.71 time 2023-04-25 08:49:42.414233
+Network Network 1 total 35200 correct 23923 accuracy 67.96 time 2023-04-25 08:49:50.920620
+Network Network 1 total 38400 correct 26267 accuracy 68.40 time 2023-04-25 08:49:59.143123
+Network Network 1 total 41600 correct 28743 accuracy 69.09 time 2023-04-25 08:50:07.234776
+Network Network 1 total 44800 correct 30810 accuracy 68.77 time 2023-04-25 08:50:13.338031
+Network Network 1 total 48000 correct 32528 accuracy 67.77 time 2023-04-25 08:50:20.350731
+Network Network 1 total 51200 correct 34619 accuracy 67.62 time 2023-04-25 08:50:27.752983
+Network Network 1 total 54400 correct 36440 accuracy 66.99 time 2023-04-25 08:50:34.414653
+Network Network 1 total 57600 correct 38635 accuracy 67.07 time 2023-04-25 08:50:42.026000
+Network Network 1 total 60800 correct 40595 accuracy 66.77 time 2023-04-25 08:50:49.000574
+Network Network 1 total 64000 correct 42581 accuracy 66.53 time 2023-04-25 08:50:56.034510
+Network Network 1 total 67200 correct 44378 accuracy 66.04 time 2023-04-25 08:51:03.121003
+Network Network 1 total 70400 correct 46183 accuracy 65.60 time 2023-04-25 08:51:11.377509
+Network Network 1 total 73600 correct 48375 accuracy 65.73 time 2023-04-25 08:51:20.010414
+Network Network 1 total 76800 correct 50799 accuracy 66.14 time 2023-04-25 08:51:27.848944
+Network Network 1 total 80000 correct 52605 accuracy 65.76 time 2023-04-25 08:51:35.792403
+Network Network 1 total 83200 correct 54886 accuracy 65.97 time 2023-04-25 08:51:43.898690
+Network Network 1 total 86400 correct 57431 accuracy 66.47 time 2023-04-25 08:51:51.427074
+Network Network 1 total 89600 correct 58977 accuracy 65.82 time 2023-04-25 08:51:58.779408
+Network Network 1 total 92800 correct 61078 accuracy 65.82 time 2023-04-25 08:52:05.631794
+Network Network 1 total 96000 correct 62464 accuracy 65.07 time 2023-04-25 08:52:13.136478
+Network Network 1 total 99200 correct 64753 accuracy 65.28 time 2023-04-25 08:52:20.872809
+Network Network 1 total 102400 correct 66311 accuracy 64.76 time 2023-04-25 08:52:29.298216
+Network Network 1 total 105600 correct 68540 accuracy 64.91 time 2023-04-25 08:52:37.205437
+Network Network 1 total 108800 correct 70811 accuracy 65.08 time 2023-04-25 08:52:43.725830
+Network Network 1 total 112000 correct 72910 accuracy 65.10 time 2023-04-25 08:52:51.530111
+Network Network 1 total 115200 correct 75157 accuracy 65.24 time 2023-04-25 08:52:58.746327
+Network Network 1 total 118400 correct 77151 accuracy 65.16 time 2023-04-25 08:53:05.234511
+Network Network 1 total 121600 correct 79206 accuracy 65.14 time 2023-04-25 08:53:12.748237
+Network Network 1 total 124800 correct 81165 accuracy 65.04 time 2023-04-25 08:53:21.525314
+Network Network 1 total 128000 correct 83275 accuracy 65.06 time 2023-04-25 08:53:29.343490
+Network Network 1 total 131200 correct 85517 accuracy 65.18 time 2023-04-25 08:53:36.106048
+Network Network 1 total 134400 correct 87769 accuracy 65.30 time 2023-04-25 08:53:43.688650
+Network Network 1 total 137600 correct 89573 accuracy 65.10 time 2023-04-25 08:53:50.518076
+Network Network 1 total 140800 correct 91697 accuracy 65.13 time 2023-04-25 08:53:57.613946
+Network Network 1 total 144000 correct 93836 accuracy 65.16 time 2023-04-25 08:54:04.856892
+Network Network 1 total 147200 correct 95741 accuracy 65.04 time 2023-04-25 08:54:11.645821
+Network Network 1 total 150400 correct 97596 accuracy 64.89 time 2023-04-25 08:54:20.121083
+Network Network 1 total 153600 correct 99251 accuracy 64.62 time 2023-04-25 08:54:27.141169
+Network Network 1 total 156800 correct 101413 accuracy 64.68 time 2023-04-25 08:54:35.260786
+Network Network 1 total 160000 correct 103592 accuracy 64.74 time 2023-04-25 08:54:42.933985
+Network Network 1 total 163200 correct 105601 accuracy 64.71 time 2023-04-25 08:54:50.338728
+Network Network 1 total 166400 correct 107556 accuracy 64.64 time 2023-04-25 08:54:57.528820
+Network Network 1 total 169600 correct 109551 accuracy 64.59 time 2023-04-25 08:55:04.044968
+Network Network 1 total 172800 correct 111332 accuracy 64.43 time 2023-04-25 08:55:10.401892
+Network Network 1 total 176000 correct 113259 accuracy 64.35 time 2023-04-25 08:55:18.272894
+Network Network 1 total 179200 correct 115583 accuracy 64.50 time 2023-04-25 08:55:27.690256
+Network Network 1 total 182400 correct 117296 accuracy 64.31 time 2023-04-25 08:55:35.476917
+Network Network 1 total 185600 correct 119193 accuracy 64.22 time 2023-04-25 08:55:43.117522
+Network Network 1 total 188800 correct 121011 accuracy 64.09 time 2023-04-25 08:55:50.917054
+Network Network 1 total 192000 correct 122690 accuracy 63.90 time 2023-04-25 08:55:59.120947
+Network Network 1 total 195200 correct 125004 accuracy 64.04 time 2023-04-25 08:56:06.251913
+Network Network 1 total 198400 correct 126914 accuracy 63.97 time 2023-04-25 08:56:14.228223
+Network Network 1 total 201600 correct 128920 accuracy 63.95 time 2023-04-25 08:56:21.933382
+Network Network 1 total 204800 correct 131171 accuracy 64.05 time 2023-04-25 08:56:29.488654
+Network Network 1 total 208000 correct 132715 accuracy 63.81 time 2023-04-25 08:56:38.064010
+Network Network 1 total 211200 correct 134823 accuracy 63.84 time 2023-04-25 08:56:45.977198
+Network Network 1 total 214400 correct 136538 accuracy 63.68 time 2023-04-25 08:56:53.316060
+Network Network 1 total 217600 correct 138180 accuracy 63.50 time 2023-04-25 08:57:00.909205
+Network Network 1 total 220800 correct 140328 accuracy 63.55 time 2023-04-25 08:57:08.607224
+Network Network 1 total 224000 correct 142621 accuracy 63.67 time 2023-04-25 08:57:16.454709
+Network Network 1 total 227200 correct 144694 accuracy 63.69 time 2023-04-25 08:57:24.139168
+Network Network 1 total 230400 correct 146603 accuracy 63.63 time 2023-04-25 08:57:31.923399
+Network Network 1 total 233600 correct 148558 accuracy 63.60 time 2023-04-25 08:57:40.220645
+Network Network 1 total 236800 correct 150623 accuracy 63.61 time 2023-04-25 08:57:48.265810
+Network Network 1 total 240000 correct 152860 accuracy 63.69 time 2023-04-25 08:57:56.975314
+Network Network 1 total 243200 correct 155268 accuracy 63.84 time 2023-04-25 08:58:07.301041
+Network Network 1 total 246400 correct 157399 accuracy 63.88 time 2023-04-25 08:58:16.603953
+Network Network 1 total 249600 correct 159298 accuracy 63.82 time 2023-04-25 08:58:27.078702
+Network Network 1 total 252800 correct 161395 accuracy 63.84 time 2023-04-25 08:58:37.489528
+Network Network 1 total 256000 correct 164259 accuracy 64.16 time 2023-04-25 08:58:44.931899
+Network 1 trainset accuracy: 64.21%  time 2023-04-25 08:58:46.833125
+Network Network 1-1 total 3200 correct 2509 accuracy 78.41 time 2023-04-25 08:59:00.042434
+Network Network 1-1 total 6400 correct 5036 accuracy 78.69 time 2023-04-25 08:59:09.146409
+Network Network 1-1 total 9600 correct 7166 accuracy 74.65 time 2023-04-25 08:59:15.594865
+Network Network 1-1 total 12800 correct 9638 accuracy 75.30 time 2023-04-25 08:59:22.294269
+Network Network 1-1 total 16000 correct 12246 accuracy 76.54 time 2023-04-25 08:59:30.900478
+Network Network 1-1 total 19200 correct 14539 accuracy 75.72 time 2023-04-25 08:59:37.924671
+Network Network 1-1 total 22400 correct 16996 accuracy 75.88 time 2023-04-25 08:59:45.698499
+Network Network 1-1 total 25600 correct 19427 accuracy 75.89 time 2023-04-25 08:59:52.168511
+Network Network 1-1 total 28800 correct 21654 accuracy 75.19 time 2023-04-25 09:00:00.665154
+Network Network 1-1 total 32000 correct 23900 accuracy 74.69 time 2023-04-25 09:00:07.789567
+Network Network 1-1 total 35200 correct 26188 accuracy 74.40 time 2023-04-25 09:00:15.019809
+Network Network 1-1 total 38400 correct 28456 accuracy 74.10 time 2023-04-25 09:00:23.452345
+Network Network 1-1 total 41600 correct 30671 accuracy 73.73 time 2023-04-25 09:00:29.577897
+Network Network 1-1 total 44800 correct 32815 accuracy 73.25 time 2023-04-25 09:00:38.772285
+Network Network 1-1 total 48000 correct 35145 accuracy 73.22 time 2023-04-25 09:00:46.592617
+Network Network 1-1 total 51200 correct 37607 accuracy 73.45 time 2023-04-25 09:00:54.526739
+Network Network 1-1 total 54400 correct 39692 accuracy 72.96 time 2023-04-25 09:01:02.045002
+Network Network 1-1 total 57600 correct 41825 accuracy 72.61 time 2023-04-25 09:01:10.476337
+Network Network 1-1 total 60800 correct 44182 accuracy 72.67 time 2023-04-25 09:01:19.505033
+Network Network 1-1 total 64000 correct 46770 accuracy 73.08 time 2023-04-25 09:01:29.012737
+Network 1-1 trainset accuracy: 73.18%  time 2023-04-25 09:01:30.072574
+Network Network 1-2 total 3200 correct 2327 accuracy 72.72 time 2023-04-25 09:01:43.195360
+Network Network 1-2 total 6400 correct 4953 accuracy 77.39 time 2023-04-25 09:01:51.525100
+Network Network 1-2 total 9600 correct 7317 accuracy 76.22 time 2023-04-25 09:01:58.706410
+Network Network 1-2 total 12800 correct 9553 accuracy 74.63 time 2023-04-25 09:02:06.468628
+Network Network 1-2 total 16000 correct 11813 accuracy 73.83 time 2023-04-25 09:02:14.024166
+Network Network 1-2 total 19200 correct 14325 accuracy 74.61 time 2023-04-25 09:02:20.989981
+Network Network 1-2 total 22400 correct 16621 accuracy 74.20 time 2023-04-25 09:02:29.353263
+Network Network 1-2 total 25600 correct 19068 accuracy 74.48 time 2023-04-25 09:02:36.499157
+Network Network 1-2 total 28800 correct 21527 accuracy 74.75 time 2023-04-25 09:02:43.566277
+Network Network 1-2 total 32000 correct 24122 accuracy 75.38 time 2023-04-25 09:02:51.373306
+Network Network 1-2 total 35200 correct 26567 accuracy 75.47 time 2023-04-25 09:02:58.160379
+Network Network 1-2 total 38400 correct 28732 accuracy 74.82 time 2023-04-25 09:03:05.930513
+Network Network 1-2 total 41600 correct 31041 accuracy 74.62 time 2023-04-25 09:03:13.870536
+Network Network 1-2 total 44800 correct 33592 accuracy 74.98 time 2023-04-25 09:03:20.839736
+Network Network 1-2 total 48000 correct 35920 accuracy 74.83 time 2023-04-25 09:03:28.352616
+Network Network 1-2 total 51200 correct 38245 accuracy 74.70 time 2023-04-25 09:03:36.207939
+Network Network 1-2 total 54400 correct 40226 accuracy 73.94 time 2023-04-25 09:03:45.569802
+Network Network 1-2 total 57600 correct 42463 accuracy 73.72 time 2023-04-25 09:03:54.086852
+Network Network 1-2 total 60800 correct 44435 accuracy 73.08 time 2023-04-25 09:04:01.910469
+Network 1-2 trainset accuracy: 73.11%  time 2023-04-25 09:04:09.343331
+Network Network 1-3 total 3200 correct 2740 accuracy 85.62 time 2023-04-25 09:04:21.547044
+Network Network 1-3 total 6400 correct 5307 accuracy 82.92 time 2023-04-25 09:04:29.551887
+Network Network 1-3 total 9600 correct 7761 accuracy 80.84 time 2023-04-25 09:04:38.686133
+Network Network 1-3 total 12800 correct 10252 accuracy 80.09 time 2023-04-25 09:04:47.548909
+Network Network 1-3 total 16000 correct 12663 accuracy 79.14 time 2023-04-25 09:04:55.458118
+Network Network 1-3 total 19200 correct 15465 accuracy 80.55 time 2023-04-25 09:05:03.315969
+Network Network 1-3 total 22400 correct 18011 accuracy 80.41 time 2023-04-25 09:05:10.690265
+Network Network 1-3 total 25600 correct 20453 accuracy 79.89 time 2023-04-25 09:05:17.774108
+Network Network 1-3 total 28800 correct 23000 accuracy 79.86 time 2023-04-25 09:05:25.092555
+Network Network 1-3 total 32000 correct 25040 accuracy 78.25 time 2023-04-25 09:05:32.588758
+Network Network 1-3 total 35200 correct 27219 accuracy 77.33 time 2023-04-25 09:05:40.108569
+Network Network 1-3 total 38400 correct 29669 accuracy 77.26 time 2023-04-25 09:05:47.205008
+Network Network 1-3 total 41600 correct 32010 accuracy 76.95 time 2023-04-25 09:05:55.597010
+Network Network 1-3 total 44800 correct 34192 accuracy 76.32 time 2023-04-25 09:06:03.538169
+Network Network 1-3 total 48000 correct 36529 accuracy 76.10 time 2023-04-25 09:06:10.595993
+Network Network 1-3 total 51200 correct 38594 accuracy 75.38 time 2023-04-25 09:06:18.016658
+Network Network 1-3 total 54400 correct 40436 accuracy 74.33 time 2023-04-25 09:06:24.815183
+Network Network 1-3 total 57600 correct 42834 accuracy 74.36 time 2023-04-25 09:06:33.811481
+Network Network 1-3 total 60800 correct 45476 accuracy 74.80 time 2023-04-25 09:06:42.343889
+Network Network 1-3 total 64000 correct 48377 accuracy 75.59 time 2023-04-25 09:06:51.555644
+Network 1-3 trainset accuracy: 75.76%  time 2023-04-25 09:06:54.333362
+Network Network 1-4 total 3200 correct 2557 accuracy 79.91 time 2023-04-25 09:07:06.499317
+Network Network 1-4 total 6400 correct 5127 accuracy 80.11 time 2023-04-25 09:07:13.133230
+Network Network 1-4 total 9600 correct 7776 accuracy 81.00 time 2023-04-25 09:07:21.723325
+Network Network 1-4 total 12800 correct 10037 accuracy 78.41 time 2023-04-25 09:07:28.715163
+Network Network 1-4 total 16000 correct 12222 accuracy 76.39 time 2023-04-25 09:07:36.572459
+Network Network 1-4 total 19200 correct 14640 accuracy 76.25 time 2023-04-25 09:07:45.074859
+Network Network 1-4 total 22400 correct 17259 accuracy 77.05 time 2023-04-25 09:07:53.089761
+Network Network 1-4 total 25600 correct 19924 accuracy 77.83 time 2023-04-25 09:08:01.018669
+Network Network 1-4 total 28800 correct 22504 accuracy 78.14 time 2023-04-25 09:08:09.270887
+Network Network 1-4 total 32000 correct 24950 accuracy 77.97 time 2023-04-25 09:08:15.445753
+Network Network 1-4 total 35200 correct 27356 accuracy 77.72 time 2023-04-25 09:08:22.689082
+Network Network 1-4 total 38400 correct 29443 accuracy 76.67 time 2023-04-25 09:08:30.145837
+Network Network 1-4 total 41600 correct 31664 accuracy 76.12 time 2023-04-25 09:08:37.342071
+Network Network 1-4 total 44800 correct 33872 accuracy 75.61 time 2023-04-25 09:08:45.704124
+Network Network 1-4 total 48000 correct 36488 accuracy 76.02 time 2023-04-25 09:08:53.345614
+Network Network 1-4 total 51200 correct 38652 accuracy 75.49 time 2023-04-25 09:09:00.862357
+Network Network 1-4 total 54400 correct 40728 accuracy 74.87 time 2023-04-25 09:09:07.590011
+Network Network 1-4 total 57600 correct 43185 accuracy 74.97 time 2023-04-25 09:09:16.076188
+Network Network 1-4 total 60800 correct 45733 accuracy 75.22 time 2023-04-25 09:09:25.981510
+Network 1-4 trainset accuracy: 75.62%  time 2023-04-25 09:09:35.950145
+Network Network 2 total 3200 correct 2409 accuracy 75.28 time 2023-04-25 09:09:47.902061
+Network Network 2 total 6400 correct 4930 accuracy 77.03 time 2023-04-25 09:09:56.085939
+Network Network 2 total 9600 correct 6947 accuracy 72.36 time 2023-04-25 09:10:05.065141
+Network Network 2 total 12800 correct 9378 accuracy 73.27 time 2023-04-25 09:10:15.293883
+Network Network 2 total 16000 correct 11620 accuracy 72.62 time 2023-04-25 09:10:23.219436
+Network Network 2 total 19200 correct 13859 accuracy 72.18 time 2023-04-25 09:10:31.110256
+Network Network 2 total 22400 correct 16349 accuracy 72.99 time 2023-04-25 09:10:38.939786
+Network Network 2 total 25600 correct 18437 accuracy 72.02 time 2023-04-25 09:10:47.794594
+Network Network 2 total 28800 correct 20566 accuracy 71.41 time 2023-04-25 09:10:56.400075
+Network Network 2 total 32000 correct 22805 accuracy 71.27 time 2023-04-25 09:11:04.448429
+Network Network 2 total 35200 correct 25076 accuracy 71.24 time 2023-04-25 09:11:13.550964
+Network Network 2 total 38400 correct 27239 accuracy 70.93 time 2023-04-25 09:11:19.971739
+Network Network 2 total 41600 correct 29234 accuracy 70.27 time 2023-04-25 09:11:27.744706
+Network Network 2 total 44800 correct 31462 accuracy 70.23 time 2023-04-25 09:11:35.088609
+Network Network 2 total 48000 correct 33537 accuracy 69.87 time 2023-04-25 09:11:43.276574
+Network Network 2 total 51200 correct 35430 accuracy 69.20 time 2023-04-25 09:11:50.645795
+Network Network 2 total 54400 correct 37297 accuracy 68.56 time 2023-04-25 09:11:58.265933
+Network Network 2 total 57600 correct 39313 accuracy 68.25 time 2023-04-25 09:12:05.889075
+Network Network 2 total 60800 correct 41859 accuracy 68.85 time 2023-04-25 09:12:14.212120
+Network Network 2 total 64000 correct 44390 accuracy 69.36 time 2023-04-25 09:12:21.567853
+Network Network 2 total 67200 correct 46321 accuracy 68.93 time 2023-04-25 09:12:29.314163
+Network Network 2 total 70400 correct 48426 accuracy 68.79 time 2023-04-25 09:12:38.381833
+Network Network 2 total 73600 correct 50965 accuracy 69.25 time 2023-04-25 09:12:48.169233
+Network Network 2 total 76800 correct 53295 accuracy 69.39 time 2023-04-25 09:12:56.339399
+Network Network 2 total 80000 correct 55781 accuracy 69.73 time 2023-04-25 09:13:03.604137
+Network Network 2 total 83200 correct 57920 accuracy 69.62 time 2023-04-25 09:13:10.429191
+Network Network 2 total 86400 correct 60358 accuracy 69.86 time 2023-04-25 09:13:17.710083
+Network Network 2 total 89600 correct 62387 accuracy 69.63 time 2023-04-25 09:13:25.221701
+Network Network 2 total 92800 correct 64736 accuracy 69.76 time 2023-04-25 09:13:33.808399
+Network Network 2 total 96000 correct 66861 accuracy 69.65 time 2023-04-25 09:13:41.217816
+Network Network 2 total 99200 correct 68857 accuracy 69.41 time 2023-04-25 09:13:48.961680
+Network Network 2 total 102400 correct 70663 accuracy 69.01 time 2023-04-25 09:13:57.601176
+Network Network 2 total 105600 correct 72824 accuracy 68.96 time 2023-04-25 09:14:07.227539
+Network Network 2 total 108800 correct 74759 accuracy 68.71 time 2023-04-25 09:14:15.443056
+Network Network 2 total 112000 correct 76608 accuracy 68.40 time 2023-04-25 09:14:23.676808
+Network Network 2 total 115200 correct 78346 accuracy 68.01 time 2023-04-25 09:14:33.086296
+Network Network 2 total 118400 correct 80054 accuracy 67.61 time 2023-04-25 09:14:40.119642
+Network Network 2 total 121600 correct 82220 accuracy 67.62 time 2023-04-25 09:14:48.825491
+Network Network 2 total 124800 correct 84195 accuracy 67.46 time 2023-04-25 09:14:57.782723
+Network Network 2 total 128000 correct 86695 accuracy 67.73 time 2023-04-25 09:15:06.003634
+Network Network 2 total 131200 correct 88788 accuracy 67.67 time 2023-04-25 09:15:13.333385
+Network Network 2 total 134400 correct 90900 accuracy 67.63 time 2023-04-25 09:15:21.631195
+Network Network 2 total 137600 correct 92875 accuracy 67.50 time 2023-04-25 09:15:27.530214
+Network Network 2 total 140800 correct 94407 accuracy 67.05 time 2023-04-25 09:15:35.320948
+Network Network 2 total 144000 correct 96184 accuracy 66.79 time 2023-04-25 09:15:42.201554
+Network Network 2 total 147200 correct 98280 accuracy 66.77 time 2023-04-25 09:15:49.900559
+Network Network 2 total 150400 correct 100613 accuracy 66.90 time 2023-04-25 09:15:57.391595
+Network Network 2 total 153600 correct 102551 accuracy 66.76 time 2023-04-25 09:16:04.722991
+Network Network 2 total 156800 correct 104498 accuracy 66.64 time 2023-04-25 09:16:11.416500
+Network Network 2 total 160000 correct 106372 accuracy 66.48 time 2023-04-25 09:16:18.949860
+Network Network 2 total 163200 correct 108123 accuracy 66.25 time 2023-04-25 09:16:25.596686
+Network Network 2 total 166400 correct 110057 accuracy 66.14 time 2023-04-25 09:16:33.068895
+Network Network 2 total 169600 correct 111743 accuracy 65.89 time 2023-04-25 09:16:40.804463
+Network Network 2 total 172800 correct 113555 accuracy 65.71 time 2023-04-25 09:16:48.347820
+Network Network 2 total 176000 correct 115373 accuracy 65.55 time 2023-04-25 09:16:54.743765
+Network Network 2 total 179200 correct 117383 accuracy 65.50 time 2023-04-25 09:17:02.926653
+Network Network 2 total 182400 correct 119387 accuracy 65.45 time 2023-04-25 09:17:09.924124
+Network Network 2 total 185600 correct 121503 accuracy 65.46 time 2023-04-25 09:17:17.414830
+Network Network 2 total 188800 correct 123675 accuracy 65.51 time 2023-04-25 09:17:23.726774
+Network Network 2 total 192000 correct 125289 accuracy 65.25 time 2023-04-25 09:17:30.250118
+Network Network 2 total 195200 correct 127081 accuracy 65.10 time 2023-04-25 09:17:37.682628
+Network Network 2 total 198400 correct 129252 accuracy 65.15 time 2023-04-25 09:17:45.222882
+Network Network 2 total 201600 correct 130587 accuracy 64.78 time 2023-04-25 09:17:51.475559
+Network Network 2 total 204800 correct 132623 accuracy 64.76 time 2023-04-25 09:17:58.684230
+Network Network 2 total 208000 correct 134953 accuracy 64.88 time 2023-04-25 09:18:06.810509
+Network Network 2 total 211200 correct 136669 accuracy 64.71 time 2023-04-25 09:18:13.463059
+Network Network 2 total 214400 correct 138467 accuracy 64.58 time 2023-04-25 09:18:22.080841
+Network Network 2 total 217600 correct 140319 accuracy 64.48 time 2023-04-25 09:18:29.036655
+Network Network 2 total 220800 correct 142152 accuracy 64.38 time 2023-04-25 09:18:37.538751
+Network Network 2 total 224000 correct 143901 accuracy 64.24 time 2023-04-25 09:18:45.706571
+Network Network 2 total 227200 correct 145802 accuracy 64.17 time 2023-04-25 09:18:54.343550
+Network Network 2 total 230400 correct 147537 accuracy 64.04 time 2023-04-25 09:19:01.087678
+Network Network 2 total 233600 correct 149388 accuracy 63.95 time 2023-04-25 09:19:08.639529
+Network Network 2 total 236800 correct 151800 accuracy 64.10 time 2023-04-25 09:19:17.620164
+Network Network 2 total 240000 correct 153912 accuracy 64.13 time 2023-04-25 09:19:25.127840
+Network Network 2 total 243200 correct 156060 accuracy 64.17 time 2023-04-25 09:19:32.793033
+Network Network 2 total 246400 correct 158402 accuracy 64.29 time 2023-04-25 09:19:41.370448
+Network Network 2 total 249600 correct 160428 accuracy 64.27 time 2023-04-25 09:19:49.184844
+Network Network 2 total 252800 correct 162375 accuracy 64.23 time 2023-04-25 09:19:56.695147
+Network Network 2 total 256000 correct 164778 accuracy 64.37 time 2023-04-25 09:20:05.941809
+Network 2 trainset accuracy: 64.39%  time 2023-04-25 09:20:09.838828
+Network Network 2-1 total 3200 correct 2585 accuracy 80.78 time 2023-04-25 09:20:23.201770
+Network Network 2-1 total 6400 correct 4919 accuracy 76.86 time 2023-04-25 09:20:31.043592
+Network Network 2-1 total 9600 correct 7107 accuracy 74.03 time 2023-04-25 09:20:38.692599
+Network Network 2-1 total 12800 correct 9312 accuracy 72.75 time 2023-04-25 09:20:46.630258
+Network Network 2-1 total 16000 correct 11556 accuracy 72.22 time 2023-04-25 09:20:54.265011
+Network Network 2-1 total 19200 correct 14113 accuracy 73.51 time 2023-04-25 09:21:01.681328
+Network Network 2-1 total 22400 correct 16764 accuracy 74.84 time 2023-04-25 09:21:08.814734
+Network Network 2-1 total 25600 correct 19108 accuracy 74.64 time 2023-04-25 09:21:15.758705
+Network Network 2-1 total 28800 correct 21441 accuracy 74.45 time 2023-04-25 09:21:22.957917
+Network Network 2-1 total 32000 correct 23765 accuracy 74.27 time 2023-04-25 09:21:29.688429
+Network Network 2-1 total 35200 correct 26365 accuracy 74.90 time 2023-04-25 09:21:37.329419
+Network Network 2-1 total 38400 correct 28790 accuracy 74.97 time 2023-04-25 09:21:45.767078
+Network Network 2-1 total 41600 correct 31186 accuracy 74.97 time 2023-04-25 09:21:52.821026
+Network Network 2-1 total 44800 correct 33599 accuracy 75.00 time 2023-04-25 09:22:00.428842
+Network Network 2-1 total 48000 correct 35752 accuracy 74.48 time 2023-04-25 09:22:07.200896
+Network Network 2-1 total 51200 correct 37838 accuracy 73.90 time 2023-04-25 09:22:13.925074
+Network Network 2-1 total 54400 correct 40223 accuracy 73.94 time 2023-04-25 09:22:21.329888
+Network Network 2-1 total 57600 correct 42576 accuracy 73.92 time 2023-04-25 09:22:29.171553
+Network Network 2-1 total 60800 correct 44893 accuracy 73.84 time 2023-04-25 09:22:36.695169
+Network Network 2-1 total 64000 correct 47221 accuracy 73.78 time 2023-04-25 09:22:44.923949
+Network 2-1 trainset accuracy: 73.80%  time 2023-04-25 09:22:45.448068
+Network Network 2-2 total 3200 correct 2614 accuracy 81.69 time 2023-04-25 09:22:59.042748
+Network Network 2-2 total 6400 correct 4833 accuracy 75.52 time 2023-04-25 09:23:07.166382
+Network Network 2-2 total 9600 correct 7604 accuracy 79.21 time 2023-04-25 09:23:15.097099
+Network Network 2-2 total 12800 correct 10266 accuracy 80.20 time 2023-04-25 09:23:22.999413
+Network Network 2-2 total 16000 correct 13038 accuracy 81.49 time 2023-04-25 09:23:32.431452
+Network Network 2-2 total 19200 correct 15532 accuracy 80.90 time 2023-04-25 09:23:40.487851
+Network Network 2-2 total 22400 correct 17706 accuracy 79.04 time 2023-04-25 09:23:49.269322
+Network Network 2-2 total 25600 correct 19893 accuracy 77.71 time 2023-04-25 09:23:57.041879
+Network Network 2-2 total 28800 correct 22356 accuracy 77.62 time 2023-04-25 09:24:05.965375
+Network Network 2-2 total 32000 correct 24256 accuracy 75.80 time 2023-04-25 09:24:13.303264
+Network Network 2-2 total 35200 correct 26618 accuracy 75.62 time 2023-04-25 09:24:20.408645
+Network Network 2-2 total 38400 correct 28861 accuracy 75.16 time 2023-04-25 09:24:27.161045
+Network Network 2-2 total 41600 correct 30758 accuracy 73.94 time 2023-04-25 09:24:33.761948
+Network Network 2-2 total 44800 correct 32792 accuracy 73.20 time 2023-04-25 09:24:39.946887
+Network Network 2-2 total 48000 correct 34729 accuracy 72.35 time 2023-04-25 09:24:47.049309
+Network Network 2-2 total 51200 correct 36682 accuracy 71.64 time 2023-04-25 09:24:54.140140
+Network Network 2-2 total 54400 correct 38732 accuracy 71.20 time 2023-04-25 09:25:00.927979
+Network Network 2-2 total 57600 correct 40988 accuracy 71.16 time 2023-04-25 09:25:08.415968
+Network Network 2-2 total 60800 correct 43505 accuracy 71.55 time 2023-04-25 09:25:16.435442
+Network Network 2-2 total 64000 correct 45918 accuracy 71.75 time 2023-04-25 09:25:25.873954
+Network 2-2 trainset accuracy: 71.77%  time 2023-04-25 09:25:26.483706
+Network Network 2-3 total 3200 correct 2734 accuracy 85.44 time 2023-04-25 09:25:38.583119
+Network Network 2-3 total 6400 correct 5443 accuracy 85.05 time 2023-04-25 09:25:47.586025
+Network Network 2-3 total 9600 correct 8022 accuracy 83.56 time 2023-04-25 09:25:54.233027
+Network Network 2-3 total 12800 correct 10648 accuracy 83.19 time 2023-04-25 09:26:02.683459
+Network Network 2-3 total 16000 correct 13073 accuracy 81.71 time 2023-04-25 09:26:10.492553
+Network Network 2-3 total 19200 correct 15363 accuracy 80.02 time 2023-04-25 09:26:17.699452
+Network Network 2-3 total 22400 correct 17992 accuracy 80.32 time 2023-04-25 09:26:26.635193
+Network Network 2-3 total 25600 correct 20359 accuracy 79.53 time 2023-04-25 09:26:34.688666
+Network Network 2-3 total 28800 correct 22647 accuracy 78.64 time 2023-04-25 09:26:43.944645
+Network Network 2-3 total 32000 correct 25074 accuracy 78.36 time 2023-04-25 09:26:53.206809
+Network Network 2-3 total 35200 correct 27503 accuracy 78.13 time 2023-04-25 09:27:00.226482
+Network Network 2-3 total 38400 correct 29858 accuracy 77.76 time 2023-04-25 09:27:08.446460
+Network Network 2-3 total 41600 correct 31884 accuracy 76.64 time 2023-04-25 09:27:16.225424
+Network Network 2-3 total 44800 correct 34357 accuracy 76.69 time 2023-04-25 09:27:23.825890
+Network Network 2-3 total 48000 correct 36744 accuracy 76.55 time 2023-04-25 09:27:31.329122
+Network Network 2-3 total 51200 correct 38659 accuracy 75.51 time 2023-04-25 09:27:39.020159
+Network Network 2-3 total 54400 correct 40634 accuracy 74.69 time 2023-04-25 09:27:47.051043
+Network Network 2-3 total 57600 correct 42689 accuracy 74.11 time 2023-04-25 09:27:53.844812
+Network Network 2-3 total 60800 correct 44859 accuracy 73.78 time 2023-04-25 09:28:01.169629
+Network Network 2-3 total 64000 correct 47171 accuracy 73.70 time 2023-04-25 09:28:10.406465
+Network 2-3 trainset accuracy: 73.92%  time 2023-04-25 09:28:12.535401
+Network Network 2-4 total 3200 correct 2512 accuracy 78.50 time 2023-04-25 09:28:26.100394
+Network Network 2-4 total 6400 correct 5137 accuracy 80.27 time 2023-04-25 09:28:34.930652
+Network Network 2-4 total 9600 correct 7487 accuracy 77.99 time 2023-04-25 09:28:42.802384
+Network Network 2-4 total 12800 correct 9705 accuracy 75.82 time 2023-04-25 09:28:50.093779
+Network Network 2-4 total 16000 correct 11932 accuracy 74.58 time 2023-04-25 09:28:58.107542
+Network Network 2-4 total 19200 correct 14431 accuracy 75.16 time 2023-04-25 09:29:06.047958
+Network Network 2-4 total 22400 correct 17116 accuracy 76.41 time 2023-04-25 09:29:13.765169
+Network Network 2-4 total 25600 correct 19058 accuracy 74.45 time 2023-04-25 09:29:21.860853
+Network Network 2-4 total 28800 correct 21282 accuracy 73.90 time 2023-04-25 09:29:31.183555
+Network Network 2-4 total 32000 correct 23359 accuracy 73.00 time 2023-04-25 09:29:38.394157
+Network Network 2-4 total 35200 correct 25442 accuracy 72.28 time 2023-04-25 09:29:45.757128
+Network Network 2-4 total 38400 correct 27258 accuracy 70.98 time 2023-04-25 09:29:52.955375
+Network Network 2-4 total 41600 correct 29630 accuracy 71.23 time 2023-04-25 09:30:01.186694
+Network Network 2-4 total 44800 correct 31986 accuracy 71.40 time 2023-04-25 09:30:08.044969
+Network Network 2-4 total 48000 correct 34468 accuracy 71.81 time 2023-04-25 09:30:16.219504
+Network Network 2-4 total 51200 correct 36550 accuracy 71.39 time 2023-04-25 09:30:22.636821
+Network Network 2-4 total 54400 correct 38583 accuracy 70.92 time 2023-04-25 09:30:30.355112
+Network Network 2-4 total 57600 correct 40536 accuracy 70.38 time 2023-04-25 09:30:39.372905
+Network Network 2-4 total 60800 correct 43095 accuracy 70.88 time 2023-04-25 09:30:48.397798
+Network Network 2-4 total 64000 correct 45508 accuracy 71.11 time 2023-04-25 09:30:56.091110
+Network 2-4 trainset accuracy: 71.09%  time 2023-04-25 09:30:57.434612
+Network Network 3 total 3200 correct 2623 accuracy 81.97 time 2023-04-25 09:31:10.784391
+Network Network 3 total 6400 correct 5120 accuracy 80.00 time 2023-04-25 09:31:18.353537
+Network Network 3 total 9600 correct 7541 accuracy 78.55 time 2023-04-25 09:31:27.006405
+Network Network 3 total 12800 correct 9675 accuracy 75.59 time 2023-04-25 09:31:35.426503
+Network Network 3 total 16000 correct 11523 accuracy 72.02 time 2023-04-25 09:31:45.113629
+Network Network 3 total 19200 correct 13652 accuracy 71.10 time 2023-04-25 09:31:52.937515
+Network Network 3 total 22400 correct 15451 accuracy 68.98 time 2023-04-25 09:32:01.179065
+Network Network 3 total 25600 correct 17796 accuracy 69.52 time 2023-04-25 09:32:09.928126
+Network Network 3 total 28800 correct 20456 accuracy 71.03 time 2023-04-25 09:32:19.261943
+Network Network 3 total 32000 correct 22888 accuracy 71.53 time 2023-04-25 09:32:28.882710
+Network Network 3 total 35200 correct 25071 accuracy 71.22 time 2023-04-25 09:32:36.903922
+Network Network 3 total 38400 correct 27332 accuracy 71.18 time 2023-04-25 09:32:43.704137
+Network Network 3 total 41600 correct 28904 accuracy 69.48 time 2023-04-25 09:32:50.118243
+Network Network 3 total 44800 correct 30718 accuracy 68.57 time 2023-04-25 09:32:56.749307
+Network Network 3 total 48000 correct 32355 accuracy 67.41 time 2023-04-25 09:33:03.933280
+Network Network 3 total 51200 correct 33990 accuracy 66.39 time 2023-04-25 09:33:10.922989
+Network Network 3 total 54400 correct 35835 accuracy 65.87 time 2023-04-25 09:33:17.830513
+Network Network 3 total 57600 correct 37896 accuracy 65.79 time 2023-04-25 09:33:23.776989
+Network Network 3 total 60800 correct 40080 accuracy 65.92 time 2023-04-25 09:33:30.398089
+Network Network 3 total 64000 correct 41740 accuracy 65.22 time 2023-04-25 09:33:37.768609
+Network Network 3 total 67200 correct 43704 accuracy 65.04 time 2023-04-25 09:33:45.767237
+Network Network 3 total 70400 correct 45651 accuracy 64.85 time 2023-04-25 09:33:54.015856
+Network Network 3 total 73600 correct 47893 accuracy 65.07 time 2023-04-25 09:34:01.697327
+Network Network 3 total 76800 correct 50241 accuracy 65.42 time 2023-04-25 09:34:09.900835
+Network Network 3 total 80000 correct 52185 accuracy 65.23 time 2023-04-25 09:34:17.633363
+Network Network 3 total 83200 correct 54689 accuracy 65.73 time 2023-04-25 09:34:26.250397
+Network Network 3 total 86400 correct 56885 accuracy 65.84 time 2023-04-25 09:34:33.756217
+Network Network 3 total 89600 correct 58570 accuracy 65.37 time 2023-04-25 09:34:41.578984
+Network Network 3 total 92800 correct 60671 accuracy 65.38 time 2023-04-25 09:34:49.460102
+Network Network 3 total 96000 correct 62711 accuracy 65.32 time 2023-04-25 09:34:57.414478
+Network Network 3 total 99200 correct 64525 accuracy 65.05 time 2023-04-25 09:35:04.911604
+Network Network 3 total 102400 correct 67153 accuracy 65.58 time 2023-04-25 09:35:13.495357
+Network Network 3 total 105600 correct 69251 accuracy 65.58 time 2023-04-25 09:35:20.610894
+Network Network 3 total 108800 correct 70884 accuracy 65.15 time 2023-04-25 09:35:29.470988
+Network Network 3 total 112000 correct 72346 accuracy 64.59 time 2023-04-25 09:35:37.374998
+Network Network 3 total 115200 correct 74372 accuracy 64.56 time 2023-04-25 09:35:44.024518
+Network Network 3 total 118400 correct 76234 accuracy 64.39 time 2023-04-25 09:35:52.166421
+Network Network 3 total 121600 correct 78082 accuracy 64.21 time 2023-04-25 09:35:59.794437
+Network Network 3 total 124800 correct 79724 accuracy 63.88 time 2023-04-25 09:36:06.156477
+Network Network 3 total 128000 correct 81992 accuracy 64.06 time 2023-04-25 09:36:15.583926
+Network Network 3 total 131200 correct 84028 accuracy 64.05 time 2023-04-25 09:36:23.372446
+Network Network 3 total 134400 correct 85933 accuracy 63.94 time 2023-04-25 09:36:30.267354
+Network Network 3 total 137600 correct 87749 accuracy 63.77 time 2023-04-25 09:36:38.610516
+Network Network 3 total 140800 correct 89913 accuracy 63.86 time 2023-04-25 09:36:46.132637
+Network Network 3 total 144000 correct 91926 accuracy 63.84 time 2023-04-25 09:36:53.804109
+Network Network 3 total 147200 correct 93499 accuracy 63.52 time 2023-04-25 09:37:01.415385
+Network Network 3 total 150400 correct 96170 accuracy 63.94 time 2023-04-25 09:37:10.756935
+Network Network 3 total 153600 correct 98560 accuracy 64.17 time 2023-04-25 09:37:20.104014
+Network Network 3 total 156800 correct 100477 accuracy 64.08 time 2023-04-25 09:37:28.239144
+Network Network 3 total 160000 correct 102906 accuracy 64.32 time 2023-04-25 09:37:36.222041
+Network Network 3 total 163200 correct 104898 accuracy 64.28 time 2023-04-25 09:37:43.533805
+Network Network 3 total 166400 correct 106874 accuracy 64.23 time 2023-04-25 09:37:50.218005
+Network Network 3 total 169600 correct 109343 accuracy 64.47 time 2023-04-25 09:37:58.059929
+Network Network 3 total 172800 correct 111389 accuracy 64.46 time 2023-04-25 09:38:05.656601
+Network Network 3 total 176000 correct 113332 accuracy 64.39 time 2023-04-25 09:38:12.158585
+Network Network 3 total 179200 correct 115299 accuracy 64.34 time 2023-04-25 09:38:18.979410
+Network Network 3 total 182400 correct 117322 accuracy 64.32 time 2023-04-25 09:38:27.316464
+Network Network 3 total 185600 correct 119701 accuracy 64.49 time 2023-04-25 09:38:34.435279
+Network Network 3 total 188800 correct 121854 accuracy 64.54 time 2023-04-25 09:38:42.540536
+Network Network 3 total 192000 correct 123717 accuracy 64.44 time 2023-04-25 09:38:50.402727
+Network Network 3 total 195200 correct 125483 accuracy 64.28 time 2023-04-25 09:38:59.243541
+Network Network 3 total 198400 correct 127592 accuracy 64.31 time 2023-04-25 09:39:04.836420
+Network Network 3 total 201600 correct 130008 accuracy 64.49 time 2023-04-25 09:39:12.192206
+Network Network 3 total 204800 correct 132107 accuracy 64.51 time 2023-04-25 09:39:20.365973
+Network Network 3 total 208000 correct 133777 accuracy 64.32 time 2023-04-25 09:39:27.794366
+Network Network 3 total 211200 correct 135714 accuracy 64.26 time 2023-04-25 09:39:36.289392
+Network Network 3 total 214400 correct 137497 accuracy 64.13 time 2023-04-25 09:39:43.691259
+Network Network 3 total 217600 correct 139603 accuracy 64.16 time 2023-04-25 09:39:52.150496
+Network Network 3 total 220800 correct 141630 accuracy 64.14 time 2023-04-25 09:40:00.348849
+Network Network 3 total 224000 correct 143601 accuracy 64.11 time 2023-04-25 09:40:06.587679
+Network Network 3 total 227200 correct 145596 accuracy 64.08 time 2023-04-25 09:40:14.003764
+Network Network 3 total 230400 correct 147565 accuracy 64.05 time 2023-04-25 09:40:21.425040
+Network Network 3 total 233600 correct 149364 accuracy 63.94 time 2023-04-25 09:40:29.173097
+Network Network 3 total 236800 correct 151203 accuracy 63.85 time 2023-04-25 09:40:37.055923
+Network Network 3 total 240000 correct 153091 accuracy 63.79 time 2023-04-25 09:40:45.320775
+Network Network 3 total 243200 correct 155715 accuracy 64.03 time 2023-04-25 09:40:53.047758
+Network Network 3 total 246400 correct 158331 accuracy 64.26 time 2023-04-25 09:41:01.159550
+Network Network 3 total 249600 correct 160815 accuracy 64.43 time 2023-04-25 09:41:09.079519
+Network Network 3 total 252800 correct 163328 accuracy 64.61 time 2023-04-25 09:41:18.000504
+Network 3 trainset accuracy: 64.62%  time 2023-04-25 09:41:20.118766
+Network Network 3-1 total 3200 correct 2527 accuracy 78.97 time 2023-04-25 09:41:32.360492
+Network Network 3-1 total 6400 correct 5332 accuracy 83.31 time 2023-04-25 09:41:40.495345
+Network Network 3-1 total 9600 correct 7422 accuracy 77.31 time 2023-04-25 09:41:47.629730
+Network Network 3-1 total 12800 correct 9856 accuracy 77.00 time 2023-04-25 09:41:53.229991
+Network Network 3-1 total 16000 correct 12319 accuracy 76.99 time 2023-04-25 09:42:00.586812
+Network Network 3-1 total 19200 correct 14804 accuracy 77.10 time 2023-04-25 09:42:07.996685
+Network Network 3-1 total 22400 correct 17148 accuracy 76.55 time 2023-04-25 09:42:16.138485
+Network Network 3-1 total 25600 correct 19303 accuracy 75.40 time 2023-04-25 09:42:23.597525
+Network Network 3-1 total 28800 correct 21485 accuracy 74.60 time 2023-04-25 09:42:31.666349
+Network Network 3-1 total 32000 correct 23729 accuracy 74.15 time 2023-04-25 09:42:39.332467
+Network Network 3-1 total 35200 correct 25972 accuracy 73.78 time 2023-04-25 09:42:47.022056
+Network Network 3-1 total 38400 correct 28149 accuracy 73.30 time 2023-04-25 09:42:53.742746
+Network Network 3-1 total 41600 correct 30357 accuracy 72.97 time 2023-04-25 09:43:01.255316
+Network Network 3-1 total 44800 correct 32691 accuracy 72.97 time 2023-04-25 09:43:07.871463
+Network Network 3-1 total 48000 correct 35251 accuracy 73.44 time 2023-04-25 09:43:16.111634
+Network Network 3-1 total 51200 correct 37475 accuracy 73.19 time 2023-04-25 09:43:23.427082
+Network Network 3-1 total 54400 correct 39592 accuracy 72.78 time 2023-04-25 09:43:31.297945
+Network Network 3-1 total 57600 correct 41812 accuracy 72.59 time 2023-04-25 09:43:39.875829
+Network Network 3-1 total 60800 correct 44355 accuracy 72.95 time 2023-04-25 09:43:47.368438
+Network 3-1 trainset accuracy: 73.46%  time 2023-04-25 09:43:54.490452
+Network Network 3-2 total 3200 correct 2557 accuracy 79.91 time 2023-04-25 09:44:08.360762
+Network Network 3-2 total 6400 correct 4810 accuracy 75.16 time 2023-04-25 09:44:16.532198
+Network Network 3-2 total 9600 correct 7399 accuracy 77.07 time 2023-04-25 09:44:25.737479
+Network Network 3-2 total 12800 correct 9832 accuracy 76.81 time 2023-04-25 09:44:31.655415
+Network Network 3-2 total 16000 correct 12224 accuracy 76.40 time 2023-04-25 09:44:39.115333
+Network Network 3-2 total 19200 correct 14790 accuracy 77.03 time 2023-04-25 09:44:47.394771
+Network Network 3-2 total 22400 correct 17111 accuracy 76.39 time 2023-04-25 09:44:55.523912
+Network Network 3-2 total 25600 correct 19308 accuracy 75.42 time 2023-04-25 09:45:03.493164
+Network Network 3-2 total 28800 correct 21858 accuracy 75.90 time 2023-04-25 09:45:11.529905
+Network Network 3-2 total 32000 correct 23999 accuracy 75.00 time 2023-04-25 09:45:19.067426
+Network Network 3-2 total 35200 correct 26265 accuracy 74.62 time 2023-04-25 09:45:26.863603
+Network Network 3-2 total 38400 correct 28834 accuracy 75.09 time 2023-04-25 09:45:37.167795
+Network Network 3-2 total 41600 correct 30947 accuracy 74.39 time 2023-04-25 09:45:43.639916
+Network Network 3-2 total 44800 correct 33392 accuracy 74.54 time 2023-04-25 09:45:52.412495
+Network Network 3-2 total 48000 correct 35843 accuracy 74.67 time 2023-04-25 09:45:59.819335
+Network Network 3-2 total 51200 correct 38172 accuracy 74.55 time 2023-04-25 09:46:06.560684
+Network Network 3-2 total 54400 correct 40497 accuracy 74.44 time 2023-04-25 09:46:12.855817
+Network Network 3-2 total 57600 correct 42990 accuracy 74.64 time 2023-04-25 09:46:20.280628
+Network Network 3-2 total 60800 correct 45288 accuracy 74.49 time 2023-04-25 09:46:28.970932
+Network 3-2 trainset accuracy: 74.55%  time 2023-04-25 09:46:34.226778
+Network Network 3-3 total 3200 correct 2624 accuracy 82.00 time 2023-04-25 09:46:47.923444
+Network Network 3-3 total 6400 correct 5266 accuracy 82.28 time 2023-04-25 09:46:56.442545
+Network Network 3-3 total 9600 correct 7799 accuracy 81.24 time 2023-04-25 09:47:04.630942
+Network Network 3-3 total 12800 correct 9962 accuracy 77.83 time 2023-04-25 09:47:11.378695
+Network Network 3-3 total 16000 correct 12148 accuracy 75.92 time 2023-04-25 09:47:18.064112
+Network Network 3-3 total 19200 correct 14521 accuracy 75.63 time 2023-04-25 09:47:26.098320
+Network Network 3-3 total 22400 correct 16747 accuracy 74.76 time 2023-04-25 09:47:33.944690
+Network Network 3-3 total 25600 correct 19010 accuracy 74.26 time 2023-04-25 09:47:41.213276
+Network Network 3-3 total 28800 correct 21588 accuracy 74.96 time 2023-04-25 09:47:50.773685
+Network Network 3-3 total 32000 correct 24062 accuracy 75.19 time 2023-04-25 09:47:59.560755
+Network Network 3-3 total 35200 correct 26157 accuracy 74.31 time 2023-04-25 09:48:08.145909
+Network Network 3-3 total 38400 correct 28603 accuracy 74.49 time 2023-04-25 09:48:15.377258
+Network Network 3-3 total 41600 correct 31181 accuracy 74.95 time 2023-04-25 09:48:22.998357
+Network Network 3-3 total 44800 correct 33630 accuracy 75.07 time 2023-04-25 09:48:32.335395
+Network Network 3-3 total 48000 correct 36147 accuracy 75.31 time 2023-04-25 09:48:39.663272
+Network Network 3-3 total 51200 correct 38350 accuracy 74.90 time 2023-04-25 09:48:47.715056
+Network Network 3-3 total 54400 correct 40288 accuracy 74.06 time 2023-04-25 09:48:55.493208
+Network Network 3-3 total 57600 correct 42524 accuracy 73.83 time 2023-04-25 09:49:03.575152
+Network Network 3-3 total 60800 correct 44810 accuracy 73.70 time 2023-04-25 09:49:11.139080
+Network 3-3 trainset accuracy: 74.26%  time 2023-04-25 09:49:18.985015
+Network Network 3-4 total 3200 correct 2577 accuracy 80.53 time 2023-04-25 09:49:31.597724
+Network Network 3-4 total 6400 correct 4827 accuracy 75.42 time 2023-04-25 09:49:40.200365
+Network Network 3-4 total 9600 correct 7224 accuracy 75.25 time 2023-04-25 09:49:48.460670
+Network Network 3-4 total 12800 correct 9493 accuracy 74.16 time 2023-04-25 09:49:56.007796
+Network Network 3-4 total 16000 correct 11720 accuracy 73.25 time 2023-04-25 09:50:02.513475
+Network Network 3-4 total 19200 correct 14173 accuracy 73.82 time 2023-04-25 09:50:10.557901
+Network Network 3-4 total 22400 correct 16727 accuracy 74.67 time 2023-04-25 09:50:18.522310
+Network Network 3-4 total 25600 correct 19395 accuracy 75.76 time 2023-04-25 09:50:26.604794
+Network Network 3-4 total 28800 correct 21361 accuracy 74.17 time 2023-04-25 09:50:35.205940
+Network Network 3-4 total 32000 correct 23437 accuracy 73.24 time 2023-04-25 09:50:41.579163
+Network Network 3-4 total 35200 correct 25355 accuracy 72.03 time 2023-04-25 09:50:50.058233
+Network Network 3-4 total 38400 correct 27739 accuracy 72.24 time 2023-04-25 09:50:57.496870
+Network Network 3-4 total 41600 correct 29929 accuracy 71.94 time 2023-04-25 09:51:03.545055
+Network Network 3-4 total 44800 correct 32268 accuracy 72.03 time 2023-04-25 09:51:12.315914
+Network Network 3-4 total 48000 correct 34597 accuracy 72.08 time 2023-04-25 09:51:18.070012
+Network Network 3-4 total 51200 correct 36936 accuracy 72.14 time 2023-04-25 09:51:25.705112
+Network Network 3-4 total 54400 correct 39292 accuracy 72.23 time 2023-04-25 09:51:32.700289
+Network Network 3-4 total 57600 correct 41714 accuracy 72.42 time 2023-04-25 09:51:40.240560
+Network Network 3-4 total 60800 correct 44418 accuracy 73.06 time 2023-04-25 09:51:47.612918
+Network 3-4 trainset accuracy: 73.82%  time 2023-04-25 09:51:54.772231
+Network Network 4 total 3200 correct 1958 accuracy 61.19 time 2023-04-25 09:52:07.454712
+Network Network 4 total 6400 correct 4362 accuracy 68.16 time 2023-04-25 09:52:15.054611
+Network Network 4 total 9600 correct 6371 accuracy 66.36 time 2023-04-25 09:52:23.781298
+Network Network 4 total 12800 correct 8693 accuracy 67.91 time 2023-04-25 09:52:32.688443
+Network Network 4 total 16000 correct 11037 accuracy 68.98 time 2023-04-25 09:52:41.789620
+Network Network 4 total 19200 correct 13513 accuracy 70.38 time 2023-04-25 09:52:49.627833
+Network Network 4 total 22400 correct 15767 accuracy 70.39 time 2023-04-25 09:52:58.609540
+Network Network 4 total 25600 correct 17958 accuracy 70.15 time 2023-04-25 09:53:06.959910
+Network Network 4 total 28800 correct 20462 accuracy 71.05 time 2023-04-25 09:53:14.714111
+Network Network 4 total 32000 correct 22899 accuracy 71.56 time 2023-04-25 09:53:24.466348
+Network Network 4 total 35200 correct 25159 accuracy 71.47 time 2023-04-25 09:53:34.846595
+Network Network 4 total 38400 correct 26956 accuracy 70.20 time 2023-04-25 09:53:43.861640
+Network Network 4 total 41600 correct 28716 accuracy 69.03 time 2023-04-25 09:53:52.620808
+Network Network 4 total 44800 correct 31303 accuracy 69.87 time 2023-04-25 09:54:00.676086
+Network Network 4 total 48000 correct 33493 accuracy 69.78 time 2023-04-25 09:54:07.202086
+Network Network 4 total 51200 correct 35262 accuracy 68.87 time 2023-04-25 09:54:13.598964
+Network Network 4 total 54400 correct 36920 accuracy 67.87 time 2023-04-25 09:54:20.650713
+Network Network 4 total 57600 correct 38911 accuracy 67.55 time 2023-04-25 09:54:26.805594
+Network Network 4 total 60800 correct 41169 accuracy 67.71 time 2023-04-25 09:54:34.754271
+Network Network 4 total 64000 correct 43157 accuracy 67.43 time 2023-04-25 09:54:42.233832
+Network Network 4 total 67200 correct 45154 accuracy 67.19 time 2023-04-25 09:54:50.316697
+Network Network 4 total 70400 correct 46800 accuracy 66.48 time 2023-04-25 09:54:58.195802
+Network Network 4 total 73600 correct 49205 accuracy 66.85 time 2023-04-25 09:55:04.657612
+Network Network 4 total 76800 correct 51568 accuracy 67.15 time 2023-04-25 09:55:12.517297
+Network Network 4 total 80000 correct 53510 accuracy 66.89 time 2023-04-25 09:55:19.673318
+Network Network 4 total 83200 correct 55986 accuracy 67.29 time 2023-04-25 09:55:27.769264
+Network Network 4 total 86400 correct 58341 accuracy 67.52 time 2023-04-25 09:55:35.767468
+Network Network 4 total 89600 correct 60704 accuracy 67.75 time 2023-04-25 09:55:43.683126
+Network Network 4 total 92800 correct 62937 accuracy 67.82 time 2023-04-25 09:55:51.365740
+Network Network 4 total 96000 correct 65234 accuracy 67.95 time 2023-04-25 09:55:59.168434
+Network Network 4 total 99200 correct 67168 accuracy 67.71 time 2023-04-25 09:56:07.067558
+Network Network 4 total 102400 correct 68955 accuracy 67.34 time 2023-04-25 09:56:14.753235
+Network Network 4 total 105600 correct 71147 accuracy 67.37 time 2023-04-25 09:56:23.247924
+Network Network 4 total 108800 correct 73399 accuracy 67.46 time 2023-04-25 09:56:30.945995
+Network Network 4 total 112000 correct 75618 accuracy 67.52 time 2023-04-25 09:56:38.305055
+Network Network 4 total 115200 correct 77963 accuracy 67.68 time 2023-04-25 09:56:46.635874
+Network Network 4 total 118400 correct 80082 accuracy 67.64 time 2023-04-25 09:56:54.300578
+Network Network 4 total 121600 correct 81567 accuracy 67.08 time 2023-04-25 09:57:01.360265
+Network Network 4 total 124800 correct 83534 accuracy 66.93 time 2023-04-25 09:57:08.260315
+Network Network 4 total 128000 correct 85485 accuracy 66.79 time 2023-04-25 09:57:16.064322
+Network Network 4 total 131200 correct 87583 accuracy 66.76 time 2023-04-25 09:57:24.394986
+Network Network 4 total 134400 correct 89469 accuracy 66.57 time 2023-04-25 09:57:30.653684
+Network Network 4 total 137600 correct 91254 accuracy 66.32 time 2023-04-25 09:57:38.067094
+Network Network 4 total 140800 correct 93123 accuracy 66.14 time 2023-04-25 09:57:44.933719
+Network Network 4 total 144000 correct 95091 accuracy 66.04 time 2023-04-25 09:57:52.726934
+Network Network 4 total 147200 correct 97049 accuracy 65.93 time 2023-04-25 09:58:01.460063
+Network Network 4 total 150400 correct 98776 accuracy 65.68 time 2023-04-25 09:58:09.679126
+Network Network 4 total 153600 correct 100599 accuracy 65.49 time 2023-04-25 09:58:17.345480
+Network Network 4 total 156800 correct 102869 accuracy 65.61 time 2023-04-25 09:58:26.687461
+Network Network 4 total 160000 correct 104642 accuracy 65.40 time 2023-04-25 09:58:33.436598
+Network Network 4 total 163200 correct 106318 accuracy 65.15 time 2023-04-25 09:58:41.412142
+Network Network 4 total 166400 correct 108278 accuracy 65.07 time 2023-04-25 09:58:48.302747
+Network Network 4 total 169600 correct 110435 accuracy 65.11 time 2023-04-25 09:58:55.102565
+Network Network 4 total 172800 correct 112265 accuracy 64.97 time 2023-04-25 09:59:03.201269
+Network Network 4 total 176000 correct 113867 accuracy 64.70 time 2023-04-25 09:59:10.459519
+Network Network 4 total 179200 correct 115813 accuracy 64.63 time 2023-04-25 09:59:18.226788
+Network Network 4 total 182400 correct 117678 accuracy 64.52 time 2023-04-25 09:59:27.920198
+Network Network 4 total 185600 correct 119754 accuracy 64.52 time 2023-04-25 09:59:35.754363
+Network Network 4 total 188800 correct 121788 accuracy 64.51 time 2023-04-25 09:59:43.703510
+Network Network 4 total 192000 correct 123570 accuracy 64.36 time 2023-04-25 09:59:51.378827
+Network Network 4 total 195200 correct 125338 accuracy 64.21 time 2023-04-25 09:59:59.200231
+Network Network 4 total 198400 correct 127117 accuracy 64.07 time 2023-04-25 10:00:06.297727
+Network Network 4 total 201600 correct 128585 accuracy 63.78 time 2023-04-25 10:00:14.175796
+Network Network 4 total 204800 correct 130455 accuracy 63.70 time 2023-04-25 10:00:21.951700
+Network Network 4 total 208000 correct 132455 accuracy 63.68 time 2023-04-25 10:00:30.864211
+Network Network 4 total 211200 correct 134344 accuracy 63.61 time 2023-04-25 10:00:38.095071
+Network Network 4 total 214400 correct 136038 accuracy 63.45 time 2023-04-25 10:00:45.055261
+Network Network 4 total 217600 correct 138051 accuracy 63.44 time 2023-04-25 10:00:52.468915
+Network Network 4 total 220800 correct 139813 accuracy 63.32 time 2023-04-25 10:01:01.868349
+Network Network 4 total 224000 correct 141612 accuracy 63.22 time 2023-04-25 10:01:08.973467
+Network Network 4 total 227200 correct 143667 accuracy 63.23 time 2023-04-25 10:01:17.177316
+Network Network 4 total 230400 correct 145469 accuracy 63.14 time 2023-04-25 10:01:24.423919
+Network Network 4 total 233600 correct 147522 accuracy 63.15 time 2023-04-25 10:01:31.374333
+Network Network 4 total 236800 correct 150060 accuracy 63.37 time 2023-04-25 10:01:39.161817
+Network Network 4 total 240000 correct 152311 accuracy 63.46 time 2023-04-25 10:01:47.346105
+Network Network 4 total 243200 correct 154681 accuracy 63.60 time 2023-04-25 10:01:56.532966
+Network Network 4 total 246400 correct 156964 accuracy 63.70 time 2023-04-25 10:02:04.486075
+Network Network 4 total 249600 correct 159420 accuracy 63.87 time 2023-04-25 10:02:13.358428
+Network Network 4 total 252800 correct 161932 accuracy 64.06 time 2023-04-25 10:02:22.625187
+Network 4 trainset accuracy: 64.03%  time 2023-04-25 10:02:31.033347
+Network Network 4-1 total 3200 correct 2645 accuracy 82.66 time 2023-04-25 10:02:43.418717
+Network Network 4-1 total 6400 correct 4975 accuracy 77.73 time 2023-04-25 10:02:52.600429
+Network Network 4-1 total 9600 correct 7711 accuracy 80.32 time 2023-04-25 10:03:01.068747
+Network Network 4-1 total 12800 correct 10377 accuracy 81.07 time 2023-04-25 10:03:08.806665
+Network Network 4-1 total 16000 correct 12267 accuracy 76.67 time 2023-04-25 10:03:15.602896
+Network Network 4-1 total 19200 correct 14429 accuracy 75.15 time 2023-04-25 10:03:23.741007
+Network Network 4-1 total 22400 correct 16772 accuracy 74.88 time 2023-04-25 10:03:30.831964
+Network Network 4-1 total 25600 correct 19177 accuracy 74.91 time 2023-04-25 10:03:38.638134
+Network Network 4-1 total 28800 correct 21572 accuracy 74.90 time 2023-04-25 10:03:47.557756
+Network Network 4-1 total 32000 correct 23888 accuracy 74.65 time 2023-04-25 10:03:56.277698
+Network Network 4-1 total 35200 correct 26270 accuracy 74.63 time 2023-04-25 10:04:04.446046
+Network Network 4-1 total 38400 correct 28361 accuracy 73.86 time 2023-04-25 10:04:12.372010
+Network Network 4-1 total 41600 correct 30667 accuracy 73.72 time 2023-04-25 10:04:20.515227
+Network Network 4-1 total 44800 correct 32929 accuracy 73.50 time 2023-04-25 10:04:28.624762
+Network Network 4-1 total 48000 correct 35052 accuracy 73.02 time 2023-04-25 10:04:35.551116
+Network Network 4-1 total 51200 correct 37025 accuracy 72.31 time 2023-04-25 10:04:44.039394
+Network Network 4-1 total 54400 correct 39408 accuracy 72.44 time 2023-04-25 10:04:52.527948
+Network Network 4-1 total 57600 correct 41850 accuracy 72.66 time 2023-04-25 10:05:00.894608
+Network Network 4-1 total 60800 correct 44206 accuracy 72.71 time 2023-04-25 10:05:09.525979
+Network 4-1 trainset accuracy: 73.00%  time 2023-04-25 10:05:16.729481
+Network Network 4-2 total 3200 correct 2409 accuracy 75.28 time 2023-04-25 10:05:29.529042
+Network Network 4-2 total 6400 correct 4513 accuracy 70.52 time 2023-04-25 10:05:38.407684
+Network Network 4-2 total 9600 correct 6767 accuracy 70.49 time 2023-04-25 10:05:46.882838
+Network Network 4-2 total 12800 correct 9080 accuracy 70.94 time 2023-04-25 10:05:54.693112
+Network Network 4-2 total 16000 correct 11606 accuracy 72.54 time 2023-04-25 10:06:04.587604
+Network Network 4-2 total 19200 correct 13851 accuracy 72.14 time 2023-04-25 10:06:12.435959
+Network Network 4-2 total 22400 correct 16126 accuracy 71.99 time 2023-04-25 10:06:18.890750
+Network Network 4-2 total 25600 correct 18439 accuracy 72.03 time 2023-04-25 10:06:25.977087
+Network Network 4-2 total 28800 correct 20890 accuracy 72.53 time 2023-04-25 10:06:33.206599
+Network Network 4-2 total 32000 correct 23337 accuracy 72.93 time 2023-04-25 10:06:40.501658
+Network Network 4-2 total 35200 correct 25648 accuracy 72.86 time 2023-04-25 10:06:48.365688
+Network Network 4-2 total 38400 correct 28067 accuracy 73.09 time 2023-04-25 10:06:55.743986
+Network Network 4-2 total 41600 correct 30439 accuracy 73.17 time 2023-04-25 10:07:02.712916
+Network Network 4-2 total 44800 correct 32658 accuracy 72.90 time 2023-04-25 10:07:09.504536
+Network Network 4-2 total 48000 correct 34900 accuracy 72.71 time 2023-04-25 10:07:18.005834
+Network Network 4-2 total 51200 correct 37271 accuracy 72.79 time 2023-04-25 10:07:25.327130
+Network Network 4-2 total 54400 correct 39172 accuracy 72.01 time 2023-04-25 10:07:32.958317
+Network Network 4-2 total 57600 correct 41085 accuracy 71.33 time 2023-04-25 10:07:39.908312
+Network Network 4-2 total 60800 correct 43452 accuracy 71.47 time 2023-04-25 10:07:47.342068
+Network Network 4-2 total 64000 correct 46201 accuracy 72.19 time 2023-04-25 10:07:55.812378
+Network 4-2 trainset accuracy: 72.23%  time 2023-04-25 10:07:57.431603
+Network Network 4-3 total 3200 correct 2601 accuracy 81.28 time 2023-04-25 10:08:09.944039
+Network Network 4-3 total 6400 correct 5052 accuracy 78.94 time 2023-04-25 10:08:19.923037
+Network Network 4-3 total 9600 correct 7605 accuracy 79.22 time 2023-04-25 10:08:28.665516
+Network Network 4-3 total 12800 correct 10230 accuracy 79.92 time 2023-04-25 10:08:36.788555
+Network Network 4-3 total 16000 correct 12853 accuracy 80.33 time 2023-04-25 10:08:44.669526
+Network Network 4-3 total 19200 correct 15490 accuracy 80.68 time 2023-04-25 10:08:51.852794
+Network Network 4-3 total 22400 correct 17487 accuracy 78.07 time 2023-04-25 10:08:58.917577
+Network Network 4-3 total 25600 correct 20023 accuracy 78.21 time 2023-04-25 10:09:07.049124
+Network Network 4-3 total 28800 correct 22370 accuracy 77.67 time 2023-04-25 10:09:14.654530
+Network Network 4-3 total 32000 correct 24707 accuracy 77.21 time 2023-04-25 10:09:22.532322
+Network Network 4-3 total 35200 correct 27014 accuracy 76.74 time 2023-04-25 10:09:31.226809
+Network Network 4-3 total 38400 correct 29249 accuracy 76.17 time 2023-04-25 10:09:37.924561
+Network Network 4-3 total 41600 correct 31540 accuracy 75.82 time 2023-04-25 10:09:45.288504
+Network Network 4-3 total 44800 correct 33699 accuracy 75.22 time 2023-04-25 10:09:52.641133
+Network Network 4-3 total 48000 correct 35805 accuracy 74.59 time 2023-04-25 10:10:00.511447
+Network Network 4-3 total 51200 correct 38229 accuracy 74.67 time 2023-04-25 10:10:07.666520
+Network Network 4-3 total 54400 correct 40798 accuracy 75.00 time 2023-04-25 10:10:15.453460
+Network Network 4-3 total 57600 correct 43246 accuracy 75.08 time 2023-04-25 10:10:22.925616
+Network Network 4-3 total 60800 correct 45821 accuracy 75.36 time 2023-04-25 10:10:32.226653
+Network 4-3 trainset accuracy: 75.25%  time 2023-04-25 10:10:41.527463
+Network Network 4-4 total 3200 correct 2702 accuracy 84.44 time 2023-04-25 10:10:55.206017
+Network Network 4-4 total 6400 correct 4923 accuracy 76.92 time 2023-04-25 10:11:03.042477
+Network Network 4-4 total 9600 correct 7217 accuracy 75.18 time 2023-04-25 10:11:09.840474
+Network Network 4-4 total 12800 correct 9692 accuracy 75.72 time 2023-04-25 10:11:17.854061
+Network Network 4-4 total 16000 correct 11951 accuracy 74.69 time 2023-04-25 10:11:25.606409
+Network Network 4-4 total 19200 correct 14437 accuracy 75.19 time 2023-04-25 10:11:34.005408
+Network Network 4-4 total 22400 correct 17131 accuracy 76.48 time 2023-04-25 10:11:41.711764
+Network Network 4-4 total 25600 correct 19626 accuracy 76.66 time 2023-04-25 10:11:49.768142
+Network Network 4-4 total 28800 correct 22158 accuracy 76.94 time 2023-04-25 10:11:58.249684
+Network Network 4-4 total 32000 correct 24522 accuracy 76.63 time 2023-04-25 10:12:05.048095
+Network Network 4-4 total 35200 correct 26421 accuracy 75.06 time 2023-04-25 10:12:12.508822
+Network Network 4-4 total 38400 correct 28172 accuracy 73.36 time 2023-04-25 10:12:19.968362
+Network Network 4-4 total 41600 correct 30460 accuracy 73.22 time 2023-04-25 10:12:28.011947
+Network Network 4-4 total 44800 correct 32892 accuracy 73.42 time 2023-04-25 10:12:36.707329
+Network Network 4-4 total 48000 correct 35153 accuracy 73.24 time 2023-04-25 10:12:44.370039
+Network Network 4-4 total 51200 correct 37631 accuracy 73.50 time 2023-04-25 10:12:52.980003
+Network Network 4-4 total 54400 correct 39710 accuracy 73.00 time 2023-04-25 10:13:00.135231
+Network Network 4-4 total 57600 correct 41788 accuracy 72.55 time 2023-04-25 10:13:09.585694
+Network Network 4-4 total 60800 correct 43952 accuracy 72.29 time 2023-04-25 10:13:16.839625
+Network 4-4 trainset accuracy: 72.99%  time 2023-04-25 10:13:24.675948
+Network Network 5 total 3200 correct 1986 accuracy 62.06 time 2023-04-25 10:13:37.927650
+Network Network 5 total 6400 correct 4256 accuracy 66.50 time 2023-04-25 10:13:45.862786
+Network Network 5 total 9600 correct 6551 accuracy 68.24 time 2023-04-25 10:13:55.254510
+Network Network 5 total 12800 correct 8617 accuracy 67.32 time 2023-04-25 10:14:03.875340
+Network Network 5 total 16000 correct 10035 accuracy 62.72 time 2023-04-25 10:14:12.546169
+Network Network 5 total 19200 correct 12413 accuracy 64.65 time 2023-04-25 10:14:20.985988
+Network Network 5 total 22400 correct 14563 accuracy 65.01 time 2023-04-25 10:14:29.424902
+Network Network 5 total 25600 correct 17076 accuracy 66.70 time 2023-04-25 10:14:36.279561
+Network Network 5 total 28800 correct 19363 accuracy 67.23 time 2023-04-25 10:14:44.293965
+Network Network 5 total 32000 correct 21576 accuracy 67.42 time 2023-04-25 10:14:52.751629
+Network Network 5 total 35200 correct 23908 accuracy 67.92 time 2023-04-25 10:15:00.760042
+Network Network 5 total 38400 correct 26489 accuracy 68.98 time 2023-04-25 10:15:07.088897
+Network Network 5 total 41600 correct 28338 accuracy 68.12 time 2023-04-25 10:15:14.005216
+Network Network 5 total 44800 correct 29831 accuracy 66.59 time 2023-04-25 10:15:21.352698
+Network Network 5 total 48000 correct 31643 accuracy 65.92 time 2023-04-25 10:15:28.565290
+Network Network 5 total 51200 correct 33753 accuracy 65.92 time 2023-04-25 10:15:35.975945
+Network Network 5 total 54400 correct 35708 accuracy 65.64 time 2023-04-25 10:15:43.036576
+Network Network 5 total 57600 correct 37531 accuracy 65.16 time 2023-04-25 10:15:50.537258
+Network Network 5 total 60800 correct 39222 accuracy 64.51 time 2023-04-25 10:15:58.116430
+Network Network 5 total 64000 correct 41109 accuracy 64.23 time 2023-04-25 10:16:05.503050
+Network Network 5 total 67200 correct 43243 accuracy 64.35 time 2023-04-25 10:16:14.152100
+Network Network 5 total 70400 correct 45465 accuracy 64.58 time 2023-04-25 10:16:21.231324
+Network Network 5 total 73600 correct 47370 accuracy 64.36 time 2023-04-25 10:16:28.450589
+Network Network 5 total 76800 correct 49524 accuracy 64.48 time 2023-04-25 10:16:35.698320
+Network Network 5 total 80000 correct 51395 accuracy 64.24 time 2023-04-25 10:16:44.473746
+Network Network 5 total 83200 correct 53437 accuracy 64.23 time 2023-04-25 10:16:52.908718
+Network Network 5 total 86400 correct 55373 accuracy 64.09 time 2023-04-25 10:17:01.937088
+Network Network 5 total 89600 correct 57685 accuracy 64.38 time 2023-04-25 10:17:10.583460
+Network Network 5 total 92800 correct 59839 accuracy 64.48 time 2023-04-25 10:17:19.585968
+Network Network 5 total 96000 correct 61847 accuracy 64.42 time 2023-04-25 10:17:26.740207
+Network Network 5 total 99200 correct 64115 accuracy 64.63 time 2023-04-25 10:17:35.163718
+Network Network 5 total 102400 correct 66309 accuracy 64.75 time 2023-04-25 10:17:44.514977
+Network Network 5 total 105600 correct 68282 accuracy 64.66 time 2023-04-25 10:17:55.222968
+Network Network 5 total 108800 correct 69895 accuracy 64.24 time 2023-04-25 10:18:02.178305
+Network Network 5 total 112000 correct 71945 accuracy 64.24 time 2023-04-25 10:18:09.937969
+Network Network 5 total 115200 correct 73838 accuracy 64.10 time 2023-04-25 10:18:16.862369
+Network Network 5 total 118400 correct 75949 accuracy 64.15 time 2023-04-25 10:18:24.969898
+Network Network 5 total 121600 correct 77377 accuracy 63.63 time 2023-04-25 10:18:33.966611
+Network Network 5 total 124800 correct 79348 accuracy 63.58 time 2023-04-25 10:18:42.154113
+Network Network 5 total 128000 correct 81550 accuracy 63.71 time 2023-04-25 10:18:50.388280
+Network Network 5 total 131200 correct 83255 accuracy 63.46 time 2023-04-25 10:18:58.691239
+Network Network 5 total 134400 correct 85254 accuracy 63.43 time 2023-04-25 10:19:05.323669
+Network Network 5 total 137600 correct 87356 accuracy 63.49 time 2023-04-25 10:19:13.875628
+Network Network 5 total 140800 correct 89369 accuracy 63.47 time 2023-04-25 10:19:22.227460
+Network Network 5 total 144000 correct 91290 accuracy 63.40 time 2023-04-25 10:19:30.066997
+Network Network 5 total 147200 correct 93105 accuracy 63.25 time 2023-04-25 10:19:37.002305
+Network Network 5 total 150400 correct 94861 accuracy 63.07 time 2023-04-25 10:19:46.660790
+Network Network 5 total 153600 correct 96600 accuracy 62.89 time 2023-04-25 10:19:55.029660
+Network Network 5 total 156800 correct 98672 accuracy 62.93 time 2023-04-25 10:20:03.156679
+Network Network 5 total 160000 correct 100909 accuracy 63.07 time 2023-04-25 10:20:11.669411
+Network Network 5 total 163200 correct 103110 accuracy 63.18 time 2023-04-25 10:20:19.774729
+Network Network 5 total 166400 correct 105137 accuracy 63.18 time 2023-04-25 10:20:28.875034
+Network Network 5 total 169600 correct 107080 accuracy 63.14 time 2023-04-25 10:20:35.458682
+Network Network 5 total 172800 correct 109419 accuracy 63.32 time 2023-04-25 10:20:44.729084
+Network Network 5 total 176000 correct 111008 accuracy 63.07 time 2023-04-25 10:20:52.083402
+Network Network 5 total 179200 correct 113026 accuracy 63.07 time 2023-04-25 10:20:59.107914
+Network Network 5 total 182400 correct 114690 accuracy 62.88 time 2023-04-25 10:21:06.829258
+Network Network 5 total 185600 correct 116517 accuracy 62.78 time 2023-04-25 10:21:15.064025
+Network Network 5 total 188800 correct 118144 accuracy 62.58 time 2023-04-25 10:21:21.925599
+Network Network 5 total 192000 correct 120268 accuracy 62.64 time 2023-04-25 10:21:29.946698
+Network Network 5 total 195200 correct 122404 accuracy 62.71 time 2023-04-25 10:21:38.391320
+Network Network 5 total 198400 correct 124719 accuracy 62.86 time 2023-04-25 10:21:46.654242
+Network Network 5 total 201600 correct 126937 accuracy 62.96 time 2023-04-25 10:21:53.782128
+Network Network 5 total 204800 correct 129278 accuracy 63.12 time 2023-04-25 10:22:02.039764
+Network Network 5 total 208000 correct 131668 accuracy 63.30 time 2023-04-25 10:22:10.512919
+Network Network 5 total 211200 correct 133536 accuracy 63.23 time 2023-04-25 10:22:17.318782
+Network Network 5 total 214400 correct 135575 accuracy 63.23 time 2023-04-25 10:22:25.804896
+Network Network 5 total 217600 correct 138100 accuracy 63.47 time 2023-04-25 10:22:33.548423
+Network Network 5 total 220800 correct 140612 accuracy 63.68 time 2023-04-25 10:22:40.672393
+Network Network 5 total 224000 correct 142696 accuracy 63.70 time 2023-04-25 10:22:47.923919
+Network Network 5 total 227200 correct 144904 accuracy 63.78 time 2023-04-25 10:22:54.737010
+Network Network 5 total 230400 correct 147007 accuracy 63.81 time 2023-04-25 10:23:01.260081
+Network Network 5 total 233600 correct 149301 accuracy 63.91 time 2023-04-25 10:23:09.424303
+Network Network 5 total 236800 correct 151537 accuracy 63.99 time 2023-04-25 10:23:17.771020
+Network Network 5 total 240000 correct 153795 accuracy 64.08 time 2023-04-25 10:23:25.863171
+Network Network 5 total 243200 correct 156269 accuracy 64.26 time 2023-04-25 10:23:33.603070
+Network Network 5 total 246400 correct 158748 accuracy 64.43 time 2023-04-25 10:23:42.061472
+Network Network 5 total 249600 correct 161021 accuracy 64.51 time 2023-04-25 10:23:51.757571
+Network Network 5 total 252800 correct 163246 accuracy 64.58 time 2023-04-25 10:24:00.591265
+Network Network 5 total 256000 correct 165474 accuracy 64.64 time 2023-04-25 10:24:09.983108
+Network 5 trainset accuracy: 64.75%  time 2023-04-25 10:24:15.677747
+Network Network 5-1 total 3200 correct 2527 accuracy 78.97 time 2023-04-25 10:24:27.935439
+Network Network 5-1 total 6400 correct 5252 accuracy 82.06 time 2023-04-25 10:24:35.432568
+Network Network 5-1 total 9600 correct 7458 accuracy 77.69 time 2023-04-25 10:24:42.715650
+Network Network 5-1 total 12800 correct 9742 accuracy 76.11 time 2023-04-25 10:24:50.921697
+Network Network 5-1 total 16000 correct 12074 accuracy 75.46 time 2023-04-25 10:24:57.982073
+Network Network 5-1 total 19200 correct 14310 accuracy 74.53 time 2023-04-25 10:25:06.267258
+Network Network 5-1 total 22400 correct 16433 accuracy 73.36 time 2023-04-25 10:25:13.506287
+Network Network 5-1 total 25600 correct 18782 accuracy 73.37 time 2023-04-25 10:25:21.693773
+Network Network 5-1 total 28800 correct 21013 accuracy 72.96 time 2023-04-25 10:25:31.196696
+Network Network 5-1 total 32000 correct 23214 accuracy 72.54 time 2023-04-25 10:25:38.592970
+Network Network 5-1 total 35200 correct 25374 accuracy 72.09 time 2023-04-25 10:25:47.018196
+Network Network 5-1 total 38400 correct 27574 accuracy 71.81 time 2023-04-25 10:25:54.983605
+Network Network 5-1 total 41600 correct 29778 accuracy 71.58 time 2023-04-25 10:26:02.868283
+Network Network 5-1 total 44800 correct 32407 accuracy 72.34 time 2023-04-25 10:26:09.844507
+Network Network 5-1 total 48000 correct 34846 accuracy 72.60 time 2023-04-25 10:26:17.697408
+Network Network 5-1 total 51200 correct 36575 accuracy 71.44 time 2023-04-25 10:26:24.817665
+Network Network 5-1 total 54400 correct 38852 accuracy 71.42 time 2023-04-25 10:26:31.869002
+Network Network 5-1 total 57600 correct 41349 accuracy 71.79 time 2023-04-25 10:26:38.354086
+Network Network 5-1 total 60800 correct 44138 accuracy 72.60 time 2023-04-25 10:26:46.524913
+Network Network 5-1 total 64000 correct 46709 accuracy 72.98 time 2023-04-25 10:26:55.539979
+Network 5-1 trainset accuracy: 73.03%  time 2023-04-25 10:26:56.321364
+Network Network 5-2 total 3200 correct 2482 accuracy 77.56 time 2023-04-25 10:27:09.674893
+Network Network 5-2 total 6400 correct 5121 accuracy 80.02 time 2023-04-25 10:27:16.729445
+Network Network 5-2 total 9600 correct 7650 accuracy 79.69 time 2023-04-25 10:27:24.158347
+Network Network 5-2 total 12800 correct 9881 accuracy 77.20 time 2023-04-25 10:27:30.691166
+Network Network 5-2 total 16000 correct 12072 accuracy 75.45 time 2023-04-25 10:27:38.764515
+Network Network 5-2 total 19200 correct 13984 accuracy 72.83 time 2023-04-25 10:27:46.086872
+Network Network 5-2 total 22400 correct 16664 accuracy 74.39 time 2023-04-25 10:27:54.848362
+Network Network 5-2 total 25600 correct 19146 accuracy 74.79 time 2023-04-25 10:28:04.536313
+Network Network 5-2 total 28800 correct 21393 accuracy 74.28 time 2023-04-25 10:28:13.107670
+Network Network 5-2 total 32000 correct 23643 accuracy 73.88 time 2023-04-25 10:28:20.756951
+Network Network 5-2 total 35200 correct 26086 accuracy 74.11 time 2023-04-25 10:28:29.855535
+Network Network 5-2 total 38400 correct 28547 accuracy 74.34 time 2023-04-25 10:28:38.786413
+Network Network 5-2 total 41600 correct 30647 accuracy 73.67 time 2023-04-25 10:28:45.859923
+Network Network 5-2 total 44800 correct 33152 accuracy 74.00 time 2023-04-25 10:28:53.767995
+Network Network 5-2 total 48000 correct 35243 accuracy 73.42 time 2023-04-25 10:28:59.765484
+Network Network 5-2 total 51200 correct 37271 accuracy 72.79 time 2023-04-25 10:29:07.326094
+Network Network 5-2 total 54400 correct 39770 accuracy 73.11 time 2023-04-25 10:29:16.070708
+Network Network 5-2 total 57600 correct 42466 accuracy 73.73 time 2023-04-25 10:29:24.126049
+Network Network 5-2 total 60800 correct 45126 accuracy 74.22 time 2023-04-25 10:29:32.690705
+Network Network 5-2 total 64000 correct 47587 accuracy 74.35 time 2023-04-25 10:29:41.554476
+Network 5-2 trainset accuracy: 74.31%  time 2023-04-25 10:29:42.565187
+Network Network 5-3 total 3200 correct 2478 accuracy 77.44 time 2023-04-25 10:29:56.183456
+Network Network 5-3 total 6400 correct 5036 accuracy 78.69 time 2023-04-25 10:30:04.749513
+Network Network 5-3 total 9600 correct 7662 accuracy 79.81 time 2023-04-25 10:30:12.340779
+Network Network 5-3 total 12800 correct 9974 accuracy 77.92 time 2023-04-25 10:30:20.505256
+Network Network 5-3 total 16000 correct 12556 accuracy 78.47 time 2023-04-25 10:30:27.347379
+Network Network 5-3 total 19200 correct 14814 accuracy 77.16 time 2023-04-25 10:30:34.969188
+Network Network 5-3 total 22400 correct 17473 accuracy 78.00 time 2023-04-25 10:30:43.890722
+Network Network 5-3 total 25600 correct 19895 accuracy 77.71 time 2023-04-25 10:30:52.125690
+Network Network 5-3 total 28800 correct 22370 accuracy 77.67 time 2023-04-25 10:31:01.246575
+Network Network 5-3 total 32000 correct 24617 accuracy 76.93 time 2023-04-25 10:31:08.395770
+Network Network 5-3 total 35200 correct 26781 accuracy 76.08 time 2023-04-25 10:31:15.126923
+Network Network 5-3 total 38400 correct 28990 accuracy 75.49 time 2023-04-25 10:31:23.053130
+Network Network 5-3 total 41600 correct 31435 accuracy 75.56 time 2023-04-25 10:31:32.233782
+Network Network 5-3 total 44800 correct 34048 accuracy 76.00 time 2023-04-25 10:31:42.034376
+Network Network 5-3 total 48000 correct 36462 accuracy 75.96 time 2023-04-25 10:31:50.097862
+Network Network 5-3 total 51200 correct 38929 accuracy 76.03 time 2023-04-25 10:31:57.857844
+Network Network 5-3 total 54400 correct 41302 accuracy 75.92 time 2023-04-25 10:32:06.687563
+Network Network 5-3 total 57600 correct 43753 accuracy 75.96 time 2023-04-25 10:32:15.363706
+Network Network 5-3 total 60800 correct 46290 accuracy 76.13 time 2023-04-25 10:32:24.044666
+Network Network 5-3 total 64000 correct 48770 accuracy 76.20 time 2023-04-25 10:32:32.100690
+Network 5-3 trainset accuracy: 76.27%  time 2023-04-25 10:32:34.291923
+Network Network 5-4 total 3200 correct 2592 accuracy 81.00 time 2023-04-25 10:32:47.546131
+Network Network 5-4 total 6400 correct 5037 accuracy 78.70 time 2023-04-25 10:32:56.615766
+Network Network 5-4 total 9600 correct 7679 accuracy 79.99 time 2023-04-25 10:33:04.994216
+Network Network 5-4 total 12800 correct 9969 accuracy 77.88 time 2023-04-25 10:33:12.947157
+Network Network 5-4 total 16000 correct 12041 accuracy 75.26 time 2023-04-25 10:33:20.081494
+Network Network 5-4 total 19200 correct 14225 accuracy 74.09 time 2023-04-25 10:33:27.472211
+Network Network 5-4 total 22400 correct 16383 accuracy 73.14 time 2023-04-25 10:33:34.481642
+Network Network 5-4 total 25600 correct 18580 accuracy 72.58 time 2023-04-25 10:33:42.909216
+Network Network 5-4 total 28800 correct 20760 accuracy 72.08 time 2023-04-25 10:33:51.383515
+Network Network 5-4 total 32000 correct 23303 accuracy 72.82 time 2023-04-25 10:33:59.362850
+Network Network 5-4 total 35200 correct 25918 accuracy 73.63 time 2023-04-25 10:34:07.402177
+Network Network 5-4 total 38400 correct 28324 accuracy 73.76 time 2023-04-25 10:34:16.945730
+Network Network 5-4 total 41600 correct 30898 accuracy 74.27 time 2023-04-25 10:34:25.461285
+Network Network 5-4 total 44800 correct 33060 accuracy 73.79 time 2023-04-25 10:34:32.527090
+Network Network 5-4 total 48000 correct 35352 accuracy 73.65 time 2023-04-25 10:34:39.840689
+Network Network 5-4 total 51200 correct 37512 accuracy 73.27 time 2023-04-25 10:34:46.501507
+Network Network 5-4 total 54400 correct 39917 accuracy 73.38 time 2023-04-25 10:34:54.019024
+Network Network 5-4 total 57600 correct 42534 accuracy 73.84 time 2023-04-25 10:35:00.505418
+Network Network 5-4 total 60800 correct 45202 accuracy 74.35 time 2023-04-25 10:35:08.128484
+Network Network 5-4 total 64000 correct 47945 accuracy 74.91 time 2023-04-25 10:35:18.398461
+Network 5-4 trainset accuracy: 75.04%  time 2023-04-25 10:35:20.198768

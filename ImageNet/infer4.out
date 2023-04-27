@@ -1,0 +1,455 @@
+Loaded Root model from ./models/Root_model.pth
+Loaded Network 1 model from ./models/Network 1_model.pth
+Loaded Network 1-1 model from ./models/Network 1-1_model.pth
+Loaded Network 1-2 model from ./models/Network 1-2_model.pth
+Loaded Network 1-3 model from ./models/Network 1-3_model.pth
+Loaded Network 1-4 model from ./models/Network 1-4_model.pth
+Loaded Network 2 model from ./models/Network 2_model.pth
+Loaded Network 2-1 model from ./models/Network 2-1_model.pth
+Loaded Network 2-2 model from ./models/Network 2-2_model.pth
+Loaded Network 2-3 model from ./models/Network 2-3_model.pth
+Loaded Network 2-4 model from ./models/Network 2-4_model.pth
+Loaded Network 3 model from ./models/Network 3_model.pth
+Loaded Network 3-1 model from ./models/Network 3-1_model.pth
+Loaded Network 3-2 model from ./models/Network 3-2_model.pth
+Loaded Network 3-3 model from ./models/Network 3-3_model.pth
+Loaded Network 3-4 model from ./models/Network 3-4_model.pth
+Loaded Network 4 model from ./models/Network 4_model.pth
+Loaded Network 4-1 model from ./models/Network 4-1_model.pth
+Loaded Network 4-2 model from ./models/Network 4-2_model.pth
+Loaded Network 4-3 model from ./models/Network 4-3_model.pth
+Loaded Network 4-4 model from ./models/Network 4-4_model.pth
+Loaded Network 5 model from ./models/Network 5_model.pth
+Loaded Network 5-1 model from ./models/Network 5-1_model.pth
+Loaded Network 5-2 model from ./models/Network 5-2_model.pth
+Loaded Network 5-3 model from ./models/Network 5-3_model.pth
+Loaded Network 5-4 model from ./models/Network 5-4_model.pth
+Root Trainloader set.
+Network 1 Trainloader set.
+Network 1-1 Trainloader set.
+Network 1-2 Trainloader set.
+Network 1-3 Trainloader set.
+Network 1-4 Trainloader set.
+Network 2 Trainloader set.
+Network 2-1 Trainloader set.
+Network 2-2 Trainloader set.
+Network 2-3 Trainloader set.
+Network 2-4 Trainloader set.
+Network 3 Trainloader set.
+Network 3-1 Trainloader set.
+Network 3-2 Trainloader set.
+Network 3-3 Trainloader set.
+Network 3-4 Trainloader set.
+Network 4 Trainloader set.
+Network 4-1 Trainloader set.
+Network 4-2 Trainloader set.
+Network 4-3 Trainloader set.
+Network 4-4 Trainloader set.
+Network 5 Trainloader set.
+Network 5-1 Trainloader set.
+Network 5-2 Trainloader set.
+Network 5-3 Trainloader set.
+Network 5-4 Trainloader set.
+Network Root total 3200 correct 969 accuracy 30.28 time 2023-04-26 08:03:54.994696
+Network Root total 6400 correct 1935 accuracy 30.23 time 2023-04-26 08:04:19.136263
+Network Root total 9600 correct 2921 accuracy 30.43 time 2023-04-26 08:04:43.170067
+Network Root total 12800 correct 3888 accuracy 30.38 time 2023-04-26 08:05:07.096726
+Network Root total 16000 correct 4839 accuracy 30.24 time 2023-04-26 08:05:31.037612
+Network Root total 19200 correct 5781 accuracy 30.11 time 2023-04-26 08:05:54.994064
+Network Root total 22400 correct 6780 accuracy 30.27 time 2023-04-26 08:06:18.955446
+Network Root total 25600 correct 7760 accuracy 30.31 time 2023-04-26 08:06:42.864721
+Network Root total 28800 correct 8727 accuracy 30.30 time 2023-04-26 08:07:06.778228
+Network Root total 32000 correct 9691 accuracy 30.28 time 2023-04-26 08:07:30.709438
+Network Root total 35200 correct 10692 accuracy 30.38 time 2023-04-26 08:07:54.613782
+Network Root total 38400 correct 11677 accuracy 30.41 time 2023-04-26 08:08:18.514196
+Network Root total 41600 correct 12619 accuracy 30.33 time 2023-04-26 08:08:42.429315
+Network Root total 44800 correct 13560 accuracy 30.27 time 2023-04-26 08:09:06.339956
+Network Root total 48000 correct 14529 accuracy 30.27 time 2023-04-26 08:09:30.260185
+Network Root total 51200 correct 15530 accuracy 30.33 time 2023-04-26 08:09:54.150964
+Network Root total 54400 correct 16511 accuracy 30.35 time 2023-04-26 08:10:18.053066
+Network Root total 57600 correct 17488 accuracy 30.36 time 2023-04-26 08:10:41.967474
+Network Root total 60800 correct 18465 accuracy 30.37 time 2023-04-26 08:11:05.876436
+Network Root total 64000 correct 19433 accuracy 30.36 time 2023-04-26 08:11:29.795713
+Network Root total 67200 correct 20394 accuracy 30.35 time 2023-04-26 08:11:53.658506
+Network Root total 70400 correct 21344 accuracy 30.32 time 2023-04-26 08:12:17.570134
+Network Root total 73600 correct 22360 accuracy 30.38 time 2023-04-26 08:12:41.467415
+Network Root total 76800 correct 23337 accuracy 30.39 time 2023-04-26 08:13:05.385063
+Network Root total 80000 correct 24341 accuracy 30.43 time 2023-04-26 08:13:29.292888
+Network Root total 83200 correct 25292 accuracy 30.40 time 2023-04-26 08:13:53.187392
+Network Root total 86400 correct 26224 accuracy 30.35 time 2023-04-26 08:14:17.086344
+Network Root total 89600 correct 27152 accuracy 30.30 time 2023-04-26 08:14:40.996376
+Network Root total 92800 correct 28121 accuracy 30.30 time 2023-04-26 08:15:04.889643
+Network Root total 96000 correct 29109 accuracy 30.32 time 2023-04-26 08:15:28.819280
+Network Root total 99200 correct 30049 accuracy 30.29 time 2023-04-26 08:15:52.861667
+Network Root total 102400 correct 31035 accuracy 30.31 time 2023-04-26 08:16:16.950938
+Network Root total 105600 correct 32013 accuracy 30.32 time 2023-04-26 08:16:41.021723
+Network Root total 108800 correct 33035 accuracy 30.36 time 2023-04-26 08:17:05.021316
+Network Root total 112000 correct 34086 accuracy 30.43 time 2023-04-26 08:17:28.969005
+Network Root total 115200 correct 35059 accuracy 30.43 time 2023-04-26 08:17:52.912239
+Network Root total 118400 correct 36033 accuracy 30.43 time 2023-04-26 08:18:16.965038
+Network Root total 121600 correct 36975 accuracy 30.41 time 2023-04-26 08:18:41.028131
+Network Root total 124800 correct 37989 accuracy 30.44 time 2023-04-26 08:19:05.043050
+Network Root total 128000 correct 38970 accuracy 30.45 time 2023-04-26 08:19:29.031349
+Network Root total 131200 correct 39933 accuracy 30.44 time 2023-04-26 08:19:52.988428
+Network Root total 134400 correct 40892 accuracy 30.43 time 2023-04-26 08:20:16.946092
+Network Root total 137600 correct 41834 accuracy 30.40 time 2023-04-26 08:20:40.922281
+Network Root total 140800 correct 42769 accuracy 30.38 time 2023-04-26 08:21:04.931691
+Network Root total 144000 correct 43762 accuracy 30.39 time 2023-04-26 08:21:29.030631
+Network Root total 147200 correct 44754 accuracy 30.40 time 2023-04-26 08:21:53.053528
+Network Root total 150400 correct 45719 accuracy 30.40 time 2023-04-26 08:22:17.048764
+Network Root total 153600 correct 46685 accuracy 30.39 time 2023-04-26 08:22:41.014074
+Network Root total 156800 correct 47659 accuracy 30.39 time 2023-04-26 08:23:04.957196
+Network Root total 160000 correct 48653 accuracy 30.41 time 2023-04-26 08:23:28.881687
+Network Root total 163200 correct 49631 accuracy 30.41 time 2023-04-26 08:23:52.765353
+Network Root total 166400 correct 50604 accuracy 30.41 time 2023-04-26 08:24:16.652626
+Network Root total 169600 correct 51544 accuracy 30.39 time 2023-04-26 08:24:40.808334
+Network Root total 172800 correct 52479 accuracy 30.37 time 2023-04-26 08:25:05.087818
+Network Root total 176000 correct 53458 accuracy 30.37 time 2023-04-26 08:25:29.156188
+Network Root total 179200 correct 54437 accuracy 30.38 time 2023-04-26 08:25:53.146645
+Network Root total 182400 correct 55392 accuracy 30.37 time 2023-04-26 08:26:17.111479
+Network Root total 185600 correct 56391 accuracy 30.38 time 2023-04-26 08:26:41.079961
+Network Root total 188800 correct 57354 accuracy 30.38 time 2023-04-26 08:27:05.040026
+Network Root total 192000 correct 58344 accuracy 30.39 time 2023-04-26 08:27:29.010707
+Network Root total 195200 correct 59309 accuracy 30.38 time 2023-04-26 08:27:52.934755
+Network Root total 198400 correct 60270 accuracy 30.38 time 2023-04-26 08:28:17.204188
+Network Root total 201600 correct 61226 accuracy 30.37 time 2023-04-26 08:28:41.322642
+Network Root total 204800 correct 62178 accuracy 30.36 time 2023-04-26 08:29:05.366419
+Network Root total 208000 correct 63130 accuracy 30.35 time 2023-04-26 08:29:29.380107
+Network Root total 211200 correct 64101 accuracy 30.35 time 2023-04-26 08:29:53.355730
+Network Root total 214400 correct 65047 accuracy 30.34 time 2023-04-26 08:30:17.334819
+Network Root total 217600 correct 66035 accuracy 30.35 time 2023-04-26 08:30:41.296739
+Network Root total 220800 correct 67040 accuracy 30.36 time 2023-04-26 08:31:05.219690
+Network Root total 224000 correct 67967 accuracy 30.34 time 2023-04-26 08:31:29.162711
+Network Root total 227200 correct 68894 accuracy 30.32 time 2023-04-26 08:31:53.226824
+Network Root total 230400 correct 69866 accuracy 30.32 time 2023-04-26 08:32:17.587405
+Network Root total 233600 correct 70859 accuracy 30.33 time 2023-04-26 08:32:41.688988
+Network Root total 236800 correct 71824 accuracy 30.33 time 2023-04-26 08:33:05.714889
+Network Root total 240000 correct 72840 accuracy 30.35 time 2023-04-26 08:33:29.706163
+Network Root total 243200 correct 73809 accuracy 30.35 time 2023-04-26 08:33:53.668810
+Network Root total 246400 correct 74748 accuracy 30.34 time 2023-04-26 08:34:17.638025
+Network Root total 249600 correct 75744 accuracy 30.35 time 2023-04-26 08:34:41.620778
+Network Root total 252800 correct 76702 accuracy 30.34 time 2023-04-26 08:35:05.909280
+Network Root total 256000 correct 77684 accuracy 30.35 time 2023-04-26 08:35:29.949874
+Network Root total 259200 correct 78618 accuracy 30.33 time 2023-04-26 08:35:53.954050
+Network Root total 262400 correct 79582 accuracy 30.33 time 2023-04-26 08:36:17.964340
+Network Root total 265600 correct 80524 accuracy 30.32 time 2023-04-26 08:36:41.931508
+Network Root total 268800 correct 81512 accuracy 30.32 time 2023-04-26 08:37:05.893015
+Network Root total 272000 correct 82438 accuracy 30.31 time 2023-04-26 08:37:29.970661
+Network Root total 275200 correct 83386 accuracy 30.30 time 2023-04-26 08:37:54.308201
+Network Root total 278400 correct 84335 accuracy 30.29 time 2023-04-26 08:38:18.438275
+Network Root total 281600 correct 85300 accuracy 30.29 time 2023-04-26 08:38:42.527677
+Network Root total 284800 correct 86261 accuracy 30.29 time 2023-04-26 08:39:06.575958
+Network Root total 288000 correct 87213 accuracy 30.28 time 2023-04-26 08:39:30.577949
+Network Root total 291200 correct 88161 accuracy 30.28 time 2023-04-26 08:39:54.589340
+Network Root total 294400 correct 89162 accuracy 30.29 time 2023-04-26 08:40:18.577274
+Network Root total 297600 correct 90086 accuracy 30.27 time 2023-04-26 08:40:42.556477
+Network Root total 300800 correct 91069 accuracy 30.28 time 2023-04-26 08:41:06.493332
+Network Root total 304000 correct 92019 accuracy 30.27 time 2023-04-26 08:41:30.457458
+Network Root total 307200 correct 92992 accuracy 30.27 time 2023-04-26 08:41:54.384092
+Network Root total 310400 correct 94003 accuracy 30.28 time 2023-04-26 08:42:18.368129
+Network Root total 313600 correct 94983 accuracy 30.29 time 2023-04-26 08:42:42.303004
+Network Root total 316800 correct 95942 accuracy 30.28 time 2023-04-26 08:43:06.694857
+Network Root total 320000 correct 96886 accuracy 30.28 time 2023-04-26 08:43:31.535840
+Network Root total 323200 correct 97859 accuracy 30.28 time 2023-04-26 08:43:56.334216
+Network Root total 326400 correct 98797 accuracy 30.27 time 2023-04-26 08:44:21.018376
+Network Root total 329600 correct 99803 accuracy 30.28 time 2023-04-26 08:44:45.717995
+Network Root total 332800 correct 100767 accuracy 30.28 time 2023-04-26 08:45:10.553049
+Network Root total 336000 correct 101712 accuracy 30.27 time 2023-04-26 08:45:35.285806
+Network Root total 339200 correct 102682 accuracy 30.27 time 2023-04-26 08:45:59.255404
+Network Root total 342400 correct 103668 accuracy 30.28 time 2023-04-26 08:46:23.259386
+Network Root total 345600 correct 104614 accuracy 30.27 time 2023-04-26 08:46:47.216644
+Network Root total 348800 correct 105632 accuracy 30.28 time 2023-04-26 08:47:11.190886
+Network Root total 352000 correct 106605 accuracy 30.29 time 2023-04-26 08:47:35.173765
+Network Root total 355200 correct 107589 accuracy 30.29 time 2023-04-26 08:47:59.149686
+Network Root total 358400 correct 108559 accuracy 30.29 time 2023-04-26 08:48:23.103205
+Network Root total 361600 correct 109527 accuracy 30.29 time 2023-04-26 08:48:47.077895
+Network Root total 364800 correct 110517 accuracy 30.30 time 2023-04-26 08:49:11.045935
+Network Root total 368000 correct 111515 accuracy 30.30 time 2023-04-26 08:49:35.031340
+Network Root total 371200 correct 112483 accuracy 30.30 time 2023-04-26 08:49:59.004371
+Network Root total 374400 correct 113409 accuracy 30.29 time 2023-04-26 08:50:23.174059
+Network Root total 377600 correct 114379 accuracy 30.29 time 2023-04-26 08:50:47.329141
+Network Root total 380800 correct 115380 accuracy 30.30 time 2023-04-26 08:51:11.627091
+Network Root total 384000 correct 116338 accuracy 30.30 time 2023-04-26 08:51:35.799527
+Network Root total 387200 correct 117294 accuracy 30.29 time 2023-04-26 08:51:59.865109
+Network Root total 390400 correct 118298 accuracy 30.30 time 2023-04-26 08:52:23.997228
+Network Root total 393600 correct 119268 accuracy 30.30 time 2023-04-26 08:52:48.366803
+Network Root total 396800 correct 120232 accuracy 30.30 time 2023-04-26 08:53:12.662444
+Network Root total 400000 correct 121227 accuracy 30.31 time 2023-04-26 08:53:36.970014
+Network Root total 403200 correct 122196 accuracy 30.31 time 2023-04-26 08:54:00.975320
+Network Root total 406400 correct 123151 accuracy 30.30 time 2023-04-26 08:54:24.909589
+Network Root total 409600 correct 124113 accuracy 30.30 time 2023-04-26 08:54:48.839879
+Network Root total 412800 correct 125090 accuracy 30.30 time 2023-04-26 08:55:12.777293
+Network Root total 416000 correct 125993 accuracy 30.29 time 2023-04-26 08:55:37.028515
+Network Root total 419200 correct 126982 accuracy 30.29 time 2023-04-26 08:56:01.056090
+Network Root total 422400 correct 127995 accuracy 30.30 time 2023-04-26 08:56:25.019823
+Network Root total 425600 correct 128999 accuracy 30.31 time 2023-04-26 08:56:48.935033
+Network Root total 428800 correct 129958 accuracy 30.31 time 2023-04-26 08:57:12.867987
+Network Root total 432000 correct 130955 accuracy 30.31 time 2023-04-26 08:57:36.936785
+Network Root total 435200 correct 131949 accuracy 30.32 time 2023-04-26 08:58:00.996182
+Network Root total 438400 correct 132948 accuracy 30.33 time 2023-04-26 08:58:24.957165
+Network Root total 441600 correct 133888 accuracy 30.32 time 2023-04-26 08:58:48.935089
+Network Root total 444800 correct 134832 accuracy 30.31 time 2023-04-26 08:59:12.963459
+Network Root total 448000 correct 135867 accuracy 30.33 time 2023-04-26 08:59:36.979652
+Network Root total 451200 correct 136851 accuracy 30.33 time 2023-04-26 09:00:00.914161
+Network Root total 454400 correct 137788 accuracy 30.32 time 2023-04-26 09:00:24.822274
+Network Root total 457600 correct 138750 accuracy 30.32 time 2023-04-26 09:00:48.738665
+Network Root total 460800 correct 139758 accuracy 30.33 time 2023-04-26 09:01:12.717546
+Network Root total 464000 correct 140659 accuracy 30.31 time 2023-04-26 09:01:36.695545
+Network Root total 467200 correct 141686 accuracy 30.33 time 2023-04-26 09:02:00.666373
+Network Root total 470400 correct 142700 accuracy 30.34 time 2023-04-26 09:02:24.643845
+Network Root total 473600 correct 143688 accuracy 30.34 time 2023-04-26 09:02:48.607906
+Network Root total 476800 correct 144663 accuracy 30.34 time 2023-04-26 09:03:12.601632
+Network Root total 480000 correct 145666 accuracy 30.35 time 2023-04-26 09:03:36.554599
+Network Root total 483200 correct 146636 accuracy 30.35 time 2023-04-26 09:04:00.527709
+Network Root total 486400 correct 147608 accuracy 30.35 time 2023-04-26 09:04:24.471341
+Network Root total 489600 correct 148622 accuracy 30.36 time 2023-04-26 09:04:48.418299
+Network Root total 492800 correct 149578 accuracy 30.35 time 2023-04-26 09:05:12.554415
+Network Root total 496000 correct 150592 accuracy 30.36 time 2023-04-26 09:05:36.533876
+Network Root total 499200 correct 151593 accuracy 30.37 time 2023-04-26 09:06:00.696237
+Network Root total 502400 correct 152533 accuracy 30.36 time 2023-04-26 09:06:24.688701
+Network Root total 505600 correct 153528 accuracy 30.37 time 2023-04-26 09:06:48.791575
+Network Root total 508800 correct 154492 accuracy 30.36 time 2023-04-26 09:07:12.800719
+Network Root total 512000 correct 155477 accuracy 30.37 time 2023-04-26 09:07:36.766851
+Network Root total 515200 correct 156471 accuracy 30.37 time 2023-04-26 09:08:00.772156
+Network Root total 518400 correct 157431 accuracy 30.37 time 2023-04-26 09:08:24.742667
+Network Root total 521600 correct 158373 accuracy 30.36 time 2023-04-26 09:08:48.722390
+Network Root total 524800 correct 159370 accuracy 30.37 time 2023-04-26 09:09:12.739724
+Network Root total 528000 correct 160391 accuracy 30.38 time 2023-04-26 09:09:36.727567
+Network Root total 531200 correct 161375 accuracy 30.38 time 2023-04-26 09:10:00.715898
+Network Root total 534400 correct 162347 accuracy 30.38 time 2023-04-26 09:10:24.710522
+Network Root total 537600 correct 163328 accuracy 30.38 time 2023-04-26 09:10:48.662844
+Network Root total 540800 correct 164294 accuracy 30.38 time 2023-04-26 09:11:12.680906
+Network Root total 544000 correct 165269 accuracy 30.38 time 2023-04-26 09:11:36.641375
+Network Root total 547200 correct 166218 accuracy 30.38 time 2023-04-26 09:12:00.633309
+Network Root total 550400 correct 167205 accuracy 30.38 time 2023-04-26 09:12:24.611845
+Network Root total 553600 correct 168161 accuracy 30.38 time 2023-04-26 09:12:48.662972
+Network Root total 556800 correct 169127 accuracy 30.37 time 2023-04-26 09:13:12.602060
+Network Root total 560000 correct 170096 accuracy 30.37 time 2023-04-26 09:13:36.515747
+Network Root total 563200 correct 171090 accuracy 30.38 time 2023-04-26 09:14:00.426333
+Network Root total 566400 correct 172066 accuracy 30.38 time 2023-04-26 09:14:24.500438
+Network Root total 569600 correct 173040 accuracy 30.38 time 2023-04-26 09:14:48.606310
+Network Root total 572800 correct 173991 accuracy 30.38 time 2023-04-26 09:15:12.569285
+Network Root total 576000 correct 174937 accuracy 30.37 time 2023-04-26 09:15:36.510222
+Network Root total 579200 correct 175896 accuracy 30.37 time 2023-04-26 09:16:00.493397
+Network Root total 582400 correct 176888 accuracy 30.37 time 2023-04-26 09:16:24.426720
+Network Root total 585600 correct 177875 accuracy 30.37 time 2023-04-26 09:16:48.388822
+Network Root total 588800 correct 178867 accuracy 30.38 time 2023-04-26 09:17:12.339972
+Network Root total 592000 correct 179835 accuracy 30.38 time 2023-04-26 09:17:36.311482
+Network Root total 595200 correct 180810 accuracy 30.38 time 2023-04-26 09:18:00.291240
+Network Root total 598400 correct 181774 accuracy 30.38 time 2023-04-26 09:18:24.339680
+Network Root total 601600 correct 182728 accuracy 30.37 time 2023-04-26 09:18:48.328737
+Network Root total 604800 correct 183740 accuracy 30.38 time 2023-04-26 09:19:12.293835
+Network Root total 608000 correct 184699 accuracy 30.38 time 2023-04-26 09:19:36.274464
+Network Root total 611200 correct 185719 accuracy 30.39 time 2023-04-26 09:20:00.236401
+Network Root total 614400 correct 186729 accuracy 30.39 time 2023-04-26 09:20:24.170706
+Network Root total 617600 correct 187663 accuracy 30.39 time 2023-04-26 09:20:48.092192
+Network Root total 620800 correct 188693 accuracy 30.40 time 2023-04-26 09:21:12.173460
+Network Root total 624000 correct 189647 accuracy 30.39 time 2023-04-26 09:21:36.196904
+Network Root total 627200 correct 190577 accuracy 30.39 time 2023-04-26 09:22:00.103934
+Network Root total 630400 correct 191527 accuracy 30.38 time 2023-04-26 09:22:24.144170
+Network Root total 633600 correct 192470 accuracy 30.38 time 2023-04-26 09:22:48.087668
+Network Root total 636800 correct 193441 accuracy 30.38 time 2023-04-26 09:23:11.998289
+Network Root total 640000 correct 194429 accuracy 30.38 time 2023-04-26 09:23:35.925779
+Network Root total 643200 correct 195388 accuracy 30.38 time 2023-04-26 09:23:59.829409
+Network Root total 646400 correct 196340 accuracy 30.37 time 2023-04-26 09:24:23.699305
+Network Root total 649600 correct 197307 accuracy 30.37 time 2023-04-26 09:24:47.586431
+Network Root total 652800 correct 198302 accuracy 30.38 time 2023-04-26 09:25:11.507040
+Network Root total 656000 correct 199267 accuracy 30.38 time 2023-04-26 09:25:35.414226
+Network Root total 659200 correct 200242 accuracy 30.38 time 2023-04-26 09:25:59.327722
+Network Root total 662400 correct 201237 accuracy 30.38 time 2023-04-26 09:26:23.357263
+Network Root total 665600 correct 202189 accuracy 30.38 time 2023-04-26 09:26:47.373067
+Network Root total 668800 correct 203195 accuracy 30.38 time 2023-04-26 09:27:11.293685
+Network Root total 672000 correct 204144 accuracy 30.38 time 2023-04-26 09:27:35.232697
+Network Root total 675200 correct 205049 accuracy 30.37 time 2023-04-26 09:27:59.142792
+Network Root total 678400 correct 206018 accuracy 30.37 time 2023-04-26 09:28:23.052544
+Network Root total 681600 correct 207025 accuracy 30.37 time 2023-04-26 09:28:46.993366
+Network Root total 684800 correct 207985 accuracy 30.37 time 2023-04-26 09:29:10.925154
+Network Root total 688000 correct 208985 accuracy 30.38 time 2023-04-26 09:29:34.840496
+Network Root total 691200 correct 209967 accuracy 30.38 time 2023-04-26 09:29:58.780274
+Network Root total 694400 correct 210960 accuracy 30.38 time 2023-04-26 09:30:22.785790
+Network Root total 697600 correct 211934 accuracy 30.38 time 2023-04-26 09:30:46.865285
+Network Root total 700800 correct 212890 accuracy 30.38 time 2023-04-26 09:31:10.878480
+Network Root total 704000 correct 213881 accuracy 30.38 time 2023-04-26 09:31:34.812115
+Network Root total 707200 correct 214857 accuracy 30.38 time 2023-04-26 09:31:58.722131
+Network Root total 710400 correct 215830 accuracy 30.38 time 2023-04-26 09:32:22.618122
+Network Root total 713600 correct 216775 accuracy 30.38 time 2023-04-26 09:32:46.533737
+Network Root total 716800 correct 217737 accuracy 30.38 time 2023-04-26 09:33:10.447327
+Network Root total 720000 correct 218687 accuracy 30.37 time 2023-04-26 09:33:34.372538
+Network Root total 723200 correct 219659 accuracy 30.37 time 2023-04-26 09:33:58.331448
+Network Root total 726400 correct 220658 accuracy 30.38 time 2023-04-26 09:34:22.370613
+Network Root total 729600 correct 221621 accuracy 30.38 time 2023-04-26 09:34:46.426528
+Network Root total 732800 correct 222580 accuracy 30.37 time 2023-04-26 09:35:10.382588
+Network Root total 736000 correct 223546 accuracy 30.37 time 2023-04-26 09:35:34.306262
+Network Root total 739200 correct 224516 accuracy 30.37 time 2023-04-26 09:35:58.210941
+Network Root total 742400 correct 225449 accuracy 30.37 time 2023-04-26 09:36:22.106803
+Network Root total 745600 correct 226377 accuracy 30.36 time 2023-04-26 09:36:46.018466
+Network Root total 748800 correct 227371 accuracy 30.36 time 2023-04-26 09:37:09.925785
+Network Root total 752000 correct 228317 accuracy 30.36 time 2023-04-26 09:37:33.839058
+Network Root total 755200 correct 229276 accuracy 30.36 time 2023-04-26 09:37:57.747092
+Network Root total 758400 correct 230259 accuracy 30.36 time 2023-04-26 09:38:21.647514
+Network Root total 761600 correct 231246 accuracy 30.36 time 2023-04-26 09:38:45.571017
+Network Root total 764800 correct 232212 accuracy 30.36 time 2023-04-26 09:39:09.590032
+Network Root total 768000 correct 233246 accuracy 30.37 time 2023-04-26 09:39:33.533316
+Network Root total 771200 correct 234164 accuracy 30.36 time 2023-04-26 09:39:57.439666
+Network Root total 774400 correct 235119 accuracy 30.36 time 2023-04-26 09:40:21.360519
+Network Root total 777600 correct 236092 accuracy 30.36 time 2023-04-26 09:40:45.279489
+Network Root total 780800 correct 237074 accuracy 30.36 time 2023-04-26 09:41:09.209896
+Network Root total 784000 correct 238025 accuracy 30.36 time 2023-04-26 09:41:33.273664
+Network Root total 787200 correct 239030 accuracy 30.36 time 2023-04-26 09:41:57.260465
+Network Root total 790400 correct 239970 accuracy 30.36 time 2023-04-26 09:42:21.207288
+Network Root total 793600 correct 240951 accuracy 30.36 time 2023-04-26 09:42:45.230286
+Network Root total 796800 correct 241870 accuracy 30.36 time 2023-04-26 09:43:09.562732
+Network Root total 800000 correct 242900 accuracy 30.36 time 2023-04-26 09:43:33.564993
+Network Root total 803200 correct 243900 accuracy 30.37 time 2023-04-26 09:43:57.507342
+Network Root total 806400 correct 244845 accuracy 30.36 time 2023-04-26 09:44:21.401144
+Network Root total 809600 correct 245807 accuracy 30.36 time 2023-04-26 09:44:45.285985
+Network Root total 812800 correct 246752 accuracy 30.36 time 2023-04-26 09:45:09.196351
+Network Root total 816000 correct 247728 accuracy 30.36 time 2023-04-26 09:45:33.103878
+Network Root total 819200 correct 248802 accuracy 30.37 time 2023-04-26 09:45:57.012815
+Network Root total 822400 correct 249767 accuracy 30.37 time 2023-04-26 09:46:20.924163
+Network Root total 825600 correct 250745 accuracy 30.37 time 2023-04-26 09:46:44.845056
+Network Root total 828800 correct 251748 accuracy 30.38 time 2023-04-26 09:47:08.838838
+Network Root total 832000 correct 252715 accuracy 30.37 time 2023-04-26 09:47:33.097088
+Network Root total 835200 correct 253728 accuracy 30.38 time 2023-04-26 09:47:57.091391
+Network Root total 838400 correct 254686 accuracy 30.38 time 2023-04-26 09:48:21.033321
+Network Root total 841600 correct 255674 accuracy 30.38 time 2023-04-26 09:48:45.038731
+Network Root total 844800 correct 256618 accuracy 30.38 time 2023-04-26 09:49:08.988377
+Network Root total 848000 correct 257602 accuracy 30.38 time 2023-04-26 09:49:32.914484
+Network Root total 851200 correct 258568 accuracy 30.38 time 2023-04-26 09:49:57.225914
+Network Root total 854400 correct 259515 accuracy 30.37 time 2023-04-26 09:50:21.213688
+Network Root total 857600 correct 260465 accuracy 30.37 time 2023-04-26 09:50:45.297022
+Network Root total 860800 correct 261413 accuracy 30.37 time 2023-04-26 09:51:09.259314
+Network Root total 864000 correct 262426 accuracy 30.37 time 2023-04-26 09:51:33.495015
+Network Root total 867200 correct 263416 accuracy 30.38 time 2023-04-26 09:51:57.497480
+Network Root total 870400 correct 264416 accuracy 30.38 time 2023-04-26 09:52:21.454062
+Network Root total 873600 correct 265367 accuracy 30.38 time 2023-04-26 09:52:45.447038
+Network Root total 876800 correct 266333 accuracy 30.38 time 2023-04-26 09:53:09.433005
+Network Root total 880000 correct 267281 accuracy 30.37 time 2023-04-26 09:53:33.513920
+Network Root total 883200 correct 268261 accuracy 30.37 time 2023-04-26 09:53:57.554944
+Network Root total 886400 correct 269313 accuracy 30.38 time 2023-04-26 09:54:21.539034
+Network Root total 889600 correct 270262 accuracy 30.38 time 2023-04-26 09:54:45.464877
+Network Root total 892800 correct 271196 accuracy 30.38 time 2023-04-26 09:55:09.391269
+Network Root total 896000 correct 272180 accuracy 30.38 time 2023-04-26 09:55:33.333165
+Network Root total 899200 correct 273148 accuracy 30.38 time 2023-04-26 09:55:57.280220
+Network Root total 902400 correct 274130 accuracy 30.38 time 2023-04-26 09:56:21.197193
+Network Root total 905600 correct 275089 accuracy 30.38 time 2023-04-26 09:56:45.097242
+Network Root total 908800 correct 276106 accuracy 30.38 time 2023-04-26 09:57:08.998402
+Network Root total 912000 correct 277049 accuracy 30.38 time 2023-04-26 09:57:32.942425
+Network Root total 915200 correct 278063 accuracy 30.38 time 2023-04-26 09:57:56.837834
+Network Root total 918400 correct 279028 accuracy 30.38 time 2023-04-26 09:58:20.927062
+Network Root total 921600 correct 280007 accuracy 30.38 time 2023-04-26 09:58:44.898277
+Network Root total 924800 correct 280936 accuracy 30.38 time 2023-04-26 09:59:08.890471
+Network Root total 928000 correct 281941 accuracy 30.38 time 2023-04-26 09:59:32.933890
+Network Root total 931200 correct 282907 accuracy 30.38 time 2023-04-26 09:59:56.916930
+Network Root total 934400 correct 283870 accuracy 30.38 time 2023-04-26 10:00:20.856473
+Network Root total 937600 correct 284822 accuracy 30.38 time 2023-04-26 10:00:44.816537
+Network Root total 940800 correct 285796 accuracy 30.38 time 2023-04-26 10:01:08.775273
+Network Root total 944000 correct 286781 accuracy 30.38 time 2023-04-26 10:01:32.791597
+Network Root total 947200 correct 287755 accuracy 30.38 time 2023-04-26 10:01:56.749252
+Network Root total 950400 correct 288696 accuracy 30.38 time 2023-04-26 10:02:20.785841
+Network Root total 953600 correct 289705 accuracy 30.38 time 2023-04-26 10:02:44.741387
+Network Root total 956800 correct 290693 accuracy 30.38 time 2023-04-26 10:03:08.710397
+Network Root total 960000 correct 291650 accuracy 30.38 time 2023-04-26 10:03:32.654327
+Network Root total 963200 correct 292656 accuracy 30.38 time 2023-04-26 10:03:56.611278
+Network Root total 966400 correct 293622 accuracy 30.38 time 2023-04-26 10:04:20.563418
+Network Root total 969600 correct 294623 accuracy 30.39 time 2023-04-26 10:04:44.543822
+Network Root total 972800 correct 295569 accuracy 30.38 time 2023-04-26 10:05:08.581622
+Network Root total 976000 correct 296526 accuracy 30.38 time 2023-04-26 10:05:32.607045
+Network Root total 979200 correct 297494 accuracy 30.38 time 2023-04-26 10:05:56.629154
+Network Root total 982400 correct 298515 accuracy 30.39 time 2023-04-26 10:06:20.642389
+Network Root total 985600 correct 299486 accuracy 30.39 time 2023-04-26 10:06:44.618177
+Network Root total 988800 correct 300454 accuracy 30.39 time 2023-04-26 10:07:08.549618
+Network Root total 992000 correct 301431 accuracy 30.39 time 2023-04-26 10:07:32.494611
+Network Root total 995200 correct 302426 accuracy 30.39 time 2023-04-26 10:07:56.795352
+Network Root total 998400 correct 303409 accuracy 30.39 time 2023-04-26 10:08:20.822895
+Network Root total 1001600 correct 304409 accuracy 30.39 time 2023-04-26 10:08:44.854111
+Network Root total 1004800 correct 305379 accuracy 30.39 time 2023-04-26 10:09:09.239419
+Network Root total 1008000 correct 306384 accuracy 30.40 time 2023-04-26 10:09:33.392254
+Network Root total 1011200 correct 307393 accuracy 30.40 time 2023-04-26 10:09:57.435188
+Network Root total 1014400 correct 308415 accuracy 30.40 time 2023-04-26 10:10:21.496228
+Network Root total 1017600 correct 309423 accuracy 30.41 time 2023-04-26 10:10:45.447845
+Network Root total 1020800 correct 310412 accuracy 30.41 time 2023-04-26 10:11:09.396551
+Network Root total 1024000 correct 311406 accuracy 30.41 time 2023-04-26 10:11:33.359915
+Network Root total 1027200 correct 312429 accuracy 30.42 time 2023-04-26 10:11:57.298942
+Network Root total 1030400 correct 313386 accuracy 30.41 time 2023-04-26 10:12:21.281977
+Network Root total 1033600 correct 314360 accuracy 30.41 time 2023-04-26 10:12:45.288006
+Network Root total 1036800 correct 315272 accuracy 30.41 time 2023-04-26 10:13:09.305390
+Network Root total 1040000 correct 316219 accuracy 30.41 time 2023-04-26 10:13:33.293954
+Network Root total 1043200 correct 317203 accuracy 30.41 time 2023-04-26 10:13:57.324548
+Network Root total 1046400 correct 318186 accuracy 30.41 time 2023-04-26 10:14:21.390755
+Network Root total 1049600 correct 319114 accuracy 30.40 time 2023-04-26 10:14:45.361243
+Network Root total 1052800 correct 320130 accuracy 30.41 time 2023-04-26 10:15:09.304458
+Network Root total 1056000 correct 321090 accuracy 30.41 time 2023-04-26 10:15:33.214610
+Network Root total 1059200 correct 322071 accuracy 30.41 time 2023-04-26 10:15:57.115161
+Network Root total 1062400 correct 323015 accuracy 30.40 time 2023-04-26 10:16:21.051672
+Network Root total 1065600 correct 323977 accuracy 30.40 time 2023-04-26 10:16:44.942072
+Network Root total 1068800 correct 324933 accuracy 30.40 time 2023-04-26 10:17:08.869529
+Network Root total 1072000 correct 325899 accuracy 30.40 time 2023-04-26 10:17:32.771501
+Network Root total 1075200 correct 326886 accuracy 30.40 time 2023-04-26 10:17:56.728938
+Network Root total 1078400 correct 327823 accuracy 30.40 time 2023-04-26 10:18:20.650053
+Network Root total 1081600 correct 328808 accuracy 30.40 time 2023-04-26 10:18:44.606409
+Network Root total 1084800 correct 329753 accuracy 30.40 time 2023-04-26 10:19:08.581734
+Network Root total 1088000 correct 330718 accuracy 30.40 time 2023-04-26 10:19:32.580326
+Network Root total 1091200 correct 331680 accuracy 30.40 time 2023-04-26 10:19:56.524618
+Network Root total 1094400 correct 332649 accuracy 30.40 time 2023-04-26 10:20:20.421428
+Network Root total 1097600 correct 333648 accuracy 30.40 time 2023-04-26 10:20:44.296774
+Network Root total 1100800 correct 334584 accuracy 30.39 time 2023-04-26 10:21:08.310815
+Network Root total 1104000 correct 335567 accuracy 30.40 time 2023-04-26 10:21:32.294373
+Network Root total 1107200 correct 336544 accuracy 30.40 time 2023-04-26 10:21:56.229561
+Network Root total 1110400 correct 337531 accuracy 30.40 time 2023-04-26 10:22:20.163205
+Network Root total 1113600 correct 338470 accuracy 30.39 time 2023-04-26 10:22:44.149232
+Network Root total 1116800 correct 339475 accuracy 30.40 time 2023-04-26 10:23:08.156633
+Network Root total 1120000 correct 340422 accuracy 30.39 time 2023-04-26 10:23:32.109821
+Network Root total 1123200 correct 341411 accuracy 30.40 time 2023-04-26 10:23:56.056420
+Network Root total 1126400 correct 342407 accuracy 30.40 time 2023-04-26 10:24:20.076684
+Network Root total 1129600 correct 343400 accuracy 30.40 time 2023-04-26 10:24:44.068733
+Network Root total 1132800 correct 344342 accuracy 30.40 time 2023-04-26 10:25:08.338409
+Network Root total 1136000 correct 345357 accuracy 30.40 time 2023-04-26 10:25:32.447569
+Network Root total 1139200 correct 346309 accuracy 30.40 time 2023-04-26 10:25:56.417189
+Network Root total 1142400 correct 347302 accuracy 30.40 time 2023-04-26 10:26:20.346495
+Network Root total 1145600 correct 348274 accuracy 30.40 time 2023-04-26 10:26:44.293660
+Network Root total 1148800 correct 349239 accuracy 30.40 time 2023-04-26 10:27:08.234406
+Network Root total 1152000 correct 350206 accuracy 30.40 time 2023-04-26 10:27:32.187294
+Network Root total 1155200 correct 351163 accuracy 30.40 time 2023-04-26 10:27:56.109353
+Network Root total 1158400 correct 352118 accuracy 30.40 time 2023-04-26 10:28:20.043169
+Network Root total 1161600 correct 353114 accuracy 30.40 time 2023-04-26 10:28:43.981062
+Network Root total 1164800 correct 354098 accuracy 30.40 time 2023-04-26 10:29:08.109767
+Network Root total 1168000 correct 355085 accuracy 30.40 time 2023-04-26 10:29:32.098839
+Network Root total 1171200 correct 356022 accuracy 30.40 time 2023-04-26 10:29:56.012700
+Network Root total 1174400 correct 356997 accuracy 30.40 time 2023-04-26 10:30:20.079852
+Network Root total 1177600 correct 357975 accuracy 30.40 time 2023-04-26 10:30:43.999774
+Network Root total 1180800 correct 358936 accuracy 30.40 time 2023-04-26 10:31:07.907910
+Network Root total 1184000 correct 359953 accuracy 30.40 time 2023-04-26 10:31:31.814245
+Network Root total 1187200 correct 360929 accuracy 30.40 time 2023-04-26 10:31:55.689569
+Network Root total 1190400 correct 361917 accuracy 30.40 time 2023-04-26 10:32:19.607213
+Network Root total 1193600 correct 362900 accuracy 30.40 time 2023-04-26 10:32:43.529909
+Network Root total 1196800 correct 363901 accuracy 30.41 time 2023-04-26 10:33:07.443655
+Network Root total 1200000 correct 364868 accuracy 30.41 time 2023-04-26 10:33:31.338579
+Network Root total 1203200 correct 365853 accuracy 30.41 time 2023-04-26 10:33:55.584566/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+
+Network Root total 1206400 correct 366775 accuracy 30.40 time 2023-04-26 10:34:19.734884
+Network Root total 1209600 correct 367719 accuracy 30.40 time 2023-04-26 10:34:43.730657
+Network Root total 1212800 correct 368695 accuracy 30.40 time 2023-04-26 10:35:07.660529
+Network Root total 1216000 correct 369635 accuracy 30.40 time 2023-04-26 10:35:31.611448
+Network Root total 1219200 correct 370620 accuracy 30.40 time 2023-04-26 10:35:55.558497
+Network Root total 1222400 correct 371602 accuracy 30.40 time 2023-04-26 10:36:19.474726
+Network Root total 1225600 correct 372579 accuracy 30.40 time 2023-04-26 10:36:43.379358
+Network Root total 1228800 correct 373562 accuracy 30.40 time 2023-04-26 10:37:07.274874
+Network Root total 1232000 correct 374542 accuracy 30.40 time 2023-04-26 10:37:31.148891
+Network Root total 1235200 correct 375518 accuracy 30.40 time 2023-04-26 10:37:55.056237
+Network Root total 1238400 correct 376508 accuracy 30.40 time 2023-04-26 10:38:19.046695
+Network Root total 1241600 correct 377456 accuracy 30.40 time 2023-04-26 10:38:43.069499
+Network Root total 1244800 correct 378420 accuracy 30.40 time 2023-04-26 10:39:07.278463
+Network Root total 1248000 correct 379393 accuracy 30.40 time 2023-04-26 10:39:31.780813
+Network Root total 1251200 correct 380360 accuracy 30.40 time 2023-04-26 10:39:56.303695
+Network Root total 1254400 correct 381292 accuracy 30.40 time 2023-04-26 10:40:20.684202
+Network Root total 1257600 correct 382232 accuracy 30.39 time 2023-04-26 10:40:45.084566
+Network Root total 1260800 correct 383199 accuracy 30.39 time 2023-04-26 10:41:09.348394
+Network Root total 1264000 correct 384174 accuracy 30.39 time 2023-04-26 10:41:33.545214
+Network Root total 1267200 correct 385188 accuracy 30.40 time 2023-04-26 10:41:57.675554
+Network Root total 1270400 correct 386136 accuracy 30.39 time 2023-04-26 10:42:21.901288
+Network Root total 1273600 correct 387119 accuracy 30.40 time 2023-04-26 10:42:46.000532
+Network Root total 1276800 correct 388097 accuracy 30.40 time 2023-04-26 10:43:10.026632
+Network Root total 1280000 correct 389037 accuracy 30.39 time 2023-04-26 10:43:34.130455
+Root trainset accuracy: 30.39%  time 2023-04-26 10:43:43.295622

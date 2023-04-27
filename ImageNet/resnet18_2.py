@@ -7,7 +7,7 @@ from torchvision.models import resnet18
 
 # Replace 'your_train_dataset_path' and 'your_val_dataset_path' with the actual paths
 train_dataset_path = '/mnt/imagenet/ILSVRC2012_img_train_extracted'
-val_dataset_path = '/mnt/imagenet/ILSVRC2012_img_val'
+val_dataset_path = '/mnt/imagenet/ILSVRC2012_img_val_extracted'
 
 # Define transforms for the dataset
 transform = transforms.Compose(
@@ -61,11 +61,11 @@ for epoch in range(10):
         optimizer.step()
         running_loss += loss.item()
 
-        if (i+1) % 1000 == 0:
+        if (i+1) % 10 == 0:
             current_time = datetime.now()
             progress = (i+1) / total_iterations * 100
             print(current_time)
-            print('epoch [%d], iteration [%d], progress: %.2f%%, loss: %.3f' % (epoch + 1, i + 1, progress, running_loss / 1000))
+            print('epoch [%d], iteration [%d], progress: %.2f%%, loss: %.3f' % (epoch + 1, i + 1, progress, running_loss / 10))
             running_loss = 0.0
 
 
