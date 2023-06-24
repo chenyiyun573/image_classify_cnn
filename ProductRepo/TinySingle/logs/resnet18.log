@@ -1,0 +1,34 @@
+nohup: ignoring input
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+Epoch 1, Time: 51.61s, Train Loss: 2.8795, Train Accuracy: 33.34%, Test Loss: 2.5709, Test Accuracy: 38.67%
+Epoch 2, Time: 103.05s, Train Loss: 2.1350, Train Accuracy: 47.15%, Test Loss: 2.4917, Test Accuracy: 41.69%
+Epoch 3, Time: 154.49s, Train Loss: 1.8438, Train Accuracy: 53.27%, Test Loss: 2.2854, Test Accuracy: 45.36%
+Epoch 4, Time: 205.96s, Train Loss: 1.6262, Train Accuracy: 57.95%, Test Loss: 2.3378, Test Accuracy: 45.44%
+Epoch 5, Time: 257.45s, Train Loss: 1.4391, Train Accuracy: 62.15%, Test Loss: 2.2322, Test Accuracy: 47.79%
+Epoch 6, Time: 308.91s, Train Loss: 1.2777, Train Accuracy: 65.69%, Test Loss: 2.2223, Test Accuracy: 48.57%
+Epoch 7, Time: 360.38s, Train Loss: 1.1335, Train Accuracy: 69.03%, Test Loss: 2.2918, Test Accuracy: 48.52%
+Epoch 8, Time: 411.81s, Train Loss: 0.9934, Train Accuracy: 72.41%, Test Loss: 2.3689, Test Accuracy: 47.98%
+Epoch 9, Time: 463.36s, Train Loss: 0.8753, Train Accuracy: 75.29%, Test Loss: 2.4705, Test Accuracy: 47.10%
+Epoch 10, Time: 514.95s, Train Loss: 0.7576, Train Accuracy: 78.19%, Test Loss: 2.4889, Test Accuracy: 48.99%
+Epoch 11, Time: 566.47s, Train Loss: 0.6549, Train Accuracy: 80.95%, Test Loss: 2.6583, Test Accuracy: 47.14%
+Epoch 12, Time: 617.99s, Train Loss: 0.5755, Train Accuracy: 83.02%, Test Loss: 2.6417, Test Accuracy: 48.56%
+Epoch 13, Time: 669.45s, Train Loss: 0.4937, Train Accuracy: 85.21%, Test Loss: 2.7295, Test Accuracy: 48.53%
+Epoch 14, Time: 720.96s, Train Loss: 0.4408, Train Accuracy: 86.62%, Test Loss: 2.8039, Test Accuracy: 49.07%
+Epoch 15, Time: 772.51s, Train Loss: 0.3888, Train Accuracy: 88.21%, Test Loss: 2.9707, Test Accuracy: 46.60%
+Epoch 16, Time: 824.00s, Train Loss: 0.3595, Train Accuracy: 89.01%, Test Loss: 2.9671, Test Accuracy: 47.90%
+Epoch 17, Time: 875.51s, Train Loss: 0.3315, Train Accuracy: 89.79%, Test Loss: 3.0712, Test Accuracy: 47.98%
+Epoch 18, Time: 926.93s, Train Loss: 0.3071, Train Accuracy: 90.54%, Test Loss: 3.0530, Test Accuracy: 48.38%
+Epoch 19, Time: 978.46s, Train Loss: 0.2769, Train Accuracy: 91.44%, Test Loss: 3.0963, Test Accuracy: 48.59%
+Epoch 20, Time: 1029.95s, Train Loss: 0.2547, Train Accuracy: 92.02%, Test Loss: 3.2653, Test Accuracy: 47.23%
+Epoch 21, Time: 1081.46s, Train Loss: 0.2382, Train Accuracy: 92.61%, Test Loss: 3.2947, Test Accuracy: 47.12%
+Epoch 22, Time: 1132.91s, Train Loss: 0.2337, Train Accuracy: 92.60%, Test Loss: 3.2574, Test Accuracy: 48.34%
+Epoch 23, Time: 1184.33s, Train Loss: 0.2215, Train Accuracy: 92.98%, Test Loss: 3.2914, Test Accuracy: 48.18%
+Epoch 24, Time: 1235.79s, Train Loss: 0.2205, Train Accuracy: 93.04%, Test Loss: 3.4556, Test Accuracy: 47.44%
+Epoch 25, Time: 1287.21s, Train Loss: 0.2046, Train Accuracy: 93.55%, Test Loss: 3.3908, Test Accuracy: 48.34%
+Epoch 26, Time: 1338.69s, Train Loss: 0.1984, Train Accuracy: 93.80%, Test Loss: 3.4740, Test Accuracy: 47.35%
+Epoch 27, Time: 1390.19s, Train Loss: 0.1857, Train Accuracy: 94.11%, Test Loss: 3.4705, Test Accuracy: 48.09%
+Epoch 28, Time: 1441.63s, Train Loss: 0.1889, Train Accuracy: 94.10%, Test Loss: 3.5938, Test Accuracy: 47.11%
+Epoch 29, Time: 1493.08s, Train Loss: 0.1861, Train Accuracy: 94.14%, Test Loss: 3.5953, Test Accuracy: 47.55%
+Epoch 30, Time: 1544.54s, Train Loss: 0.1736, Train Accuracy: 94.61%, Test Loss: 3.5687, Test Accuracy: 48.06%
+Total training time: 1544.54s

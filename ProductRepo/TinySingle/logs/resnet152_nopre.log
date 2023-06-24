@@ -1,0 +1,14 @@
+nohup: ignoring input
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+Epoch 1, Time: 80.38s, Train Loss: 5.2499, Train Accuracy: 1.43%, Test Loss: 4.9503, Test Accuracy: 3.00%
+Epoch 2, Time: 161.01s, Train Loss: 4.7523, Train Accuracy: 4.39%, Test Loss: 4.5257, Test Accuracy: 6.21%
+Epoch 3, Time: 241.29s, Train Loss: 4.3330, Train Accuracy: 8.70%, Test Loss: 4.1624, Test Accuracy: 11.36%
+Epoch 4, Time: 321.38s, Train Loss: 3.8850, Train Accuracy: 15.06%, Test Loss: 3.8193, Test Accuracy: 16.68%
+Epoch 5, Time: 401.32s, Train Loss: 3.5470, Train Accuracy: 20.47%, Test Loss: 3.8766, Test Accuracy: 18.09%
+Epoch 6, Time: 481.45s, Train Loss: 3.3009, Train Accuracy: 24.62%, Test Loss: 3.3156, Test Accuracy: 24.23%
+Epoch 7, Time: 561.40s, Train Loss: 3.0720, Train Accuracy: 28.45%, Test Loss: 3.3065, Test Accuracy: 25.12%
+Epoch 8, Time: 641.37s, Train Loss: 2.8871, Train Accuracy: 32.03%, Test Loss: 3.1303, Test Accuracy: 29.32%
+Epoch 9, Time: 721.28s, Train Loss: 2.7110, Train Accuracy: 35.54%, Test Loss: 2.9948, Test Accuracy: 31.61%
+Epoch 10, Time: 801.21s, Train Loss: 2.5563, Train Accuracy: 38.23%, Test Loss: 3.2540, Test Accuracy: 31.31%
+Total training time: 801.21s

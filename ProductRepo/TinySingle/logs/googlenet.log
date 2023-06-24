@@ -1,0 +1,16 @@
+nohup: ignoring input
+Downloading: "https://download.pytorch.org/models/googlenet-1378be20.pth" to /home/superbench/.cache/torch/hub/checkpoints/googlenet-1378be20.pth
+  0%|          | 0.00/49.7M [00:00<?, ?B/s] 17%|█▋        | 8.23M/49.7M [00:00<00:00, 86.0MB/s] 33%|███▎      | 16.4M/49.7M [00:00<00:00, 66.6MB/s] 48%|████▊     | 24.1M/49.7M [00:00<00:00, 72.0MB/s] 65%|██████▌   | 32.4M/49.7M [00:00<00:00, 77.4MB/s] 81%|████████  | 40.0M/49.7M [00:00<00:00, 78.1MB/s] 97%|█████████▋| 48.1M/49.7M [00:00<00:00, 80.1MB/s]100%|██████████| 49.7M/49.7M [00:00<00:00, 77.8MB/s]
+/home/superbench/v-yiyunchen/ytorch-venv/lib/python3.6/site-packages/torch/nn/functional.py:718: UserWarning: Named tensors and all their associated APIs are an experimental feature and subject to change. Please do not use them for anything important until they are released as stable. (Triggered internally at  /pytorch/c10/core/TensorImpl.h:1156.)
+  return torch.max_pool2d(input, kernel_size, stride, padding, dilation, ceil_mode)
+Epoch 1, Time: 56.75s, Train Loss: 2.9571, Train Accuracy: 32.37%, Test Loss: 2.4100, Test Accuracy: 41.58%
+Epoch 2, Time: 113.43s, Train Loss: 2.0723, Train Accuracy: 48.65%, Test Loss: 2.1689, Test Accuracy: 47.03%
+Epoch 3, Time: 170.11s, Train Loss: 1.7922, Train Accuracy: 54.50%, Test Loss: 2.1296, Test Accuracy: 48.52%
+Epoch 4, Time: 226.79s, Train Loss: 1.5984, Train Accuracy: 58.65%, Test Loss: 2.0450, Test Accuracy: 50.48%
+Epoch 5, Time: 283.53s, Train Loss: 1.4482, Train Accuracy: 62.25%, Test Loss: 2.0059, Test Accuracy: 51.54%
+Epoch 6, Time: 340.27s, Train Loss: 1.3170, Train Accuracy: 65.17%, Test Loss: 2.0224, Test Accuracy: 51.51%
+Epoch 7, Time: 396.97s, Train Loss: 1.2015, Train Accuracy: 67.68%, Test Loss: 2.0299, Test Accuracy: 52.38%
+Epoch 8, Time: 453.66s, Train Loss: 1.1121, Train Accuracy: 69.66%, Test Loss: 2.0416, Test Accuracy: 52.70%
+Epoch 9, Time: 510.32s, Train Loss: 1.0270, Train Accuracy: 71.64%, Test Loss: 2.0851, Test Accuracy: 52.52%
+Epoch 10, Time: 567.01s, Train Loss: 0.9363, Train Accuracy: 73.81%, Test Loss: 2.1653, Test Accuracy: 52.14%
+Total training time: 567.01s
